@@ -120,6 +120,7 @@ object setUp {
         custom.write("\t else{ \n")
         custom.write("\t\tdocument.getElementById(\"" + g.toString + "\").style.background = \"#0f99e3\";\n")
         custom.write("\t\tcustom[0][w_" + g.toString + "][h_" + g.toString + "] = DEAD;\n")
+        custom.write("\t\tgrid_" + g.toString + " = DEAD;\n")
         custom.write("\t}\n}\n")
         g += 1
       }

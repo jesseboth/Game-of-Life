@@ -1111,6 +1111,7 @@ function _1() {
 	 else{ 
 		document.getElementById("1").style.background = "#0f99e3";
 		custom[0][w_1][h_1] = DEAD;
+		grid_1 = DEAD;
 	}
 }
 var grid_2 = DEAD;
@@ -1125,6 +1126,7 @@ function _2() {
 	 else{ 
 		document.getElementById("2").style.background = "#0f99e3";
 		custom[0][w_2][h_2] = DEAD;
+		grid_2 = DEAD;
 	}
 }
 var grid_3 = DEAD;
@@ -1139,6 +1141,7 @@ function _3() {
 	 else{ 
 		document.getElementById("3").style.background = "#0f99e3";
 		custom[0][w_3][h_3] = DEAD;
+		grid_3 = DEAD;
 	}
 }
 var grid_4 = DEAD;
@@ -1153,6 +1156,7 @@ function _4() {
 	 else{ 
 		document.getElementById("4").style.background = "#0f99e3";
 		custom[0][w_4][h_4] = DEAD;
+		grid_4 = DEAD;
 	}
 }
 var grid_5 = DEAD;
@@ -1167,6 +1171,7 @@ function _5() {
 	 else{ 
 		document.getElementById("5").style.background = "#0f99e3";
 		custom[0][w_5][h_5] = DEAD;
+		grid_5 = DEAD;
 	}
 }
 var grid_6 = DEAD;
@@ -1181,6 +1186,7 @@ function _6() {
 	 else{ 
 		document.getElementById("6").style.background = "#0f99e3";
 		custom[0][w_6][h_6] = DEAD;
+		grid_6 = DEAD;
 	}
 }
 var grid_7 = DEAD;
@@ -1195,6 +1201,7 @@ function _7() {
 	 else{ 
 		document.getElementById("7").style.background = "#0f99e3";
 		custom[0][w_7][h_7] = DEAD;
+		grid_7 = DEAD;
 	}
 }
 var grid_8 = DEAD;
@@ -1209,6 +1216,7 @@ function _8() {
 	 else{ 
 		document.getElementById("8").style.background = "#0f99e3";
 		custom[0][w_8][h_8] = DEAD;
+		grid_8 = DEAD;
 	}
 }
 var grid_9 = DEAD;
@@ -1223,6 +1231,7 @@ function _9() {
 	 else{ 
 		document.getElementById("9").style.background = "#0f99e3";
 		custom[0][w_9][h_9] = DEAD;
+		grid_9 = DEAD;
 	}
 }
 var grid_10 = DEAD;
@@ -1237,6 +1246,7 @@ function _10() {
 	 else{ 
 		document.getElementById("10").style.background = "#0f99e3";
 		custom[0][w_10][h_10] = DEAD;
+		grid_10 = DEAD;
 	}
 }
 var grid_11 = DEAD;
@@ -1251,6 +1261,7 @@ function _11() {
 	 else{ 
 		document.getElementById("11").style.background = "#0f99e3";
 		custom[0][w_11][h_11] = DEAD;
+		grid_11 = DEAD;
 	}
 }
 var grid_12 = DEAD;
@@ -1265,6 +1276,7 @@ function _12() {
 	 else{ 
 		document.getElementById("12").style.background = "#0f99e3";
 		custom[0][w_12][h_12] = DEAD;
+		grid_12 = DEAD;
 	}
 }
 var grid_13 = DEAD;
@@ -1279,6 +1291,7 @@ function _13() {
 	 else{ 
 		document.getElementById("13").style.background = "#0f99e3";
 		custom[0][w_13][h_13] = DEAD;
+		grid_13 = DEAD;
 	}
 }
 var grid_14 = DEAD;
@@ -1293,6 +1306,7 @@ function _14() {
 	 else{ 
 		document.getElementById("14").style.background = "#0f99e3";
 		custom[0][w_14][h_14] = DEAD;
+		grid_14 = DEAD;
 	}
 }
 var grid_15 = DEAD;
@@ -1307,6 +1321,7 @@ function _15() {
 	 else{ 
 		document.getElementById("15").style.background = "#0f99e3";
 		custom[0][w_15][h_15] = DEAD;
+		grid_15 = DEAD;
 	}
 }
 var grid_16 = DEAD;
@@ -1321,6 +1336,7 @@ function _16() {
 	 else{ 
 		document.getElementById("16").style.background = "#0f99e3";
 		custom[0][w_16][h_16] = DEAD;
+		grid_16 = DEAD;
 	}
 }
 var grid_17 = DEAD;
@@ -1335,6 +1351,7 @@ function _17() {
 	 else{ 
 		document.getElementById("17").style.background = "#0f99e3";
 		custom[0][w_17][h_17] = DEAD;
+		grid_17 = DEAD;
 	}
 }
 var grid_18 = DEAD;
@@ -1349,6 +1366,7 @@ function _18() {
 	 else{ 
 		document.getElementById("18").style.background = "#0f99e3";
 		custom[0][w_18][h_18] = DEAD;
+		grid_18 = DEAD;
 	}
 }
 var grid_19 = DEAD;
@@ -1363,6 +1381,7 @@ function _19() {
 	 else{ 
 		document.getElementById("19").style.background = "#0f99e3";
 		custom[0][w_19][h_19] = DEAD;
+		grid_19 = DEAD;
 	}
 }
 var grid_20 = DEAD;
@@ -1377,6 +1396,7 @@ function _20() {
 	 else{ 
 		document.getElementById("20").style.background = "#0f99e3";
 		custom[0][w_20][h_20] = DEAD;
+		grid_20 = DEAD;
 	}
 }
 var grid_21 = DEAD;
@@ -1391,6 +1411,7 @@ function _21() {
 	 else{ 
 		document.getElementById("21").style.background = "#0f99e3";
 		custom[0][w_21][h_21] = DEAD;
+		grid_21 = DEAD;
 	}
 }
 var grid_22 = DEAD;
@@ -1405,6 +1426,7 @@ function _22() {
 	 else{ 
 		document.getElementById("22").style.background = "#0f99e3";
 		custom[0][w_22][h_22] = DEAD;
+		grid_22 = DEAD;
 	}
 }
 var grid_23 = DEAD;
@@ -1419,6 +1441,7 @@ function _23() {
 	 else{ 
 		document.getElementById("23").style.background = "#0f99e3";
 		custom[0][w_23][h_23] = DEAD;
+		grid_23 = DEAD;
 	}
 }
 var grid_24 = DEAD;
@@ -1433,6 +1456,7 @@ function _24() {
 	 else{ 
 		document.getElementById("24").style.background = "#0f99e3";
 		custom[0][w_24][h_24] = DEAD;
+		grid_24 = DEAD;
 	}
 }
 var grid_25 = DEAD;
@@ -1447,6 +1471,7 @@ function _25() {
 	 else{ 
 		document.getElementById("25").style.background = "#0f99e3";
 		custom[0][w_25][h_25] = DEAD;
+		grid_25 = DEAD;
 	}
 }
 var grid_26 = DEAD;
@@ -1461,6 +1486,7 @@ function _26() {
 	 else{ 
 		document.getElementById("26").style.background = "#0f99e3";
 		custom[0][w_26][h_26] = DEAD;
+		grid_26 = DEAD;
 	}
 }
 var grid_27 = DEAD;
@@ -1475,6 +1501,7 @@ function _27() {
 	 else{ 
 		document.getElementById("27").style.background = "#0f99e3";
 		custom[0][w_27][h_27] = DEAD;
+		grid_27 = DEAD;
 	}
 }
 var grid_28 = DEAD;
@@ -1489,6 +1516,7 @@ function _28() {
 	 else{ 
 		document.getElementById("28").style.background = "#0f99e3";
 		custom[0][w_28][h_28] = DEAD;
+		grid_28 = DEAD;
 	}
 }
 var grid_29 = DEAD;
@@ -1503,6 +1531,7 @@ function _29() {
 	 else{ 
 		document.getElementById("29").style.background = "#0f99e3";
 		custom[0][w_29][h_29] = DEAD;
+		grid_29 = DEAD;
 	}
 }
 var grid_30 = DEAD;
@@ -1517,6 +1546,7 @@ function _30() {
 	 else{ 
 		document.getElementById("30").style.background = "#0f99e3";
 		custom[0][w_30][h_30] = DEAD;
+		grid_30 = DEAD;
 	}
 }
 var grid_31 = DEAD;
@@ -1531,6 +1561,7 @@ function _31() {
 	 else{ 
 		document.getElementById("31").style.background = "#0f99e3";
 		custom[0][w_31][h_31] = DEAD;
+		grid_31 = DEAD;
 	}
 }
 var grid_32 = DEAD;
@@ -1545,6 +1576,7 @@ function _32() {
 	 else{ 
 		document.getElementById("32").style.background = "#0f99e3";
 		custom[0][w_32][h_32] = DEAD;
+		grid_32 = DEAD;
 	}
 }
 var grid_33 = DEAD;
@@ -1559,6 +1591,7 @@ function _33() {
 	 else{ 
 		document.getElementById("33").style.background = "#0f99e3";
 		custom[0][w_33][h_33] = DEAD;
+		grid_33 = DEAD;
 	}
 }
 var grid_34 = DEAD;
@@ -1573,6 +1606,7 @@ function _34() {
 	 else{ 
 		document.getElementById("34").style.background = "#0f99e3";
 		custom[0][w_34][h_34] = DEAD;
+		grid_34 = DEAD;
 	}
 }
 var grid_35 = DEAD;
@@ -1587,6 +1621,7 @@ function _35() {
 	 else{ 
 		document.getElementById("35").style.background = "#0f99e3";
 		custom[0][w_35][h_35] = DEAD;
+		grid_35 = DEAD;
 	}
 }
 var grid_36 = DEAD;
@@ -1601,6 +1636,7 @@ function _36() {
 	 else{ 
 		document.getElementById("36").style.background = "#0f99e3";
 		custom[0][w_36][h_36] = DEAD;
+		grid_36 = DEAD;
 	}
 }
 var grid_37 = DEAD;
@@ -1615,6 +1651,7 @@ function _37() {
 	 else{ 
 		document.getElementById("37").style.background = "#0f99e3";
 		custom[0][w_37][h_37] = DEAD;
+		grid_37 = DEAD;
 	}
 }
 var grid_38 = DEAD;
@@ -1629,6 +1666,7 @@ function _38() {
 	 else{ 
 		document.getElementById("38").style.background = "#0f99e3";
 		custom[0][w_38][h_38] = DEAD;
+		grid_38 = DEAD;
 	}
 }
 var grid_39 = DEAD;
@@ -1643,6 +1681,7 @@ function _39() {
 	 else{ 
 		document.getElementById("39").style.background = "#0f99e3";
 		custom[0][w_39][h_39] = DEAD;
+		grid_39 = DEAD;
 	}
 }
 var grid_40 = DEAD;
@@ -1657,6 +1696,7 @@ function _40() {
 	 else{ 
 		document.getElementById("40").style.background = "#0f99e3";
 		custom[0][w_40][h_40] = DEAD;
+		grid_40 = DEAD;
 	}
 }
 var grid_41 = DEAD;
@@ -1671,6 +1711,7 @@ function _41() {
 	 else{ 
 		document.getElementById("41").style.background = "#0f99e3";
 		custom[0][w_41][h_41] = DEAD;
+		grid_41 = DEAD;
 	}
 }
 var grid_42 = DEAD;
@@ -1685,6 +1726,7 @@ function _42() {
 	 else{ 
 		document.getElementById("42").style.background = "#0f99e3";
 		custom[0][w_42][h_42] = DEAD;
+		grid_42 = DEAD;
 	}
 }
 var grid_43 = DEAD;
@@ -1699,6 +1741,7 @@ function _43() {
 	 else{ 
 		document.getElementById("43").style.background = "#0f99e3";
 		custom[0][w_43][h_43] = DEAD;
+		grid_43 = DEAD;
 	}
 }
 var grid_44 = DEAD;
@@ -1713,6 +1756,7 @@ function _44() {
 	 else{ 
 		document.getElementById("44").style.background = "#0f99e3";
 		custom[0][w_44][h_44] = DEAD;
+		grid_44 = DEAD;
 	}
 }
 var grid_45 = DEAD;
@@ -1727,6 +1771,7 @@ function _45() {
 	 else{ 
 		document.getElementById("45").style.background = "#0f99e3";
 		custom[0][w_45][h_45] = DEAD;
+		grid_45 = DEAD;
 	}
 }
 var grid_46 = DEAD;
@@ -1741,6 +1786,7 @@ function _46() {
 	 else{ 
 		document.getElementById("46").style.background = "#0f99e3";
 		custom[0][w_46][h_46] = DEAD;
+		grid_46 = DEAD;
 	}
 }
 var grid_47 = DEAD;
@@ -1755,6 +1801,7 @@ function _47() {
 	 else{ 
 		document.getElementById("47").style.background = "#0f99e3";
 		custom[0][w_47][h_47] = DEAD;
+		grid_47 = DEAD;
 	}
 }
 var grid_48 = DEAD;
@@ -1769,6 +1816,7 @@ function _48() {
 	 else{ 
 		document.getElementById("48").style.background = "#0f99e3";
 		custom[0][w_48][h_48] = DEAD;
+		grid_48 = DEAD;
 	}
 }
 var grid_49 = DEAD;
@@ -1783,6 +1831,7 @@ function _49() {
 	 else{ 
 		document.getElementById("49").style.background = "#0f99e3";
 		custom[0][w_49][h_49] = DEAD;
+		grid_49 = DEAD;
 	}
 }
 var grid_50 = DEAD;
@@ -1797,6 +1846,7 @@ function _50() {
 	 else{ 
 		document.getElementById("50").style.background = "#0f99e3";
 		custom[0][w_50][h_50] = DEAD;
+		grid_50 = DEAD;
 	}
 }
 var grid_51 = DEAD;
@@ -1811,6 +1861,7 @@ function _51() {
 	 else{ 
 		document.getElementById("51").style.background = "#0f99e3";
 		custom[0][w_51][h_51] = DEAD;
+		grid_51 = DEAD;
 	}
 }
 var grid_52 = DEAD;
@@ -1825,6 +1876,7 @@ function _52() {
 	 else{ 
 		document.getElementById("52").style.background = "#0f99e3";
 		custom[0][w_52][h_52] = DEAD;
+		grid_52 = DEAD;
 	}
 }
 var grid_53 = DEAD;
@@ -1839,6 +1891,7 @@ function _53() {
 	 else{ 
 		document.getElementById("53").style.background = "#0f99e3";
 		custom[0][w_53][h_53] = DEAD;
+		grid_53 = DEAD;
 	}
 }
 var grid_54 = DEAD;
@@ -1853,6 +1906,7 @@ function _54() {
 	 else{ 
 		document.getElementById("54").style.background = "#0f99e3";
 		custom[0][w_54][h_54] = DEAD;
+		grid_54 = DEAD;
 	}
 }
 var grid_55 = DEAD;
@@ -1867,6 +1921,7 @@ function _55() {
 	 else{ 
 		document.getElementById("55").style.background = "#0f99e3";
 		custom[0][w_55][h_55] = DEAD;
+		grid_55 = DEAD;
 	}
 }
 var grid_56 = DEAD;
@@ -1881,6 +1936,7 @@ function _56() {
 	 else{ 
 		document.getElementById("56").style.background = "#0f99e3";
 		custom[0][w_56][h_56] = DEAD;
+		grid_56 = DEAD;
 	}
 }
 var grid_57 = DEAD;
@@ -1895,6 +1951,7 @@ function _57() {
 	 else{ 
 		document.getElementById("57").style.background = "#0f99e3";
 		custom[0][w_57][h_57] = DEAD;
+		grid_57 = DEAD;
 	}
 }
 var grid_58 = DEAD;
@@ -1909,6 +1966,7 @@ function _58() {
 	 else{ 
 		document.getElementById("58").style.background = "#0f99e3";
 		custom[0][w_58][h_58] = DEAD;
+		grid_58 = DEAD;
 	}
 }
 var grid_59 = DEAD;
@@ -1923,6 +1981,7 @@ function _59() {
 	 else{ 
 		document.getElementById("59").style.background = "#0f99e3";
 		custom[0][w_59][h_59] = DEAD;
+		grid_59 = DEAD;
 	}
 }
 var grid_60 = DEAD;
@@ -1937,6 +1996,7 @@ function _60() {
 	 else{ 
 		document.getElementById("60").style.background = "#0f99e3";
 		custom[0][w_60][h_60] = DEAD;
+		grid_60 = DEAD;
 	}
 }
 var grid_61 = DEAD;
@@ -1951,6 +2011,7 @@ function _61() {
 	 else{ 
 		document.getElementById("61").style.background = "#0f99e3";
 		custom[0][w_61][h_61] = DEAD;
+		grid_61 = DEAD;
 	}
 }
 var grid_62 = DEAD;
@@ -1965,6 +2026,7 @@ function _62() {
 	 else{ 
 		document.getElementById("62").style.background = "#0f99e3";
 		custom[0][w_62][h_62] = DEAD;
+		grid_62 = DEAD;
 	}
 }
 var grid_63 = DEAD;
@@ -1979,6 +2041,7 @@ function _63() {
 	 else{ 
 		document.getElementById("63").style.background = "#0f99e3";
 		custom[0][w_63][h_63] = DEAD;
+		grid_63 = DEAD;
 	}
 }
 var grid_64 = DEAD;
@@ -1993,6 +2056,7 @@ function _64() {
 	 else{ 
 		document.getElementById("64").style.background = "#0f99e3";
 		custom[0][w_64][h_64] = DEAD;
+		grid_64 = DEAD;
 	}
 }
 var grid_65 = DEAD;
@@ -2007,6 +2071,7 @@ function _65() {
 	 else{ 
 		document.getElementById("65").style.background = "#0f99e3";
 		custom[0][w_65][h_65] = DEAD;
+		grid_65 = DEAD;
 	}
 }
 var grid_66 = DEAD;
@@ -2021,6 +2086,7 @@ function _66() {
 	 else{ 
 		document.getElementById("66").style.background = "#0f99e3";
 		custom[0][w_66][h_66] = DEAD;
+		grid_66 = DEAD;
 	}
 }
 var grid_67 = DEAD;
@@ -2035,6 +2101,7 @@ function _67() {
 	 else{ 
 		document.getElementById("67").style.background = "#0f99e3";
 		custom[0][w_67][h_67] = DEAD;
+		grid_67 = DEAD;
 	}
 }
 var grid_68 = DEAD;
@@ -2049,6 +2116,7 @@ function _68() {
 	 else{ 
 		document.getElementById("68").style.background = "#0f99e3";
 		custom[0][w_68][h_68] = DEAD;
+		grid_68 = DEAD;
 	}
 }
 var grid_69 = DEAD;
@@ -2063,6 +2131,7 @@ function _69() {
 	 else{ 
 		document.getElementById("69").style.background = "#0f99e3";
 		custom[0][w_69][h_69] = DEAD;
+		grid_69 = DEAD;
 	}
 }
 var grid_70 = DEAD;
@@ -2077,6 +2146,7 @@ function _70() {
 	 else{ 
 		document.getElementById("70").style.background = "#0f99e3";
 		custom[0][w_70][h_70] = DEAD;
+		grid_70 = DEAD;
 	}
 }
 var grid_71 = DEAD;
@@ -2091,6 +2161,7 @@ function _71() {
 	 else{ 
 		document.getElementById("71").style.background = "#0f99e3";
 		custom[0][w_71][h_71] = DEAD;
+		grid_71 = DEAD;
 	}
 }
 var grid_72 = DEAD;
@@ -2105,6 +2176,7 @@ function _72() {
 	 else{ 
 		document.getElementById("72").style.background = "#0f99e3";
 		custom[0][w_72][h_72] = DEAD;
+		grid_72 = DEAD;
 	}
 }
 var grid_73 = DEAD;
@@ -2119,6 +2191,7 @@ function _73() {
 	 else{ 
 		document.getElementById("73").style.background = "#0f99e3";
 		custom[0][w_73][h_73] = DEAD;
+		grid_73 = DEAD;
 	}
 }
 var grid_74 = DEAD;
@@ -2133,6 +2206,7 @@ function _74() {
 	 else{ 
 		document.getElementById("74").style.background = "#0f99e3";
 		custom[0][w_74][h_74] = DEAD;
+		grid_74 = DEAD;
 	}
 }
 var grid_75 = DEAD;
@@ -2147,6 +2221,7 @@ function _75() {
 	 else{ 
 		document.getElementById("75").style.background = "#0f99e3";
 		custom[0][w_75][h_75] = DEAD;
+		grid_75 = DEAD;
 	}
 }
 var grid_76 = DEAD;
@@ -2161,6 +2236,7 @@ function _76() {
 	 else{ 
 		document.getElementById("76").style.background = "#0f99e3";
 		custom[0][w_76][h_76] = DEAD;
+		grid_76 = DEAD;
 	}
 }
 var grid_77 = DEAD;
@@ -2175,6 +2251,7 @@ function _77() {
 	 else{ 
 		document.getElementById("77").style.background = "#0f99e3";
 		custom[0][w_77][h_77] = DEAD;
+		grid_77 = DEAD;
 	}
 }
 var grid_78 = DEAD;
@@ -2189,6 +2266,7 @@ function _78() {
 	 else{ 
 		document.getElementById("78").style.background = "#0f99e3";
 		custom[0][w_78][h_78] = DEAD;
+		grid_78 = DEAD;
 	}
 }
 var grid_79 = DEAD;
@@ -2203,6 +2281,7 @@ function _79() {
 	 else{ 
 		document.getElementById("79").style.background = "#0f99e3";
 		custom[0][w_79][h_79] = DEAD;
+		grid_79 = DEAD;
 	}
 }
 var grid_80 = DEAD;
@@ -2217,6 +2296,7 @@ function _80() {
 	 else{ 
 		document.getElementById("80").style.background = "#0f99e3";
 		custom[0][w_80][h_80] = DEAD;
+		grid_80 = DEAD;
 	}
 }
 var grid_81 = DEAD;
@@ -2231,6 +2311,7 @@ function _81() {
 	 else{ 
 		document.getElementById("81").style.background = "#0f99e3";
 		custom[0][w_81][h_81] = DEAD;
+		grid_81 = DEAD;
 	}
 }
 var grid_82 = DEAD;
@@ -2245,6 +2326,7 @@ function _82() {
 	 else{ 
 		document.getElementById("82").style.background = "#0f99e3";
 		custom[0][w_82][h_82] = DEAD;
+		grid_82 = DEAD;
 	}
 }
 var grid_83 = DEAD;
@@ -2259,6 +2341,7 @@ function _83() {
 	 else{ 
 		document.getElementById("83").style.background = "#0f99e3";
 		custom[0][w_83][h_83] = DEAD;
+		grid_83 = DEAD;
 	}
 }
 var grid_84 = DEAD;
@@ -2273,6 +2356,7 @@ function _84() {
 	 else{ 
 		document.getElementById("84").style.background = "#0f99e3";
 		custom[0][w_84][h_84] = DEAD;
+		grid_84 = DEAD;
 	}
 }
 var grid_85 = DEAD;
@@ -2287,6 +2371,7 @@ function _85() {
 	 else{ 
 		document.getElementById("85").style.background = "#0f99e3";
 		custom[0][w_85][h_85] = DEAD;
+		grid_85 = DEAD;
 	}
 }
 var grid_86 = DEAD;
@@ -2301,6 +2386,7 @@ function _86() {
 	 else{ 
 		document.getElementById("86").style.background = "#0f99e3";
 		custom[0][w_86][h_86] = DEAD;
+		grid_86 = DEAD;
 	}
 }
 var grid_87 = DEAD;
@@ -2315,6 +2401,7 @@ function _87() {
 	 else{ 
 		document.getElementById("87").style.background = "#0f99e3";
 		custom[0][w_87][h_87] = DEAD;
+		grid_87 = DEAD;
 	}
 }
 var grid_88 = DEAD;
@@ -2329,6 +2416,7 @@ function _88() {
 	 else{ 
 		document.getElementById("88").style.background = "#0f99e3";
 		custom[0][w_88][h_88] = DEAD;
+		grid_88 = DEAD;
 	}
 }
 var grid_89 = DEAD;
@@ -2343,6 +2431,7 @@ function _89() {
 	 else{ 
 		document.getElementById("89").style.background = "#0f99e3";
 		custom[0][w_89][h_89] = DEAD;
+		grid_89 = DEAD;
 	}
 }
 var grid_90 = DEAD;
@@ -2357,6 +2446,7 @@ function _90() {
 	 else{ 
 		document.getElementById("90").style.background = "#0f99e3";
 		custom[0][w_90][h_90] = DEAD;
+		grid_90 = DEAD;
 	}
 }
 var grid_91 = DEAD;
@@ -2371,6 +2461,7 @@ function _91() {
 	 else{ 
 		document.getElementById("91").style.background = "#0f99e3";
 		custom[0][w_91][h_91] = DEAD;
+		grid_91 = DEAD;
 	}
 }
 var grid_92 = DEAD;
@@ -2385,6 +2476,7 @@ function _92() {
 	 else{ 
 		document.getElementById("92").style.background = "#0f99e3";
 		custom[0][w_92][h_92] = DEAD;
+		grid_92 = DEAD;
 	}
 }
 var grid_93 = DEAD;
@@ -2399,6 +2491,7 @@ function _93() {
 	 else{ 
 		document.getElementById("93").style.background = "#0f99e3";
 		custom[0][w_93][h_93] = DEAD;
+		grid_93 = DEAD;
 	}
 }
 var grid_94 = DEAD;
@@ -2413,6 +2506,7 @@ function _94() {
 	 else{ 
 		document.getElementById("94").style.background = "#0f99e3";
 		custom[0][w_94][h_94] = DEAD;
+		grid_94 = DEAD;
 	}
 }
 var grid_95 = DEAD;
@@ -2427,6 +2521,7 @@ function _95() {
 	 else{ 
 		document.getElementById("95").style.background = "#0f99e3";
 		custom[0][w_95][h_95] = DEAD;
+		grid_95 = DEAD;
 	}
 }
 var grid_96 = DEAD;
@@ -2441,6 +2536,7 @@ function _96() {
 	 else{ 
 		document.getElementById("96").style.background = "#0f99e3";
 		custom[0][w_96][h_96] = DEAD;
+		grid_96 = DEAD;
 	}
 }
 var grid_97 = DEAD;
@@ -2455,6 +2551,7 @@ function _97() {
 	 else{ 
 		document.getElementById("97").style.background = "#0f99e3";
 		custom[0][w_97][h_97] = DEAD;
+		grid_97 = DEAD;
 	}
 }
 var grid_98 = DEAD;
@@ -2469,6 +2566,7 @@ function _98() {
 	 else{ 
 		document.getElementById("98").style.background = "#0f99e3";
 		custom[0][w_98][h_98] = DEAD;
+		grid_98 = DEAD;
 	}
 }
 var grid_99 = DEAD;
@@ -2483,6 +2581,7 @@ function _99() {
 	 else{ 
 		document.getElementById("99").style.background = "#0f99e3";
 		custom[0][w_99][h_99] = DEAD;
+		grid_99 = DEAD;
 	}
 }
 var grid_100 = DEAD;
@@ -2497,6 +2596,7 @@ function _100() {
 	 else{ 
 		document.getElementById("100").style.background = "#0f99e3";
 		custom[0][w_100][h_100] = DEAD;
+		grid_100 = DEAD;
 	}
 }
 var grid_101 = DEAD;
@@ -2511,6 +2611,7 @@ function _101() {
 	 else{ 
 		document.getElementById("101").style.background = "#0f99e3";
 		custom[0][w_101][h_101] = DEAD;
+		grid_101 = DEAD;
 	}
 }
 var grid_102 = DEAD;
@@ -2525,6 +2626,7 @@ function _102() {
 	 else{ 
 		document.getElementById("102").style.background = "#0f99e3";
 		custom[0][w_102][h_102] = DEAD;
+		grid_102 = DEAD;
 	}
 }
 var grid_103 = DEAD;
@@ -2539,6 +2641,7 @@ function _103() {
 	 else{ 
 		document.getElementById("103").style.background = "#0f99e3";
 		custom[0][w_103][h_103] = DEAD;
+		grid_103 = DEAD;
 	}
 }
 var grid_104 = DEAD;
@@ -2553,6 +2656,7 @@ function _104() {
 	 else{ 
 		document.getElementById("104").style.background = "#0f99e3";
 		custom[0][w_104][h_104] = DEAD;
+		grid_104 = DEAD;
 	}
 }
 var grid_105 = DEAD;
@@ -2567,6 +2671,7 @@ function _105() {
 	 else{ 
 		document.getElementById("105").style.background = "#0f99e3";
 		custom[0][w_105][h_105] = DEAD;
+		grid_105 = DEAD;
 	}
 }
 var grid_106 = DEAD;
@@ -2581,6 +2686,7 @@ function _106() {
 	 else{ 
 		document.getElementById("106").style.background = "#0f99e3";
 		custom[0][w_106][h_106] = DEAD;
+		grid_106 = DEAD;
 	}
 }
 var grid_107 = DEAD;
@@ -2595,6 +2701,7 @@ function _107() {
 	 else{ 
 		document.getElementById("107").style.background = "#0f99e3";
 		custom[0][w_107][h_107] = DEAD;
+		grid_107 = DEAD;
 	}
 }
 var grid_108 = DEAD;
@@ -2609,6 +2716,7 @@ function _108() {
 	 else{ 
 		document.getElementById("108").style.background = "#0f99e3";
 		custom[0][w_108][h_108] = DEAD;
+		grid_108 = DEAD;
 	}
 }
 var grid_109 = DEAD;
@@ -2623,6 +2731,7 @@ function _109() {
 	 else{ 
 		document.getElementById("109").style.background = "#0f99e3";
 		custom[0][w_109][h_109] = DEAD;
+		grid_109 = DEAD;
 	}
 }
 var grid_110 = DEAD;
@@ -2637,6 +2746,7 @@ function _110() {
 	 else{ 
 		document.getElementById("110").style.background = "#0f99e3";
 		custom[0][w_110][h_110] = DEAD;
+		grid_110 = DEAD;
 	}
 }
 var grid_111 = DEAD;
@@ -2651,6 +2761,7 @@ function _111() {
 	 else{ 
 		document.getElementById("111").style.background = "#0f99e3";
 		custom[0][w_111][h_111] = DEAD;
+		grid_111 = DEAD;
 	}
 }
 var grid_112 = DEAD;
@@ -2665,6 +2776,7 @@ function _112() {
 	 else{ 
 		document.getElementById("112").style.background = "#0f99e3";
 		custom[0][w_112][h_112] = DEAD;
+		grid_112 = DEAD;
 	}
 }
 var grid_113 = DEAD;
@@ -2679,6 +2791,7 @@ function _113() {
 	 else{ 
 		document.getElementById("113").style.background = "#0f99e3";
 		custom[0][w_113][h_113] = DEAD;
+		grid_113 = DEAD;
 	}
 }
 var grid_114 = DEAD;
@@ -2693,6 +2806,7 @@ function _114() {
 	 else{ 
 		document.getElementById("114").style.background = "#0f99e3";
 		custom[0][w_114][h_114] = DEAD;
+		grid_114 = DEAD;
 	}
 }
 var grid_115 = DEAD;
@@ -2707,6 +2821,7 @@ function _115() {
 	 else{ 
 		document.getElementById("115").style.background = "#0f99e3";
 		custom[0][w_115][h_115] = DEAD;
+		grid_115 = DEAD;
 	}
 }
 var grid_116 = DEAD;
@@ -2721,6 +2836,7 @@ function _116() {
 	 else{ 
 		document.getElementById("116").style.background = "#0f99e3";
 		custom[0][w_116][h_116] = DEAD;
+		grid_116 = DEAD;
 	}
 }
 var grid_117 = DEAD;
@@ -2735,6 +2851,7 @@ function _117() {
 	 else{ 
 		document.getElementById("117").style.background = "#0f99e3";
 		custom[0][w_117][h_117] = DEAD;
+		grid_117 = DEAD;
 	}
 }
 var grid_118 = DEAD;
@@ -2749,6 +2866,7 @@ function _118() {
 	 else{ 
 		document.getElementById("118").style.background = "#0f99e3";
 		custom[0][w_118][h_118] = DEAD;
+		grid_118 = DEAD;
 	}
 }
 var grid_119 = DEAD;
@@ -2763,6 +2881,7 @@ function _119() {
 	 else{ 
 		document.getElementById("119").style.background = "#0f99e3";
 		custom[0][w_119][h_119] = DEAD;
+		grid_119 = DEAD;
 	}
 }
 var grid_120 = DEAD;
@@ -2777,6 +2896,7 @@ function _120() {
 	 else{ 
 		document.getElementById("120").style.background = "#0f99e3";
 		custom[0][w_120][h_120] = DEAD;
+		grid_120 = DEAD;
 	}
 }
 var grid_121 = DEAD;
@@ -2791,6 +2911,7 @@ function _121() {
 	 else{ 
 		document.getElementById("121").style.background = "#0f99e3";
 		custom[0][w_121][h_121] = DEAD;
+		grid_121 = DEAD;
 	}
 }
 var grid_122 = DEAD;
@@ -2805,6 +2926,7 @@ function _122() {
 	 else{ 
 		document.getElementById("122").style.background = "#0f99e3";
 		custom[0][w_122][h_122] = DEAD;
+		grid_122 = DEAD;
 	}
 }
 var grid_123 = DEAD;
@@ -2819,6 +2941,7 @@ function _123() {
 	 else{ 
 		document.getElementById("123").style.background = "#0f99e3";
 		custom[0][w_123][h_123] = DEAD;
+		grid_123 = DEAD;
 	}
 }
 var grid_124 = DEAD;
@@ -2833,6 +2956,7 @@ function _124() {
 	 else{ 
 		document.getElementById("124").style.background = "#0f99e3";
 		custom[0][w_124][h_124] = DEAD;
+		grid_124 = DEAD;
 	}
 }
 var grid_125 = DEAD;
@@ -2847,6 +2971,7 @@ function _125() {
 	 else{ 
 		document.getElementById("125").style.background = "#0f99e3";
 		custom[0][w_125][h_125] = DEAD;
+		grid_125 = DEAD;
 	}
 }
 var grid_126 = DEAD;
@@ -2861,6 +2986,7 @@ function _126() {
 	 else{ 
 		document.getElementById("126").style.background = "#0f99e3";
 		custom[0][w_126][h_126] = DEAD;
+		grid_126 = DEAD;
 	}
 }
 var grid_127 = DEAD;
@@ -2875,6 +3001,7 @@ function _127() {
 	 else{ 
 		document.getElementById("127").style.background = "#0f99e3";
 		custom[0][w_127][h_127] = DEAD;
+		grid_127 = DEAD;
 	}
 }
 var grid_128 = DEAD;
@@ -2889,6 +3016,7 @@ function _128() {
 	 else{ 
 		document.getElementById("128").style.background = "#0f99e3";
 		custom[0][w_128][h_128] = DEAD;
+		grid_128 = DEAD;
 	}
 }
 var grid_129 = DEAD;
@@ -2903,6 +3031,7 @@ function _129() {
 	 else{ 
 		document.getElementById("129").style.background = "#0f99e3";
 		custom[0][w_129][h_129] = DEAD;
+		grid_129 = DEAD;
 	}
 }
 var grid_130 = DEAD;
@@ -2917,6 +3046,7 @@ function _130() {
 	 else{ 
 		document.getElementById("130").style.background = "#0f99e3";
 		custom[0][w_130][h_130] = DEAD;
+		grid_130 = DEAD;
 	}
 }
 var grid_131 = DEAD;
@@ -2931,6 +3061,7 @@ function _131() {
 	 else{ 
 		document.getElementById("131").style.background = "#0f99e3";
 		custom[0][w_131][h_131] = DEAD;
+		grid_131 = DEAD;
 	}
 }
 var grid_132 = DEAD;
@@ -2945,6 +3076,7 @@ function _132() {
 	 else{ 
 		document.getElementById("132").style.background = "#0f99e3";
 		custom[0][w_132][h_132] = DEAD;
+		grid_132 = DEAD;
 	}
 }
 var grid_133 = DEAD;
@@ -2959,6 +3091,7 @@ function _133() {
 	 else{ 
 		document.getElementById("133").style.background = "#0f99e3";
 		custom[0][w_133][h_133] = DEAD;
+		grid_133 = DEAD;
 	}
 }
 var grid_134 = DEAD;
@@ -2973,6 +3106,7 @@ function _134() {
 	 else{ 
 		document.getElementById("134").style.background = "#0f99e3";
 		custom[0][w_134][h_134] = DEAD;
+		grid_134 = DEAD;
 	}
 }
 var grid_135 = DEAD;
@@ -2987,6 +3121,7 @@ function _135() {
 	 else{ 
 		document.getElementById("135").style.background = "#0f99e3";
 		custom[0][w_135][h_135] = DEAD;
+		grid_135 = DEAD;
 	}
 }
 var grid_136 = DEAD;
@@ -3001,6 +3136,7 @@ function _136() {
 	 else{ 
 		document.getElementById("136").style.background = "#0f99e3";
 		custom[0][w_136][h_136] = DEAD;
+		grid_136 = DEAD;
 	}
 }
 var grid_137 = DEAD;
@@ -3015,6 +3151,7 @@ function _137() {
 	 else{ 
 		document.getElementById("137").style.background = "#0f99e3";
 		custom[0][w_137][h_137] = DEAD;
+		grid_137 = DEAD;
 	}
 }
 var grid_138 = DEAD;
@@ -3029,6 +3166,7 @@ function _138() {
 	 else{ 
 		document.getElementById("138").style.background = "#0f99e3";
 		custom[0][w_138][h_138] = DEAD;
+		grid_138 = DEAD;
 	}
 }
 var grid_139 = DEAD;
@@ -3043,6 +3181,7 @@ function _139() {
 	 else{ 
 		document.getElementById("139").style.background = "#0f99e3";
 		custom[0][w_139][h_139] = DEAD;
+		grid_139 = DEAD;
 	}
 }
 var grid_140 = DEAD;
@@ -3057,6 +3196,7 @@ function _140() {
 	 else{ 
 		document.getElementById("140").style.background = "#0f99e3";
 		custom[0][w_140][h_140] = DEAD;
+		grid_140 = DEAD;
 	}
 }
 var grid_141 = DEAD;
@@ -3071,6 +3211,7 @@ function _141() {
 	 else{ 
 		document.getElementById("141").style.background = "#0f99e3";
 		custom[0][w_141][h_141] = DEAD;
+		grid_141 = DEAD;
 	}
 }
 var grid_142 = DEAD;
@@ -3085,6 +3226,7 @@ function _142() {
 	 else{ 
 		document.getElementById("142").style.background = "#0f99e3";
 		custom[0][w_142][h_142] = DEAD;
+		grid_142 = DEAD;
 	}
 }
 var grid_143 = DEAD;
@@ -3099,6 +3241,7 @@ function _143() {
 	 else{ 
 		document.getElementById("143").style.background = "#0f99e3";
 		custom[0][w_143][h_143] = DEAD;
+		grid_143 = DEAD;
 	}
 }
 var grid_144 = DEAD;
@@ -3113,6 +3256,7 @@ function _144() {
 	 else{ 
 		document.getElementById("144").style.background = "#0f99e3";
 		custom[0][w_144][h_144] = DEAD;
+		grid_144 = DEAD;
 	}
 }
 var grid_145 = DEAD;
@@ -3127,6 +3271,7 @@ function _145() {
 	 else{ 
 		document.getElementById("145").style.background = "#0f99e3";
 		custom[0][w_145][h_145] = DEAD;
+		grid_145 = DEAD;
 	}
 }
 var grid_146 = DEAD;
@@ -3141,6 +3286,7 @@ function _146() {
 	 else{ 
 		document.getElementById("146").style.background = "#0f99e3";
 		custom[0][w_146][h_146] = DEAD;
+		grid_146 = DEAD;
 	}
 }
 var grid_147 = DEAD;
@@ -3155,6 +3301,7 @@ function _147() {
 	 else{ 
 		document.getElementById("147").style.background = "#0f99e3";
 		custom[0][w_147][h_147] = DEAD;
+		grid_147 = DEAD;
 	}
 }
 var grid_148 = DEAD;
@@ -3169,6 +3316,7 @@ function _148() {
 	 else{ 
 		document.getElementById("148").style.background = "#0f99e3";
 		custom[0][w_148][h_148] = DEAD;
+		grid_148 = DEAD;
 	}
 }
 var grid_149 = DEAD;
@@ -3183,6 +3331,7 @@ function _149() {
 	 else{ 
 		document.getElementById("149").style.background = "#0f99e3";
 		custom[0][w_149][h_149] = DEAD;
+		grid_149 = DEAD;
 	}
 }
 var grid_150 = DEAD;
@@ -3197,6 +3346,7 @@ function _150() {
 	 else{ 
 		document.getElementById("150").style.background = "#0f99e3";
 		custom[0][w_150][h_150] = DEAD;
+		grid_150 = DEAD;
 	}
 }
 var grid_151 = DEAD;
@@ -3211,6 +3361,7 @@ function _151() {
 	 else{ 
 		document.getElementById("151").style.background = "#0f99e3";
 		custom[0][w_151][h_151] = DEAD;
+		grid_151 = DEAD;
 	}
 }
 var grid_152 = DEAD;
@@ -3225,6 +3376,7 @@ function _152() {
 	 else{ 
 		document.getElementById("152").style.background = "#0f99e3";
 		custom[0][w_152][h_152] = DEAD;
+		grid_152 = DEAD;
 	}
 }
 var grid_153 = DEAD;
@@ -3239,6 +3391,7 @@ function _153() {
 	 else{ 
 		document.getElementById("153").style.background = "#0f99e3";
 		custom[0][w_153][h_153] = DEAD;
+		grid_153 = DEAD;
 	}
 }
 var grid_154 = DEAD;
@@ -3253,6 +3406,7 @@ function _154() {
 	 else{ 
 		document.getElementById("154").style.background = "#0f99e3";
 		custom[0][w_154][h_154] = DEAD;
+		grid_154 = DEAD;
 	}
 }
 var grid_155 = DEAD;
@@ -3267,6 +3421,7 @@ function _155() {
 	 else{ 
 		document.getElementById("155").style.background = "#0f99e3";
 		custom[0][w_155][h_155] = DEAD;
+		grid_155 = DEAD;
 	}
 }
 var grid_156 = DEAD;
@@ -3281,6 +3436,7 @@ function _156() {
 	 else{ 
 		document.getElementById("156").style.background = "#0f99e3";
 		custom[0][w_156][h_156] = DEAD;
+		grid_156 = DEAD;
 	}
 }
 var grid_157 = DEAD;
@@ -3295,6 +3451,7 @@ function _157() {
 	 else{ 
 		document.getElementById("157").style.background = "#0f99e3";
 		custom[0][w_157][h_157] = DEAD;
+		grid_157 = DEAD;
 	}
 }
 var grid_158 = DEAD;
@@ -3309,6 +3466,7 @@ function _158() {
 	 else{ 
 		document.getElementById("158").style.background = "#0f99e3";
 		custom[0][w_158][h_158] = DEAD;
+		grid_158 = DEAD;
 	}
 }
 var grid_159 = DEAD;
@@ -3323,6 +3481,7 @@ function _159() {
 	 else{ 
 		document.getElementById("159").style.background = "#0f99e3";
 		custom[0][w_159][h_159] = DEAD;
+		grid_159 = DEAD;
 	}
 }
 var grid_160 = DEAD;
@@ -3337,6 +3496,7 @@ function _160() {
 	 else{ 
 		document.getElementById("160").style.background = "#0f99e3";
 		custom[0][w_160][h_160] = DEAD;
+		grid_160 = DEAD;
 	}
 }
 var grid_161 = DEAD;
@@ -3351,6 +3511,7 @@ function _161() {
 	 else{ 
 		document.getElementById("161").style.background = "#0f99e3";
 		custom[0][w_161][h_161] = DEAD;
+		grid_161 = DEAD;
 	}
 }
 var grid_162 = DEAD;
@@ -3365,6 +3526,7 @@ function _162() {
 	 else{ 
 		document.getElementById("162").style.background = "#0f99e3";
 		custom[0][w_162][h_162] = DEAD;
+		grid_162 = DEAD;
 	}
 }
 var grid_163 = DEAD;
@@ -3379,6 +3541,7 @@ function _163() {
 	 else{ 
 		document.getElementById("163").style.background = "#0f99e3";
 		custom[0][w_163][h_163] = DEAD;
+		grid_163 = DEAD;
 	}
 }
 var grid_164 = DEAD;
@@ -3393,6 +3556,7 @@ function _164() {
 	 else{ 
 		document.getElementById("164").style.background = "#0f99e3";
 		custom[0][w_164][h_164] = DEAD;
+		grid_164 = DEAD;
 	}
 }
 var grid_165 = DEAD;
@@ -3407,6 +3571,7 @@ function _165() {
 	 else{ 
 		document.getElementById("165").style.background = "#0f99e3";
 		custom[0][w_165][h_165] = DEAD;
+		grid_165 = DEAD;
 	}
 }
 var grid_166 = DEAD;
@@ -3421,6 +3586,7 @@ function _166() {
 	 else{ 
 		document.getElementById("166").style.background = "#0f99e3";
 		custom[0][w_166][h_166] = DEAD;
+		grid_166 = DEAD;
 	}
 }
 var grid_167 = DEAD;
@@ -3435,6 +3601,7 @@ function _167() {
 	 else{ 
 		document.getElementById("167").style.background = "#0f99e3";
 		custom[0][w_167][h_167] = DEAD;
+		grid_167 = DEAD;
 	}
 }
 var grid_168 = DEAD;
@@ -3449,6 +3616,7 @@ function _168() {
 	 else{ 
 		document.getElementById("168").style.background = "#0f99e3";
 		custom[0][w_168][h_168] = DEAD;
+		grid_168 = DEAD;
 	}
 }
 var grid_169 = DEAD;
@@ -3463,6 +3631,7 @@ function _169() {
 	 else{ 
 		document.getElementById("169").style.background = "#0f99e3";
 		custom[0][w_169][h_169] = DEAD;
+		grid_169 = DEAD;
 	}
 }
 var grid_170 = DEAD;
@@ -3477,6 +3646,7 @@ function _170() {
 	 else{ 
 		document.getElementById("170").style.background = "#0f99e3";
 		custom[0][w_170][h_170] = DEAD;
+		grid_170 = DEAD;
 	}
 }
 var grid_171 = DEAD;
@@ -3491,6 +3661,7 @@ function _171() {
 	 else{ 
 		document.getElementById("171").style.background = "#0f99e3";
 		custom[0][w_171][h_171] = DEAD;
+		grid_171 = DEAD;
 	}
 }
 var grid_172 = DEAD;
@@ -3505,6 +3676,7 @@ function _172() {
 	 else{ 
 		document.getElementById("172").style.background = "#0f99e3";
 		custom[0][w_172][h_172] = DEAD;
+		grid_172 = DEAD;
 	}
 }
 var grid_173 = DEAD;
@@ -3519,6 +3691,7 @@ function _173() {
 	 else{ 
 		document.getElementById("173").style.background = "#0f99e3";
 		custom[0][w_173][h_173] = DEAD;
+		grid_173 = DEAD;
 	}
 }
 var grid_174 = DEAD;
@@ -3533,6 +3706,7 @@ function _174() {
 	 else{ 
 		document.getElementById("174").style.background = "#0f99e3";
 		custom[0][w_174][h_174] = DEAD;
+		grid_174 = DEAD;
 	}
 }
 var grid_175 = DEAD;
@@ -3547,6 +3721,7 @@ function _175() {
 	 else{ 
 		document.getElementById("175").style.background = "#0f99e3";
 		custom[0][w_175][h_175] = DEAD;
+		grid_175 = DEAD;
 	}
 }
 var grid_176 = DEAD;
@@ -3561,6 +3736,7 @@ function _176() {
 	 else{ 
 		document.getElementById("176").style.background = "#0f99e3";
 		custom[0][w_176][h_176] = DEAD;
+		grid_176 = DEAD;
 	}
 }
 var grid_177 = DEAD;
@@ -3575,6 +3751,7 @@ function _177() {
 	 else{ 
 		document.getElementById("177").style.background = "#0f99e3";
 		custom[0][w_177][h_177] = DEAD;
+		grid_177 = DEAD;
 	}
 }
 var grid_178 = DEAD;
@@ -3589,6 +3766,7 @@ function _178() {
 	 else{ 
 		document.getElementById("178").style.background = "#0f99e3";
 		custom[0][w_178][h_178] = DEAD;
+		grid_178 = DEAD;
 	}
 }
 var grid_179 = DEAD;
@@ -3603,6 +3781,7 @@ function _179() {
 	 else{ 
 		document.getElementById("179").style.background = "#0f99e3";
 		custom[0][w_179][h_179] = DEAD;
+		grid_179 = DEAD;
 	}
 }
 var grid_180 = DEAD;
@@ -3617,6 +3796,7 @@ function _180() {
 	 else{ 
 		document.getElementById("180").style.background = "#0f99e3";
 		custom[0][w_180][h_180] = DEAD;
+		grid_180 = DEAD;
 	}
 }
 var grid_181 = DEAD;
@@ -3631,6 +3811,7 @@ function _181() {
 	 else{ 
 		document.getElementById("181").style.background = "#0f99e3";
 		custom[0][w_181][h_181] = DEAD;
+		grid_181 = DEAD;
 	}
 }
 var grid_182 = DEAD;
@@ -3645,6 +3826,7 @@ function _182() {
 	 else{ 
 		document.getElementById("182").style.background = "#0f99e3";
 		custom[0][w_182][h_182] = DEAD;
+		grid_182 = DEAD;
 	}
 }
 var grid_183 = DEAD;
@@ -3659,6 +3841,7 @@ function _183() {
 	 else{ 
 		document.getElementById("183").style.background = "#0f99e3";
 		custom[0][w_183][h_183] = DEAD;
+		grid_183 = DEAD;
 	}
 }
 var grid_184 = DEAD;
@@ -3673,6 +3856,7 @@ function _184() {
 	 else{ 
 		document.getElementById("184").style.background = "#0f99e3";
 		custom[0][w_184][h_184] = DEAD;
+		grid_184 = DEAD;
 	}
 }
 var grid_185 = DEAD;
@@ -3687,6 +3871,7 @@ function _185() {
 	 else{ 
 		document.getElementById("185").style.background = "#0f99e3";
 		custom[0][w_185][h_185] = DEAD;
+		grid_185 = DEAD;
 	}
 }
 var grid_186 = DEAD;
@@ -3701,6 +3886,7 @@ function _186() {
 	 else{ 
 		document.getElementById("186").style.background = "#0f99e3";
 		custom[0][w_186][h_186] = DEAD;
+		grid_186 = DEAD;
 	}
 }
 var grid_187 = DEAD;
@@ -3715,6 +3901,7 @@ function _187() {
 	 else{ 
 		document.getElementById("187").style.background = "#0f99e3";
 		custom[0][w_187][h_187] = DEAD;
+		grid_187 = DEAD;
 	}
 }
 var grid_188 = DEAD;
@@ -3729,6 +3916,7 @@ function _188() {
 	 else{ 
 		document.getElementById("188").style.background = "#0f99e3";
 		custom[0][w_188][h_188] = DEAD;
+		grid_188 = DEAD;
 	}
 }
 var grid_189 = DEAD;
@@ -3743,6 +3931,7 @@ function _189() {
 	 else{ 
 		document.getElementById("189").style.background = "#0f99e3";
 		custom[0][w_189][h_189] = DEAD;
+		grid_189 = DEAD;
 	}
 }
 var grid_190 = DEAD;
@@ -3757,6 +3946,7 @@ function _190() {
 	 else{ 
 		document.getElementById("190").style.background = "#0f99e3";
 		custom[0][w_190][h_190] = DEAD;
+		grid_190 = DEAD;
 	}
 }
 var grid_191 = DEAD;
@@ -3771,6 +3961,7 @@ function _191() {
 	 else{ 
 		document.getElementById("191").style.background = "#0f99e3";
 		custom[0][w_191][h_191] = DEAD;
+		grid_191 = DEAD;
 	}
 }
 var grid_192 = DEAD;
@@ -3785,6 +3976,7 @@ function _192() {
 	 else{ 
 		document.getElementById("192").style.background = "#0f99e3";
 		custom[0][w_192][h_192] = DEAD;
+		grid_192 = DEAD;
 	}
 }
 var grid_193 = DEAD;
@@ -3799,6 +3991,7 @@ function _193() {
 	 else{ 
 		document.getElementById("193").style.background = "#0f99e3";
 		custom[0][w_193][h_193] = DEAD;
+		grid_193 = DEAD;
 	}
 }
 var grid_194 = DEAD;
@@ -3813,6 +4006,7 @@ function _194() {
 	 else{ 
 		document.getElementById("194").style.background = "#0f99e3";
 		custom[0][w_194][h_194] = DEAD;
+		grid_194 = DEAD;
 	}
 }
 var grid_195 = DEAD;
@@ -3827,6 +4021,7 @@ function _195() {
 	 else{ 
 		document.getElementById("195").style.background = "#0f99e3";
 		custom[0][w_195][h_195] = DEAD;
+		grid_195 = DEAD;
 	}
 }
 var grid_196 = DEAD;
@@ -3841,6 +4036,7 @@ function _196() {
 	 else{ 
 		document.getElementById("196").style.background = "#0f99e3";
 		custom[0][w_196][h_196] = DEAD;
+		grid_196 = DEAD;
 	}
 }
 var grid_197 = DEAD;
@@ -3855,6 +4051,7 @@ function _197() {
 	 else{ 
 		document.getElementById("197").style.background = "#0f99e3";
 		custom[0][w_197][h_197] = DEAD;
+		grid_197 = DEAD;
 	}
 }
 var grid_198 = DEAD;
@@ -3869,6 +4066,7 @@ function _198() {
 	 else{ 
 		document.getElementById("198").style.background = "#0f99e3";
 		custom[0][w_198][h_198] = DEAD;
+		grid_198 = DEAD;
 	}
 }
 var grid_199 = DEAD;
@@ -3883,6 +4081,7 @@ function _199() {
 	 else{ 
 		document.getElementById("199").style.background = "#0f99e3";
 		custom[0][w_199][h_199] = DEAD;
+		grid_199 = DEAD;
 	}
 }
 var grid_200 = DEAD;
@@ -3897,6 +4096,7 @@ function _200() {
 	 else{ 
 		document.getElementById("200").style.background = "#0f99e3";
 		custom[0][w_200][h_200] = DEAD;
+		grid_200 = DEAD;
 	}
 }
 var grid_201 = DEAD;
@@ -3911,6 +4111,7 @@ function _201() {
 	 else{ 
 		document.getElementById("201").style.background = "#0f99e3";
 		custom[0][w_201][h_201] = DEAD;
+		grid_201 = DEAD;
 	}
 }
 var grid_202 = DEAD;
@@ -3925,6 +4126,7 @@ function _202() {
 	 else{ 
 		document.getElementById("202").style.background = "#0f99e3";
 		custom[0][w_202][h_202] = DEAD;
+		grid_202 = DEAD;
 	}
 }
 var grid_203 = DEAD;
@@ -3939,6 +4141,7 @@ function _203() {
 	 else{ 
 		document.getElementById("203").style.background = "#0f99e3";
 		custom[0][w_203][h_203] = DEAD;
+		grid_203 = DEAD;
 	}
 }
 var grid_204 = DEAD;
@@ -3953,6 +4156,7 @@ function _204() {
 	 else{ 
 		document.getElementById("204").style.background = "#0f99e3";
 		custom[0][w_204][h_204] = DEAD;
+		grid_204 = DEAD;
 	}
 }
 var grid_205 = DEAD;
@@ -3967,6 +4171,7 @@ function _205() {
 	 else{ 
 		document.getElementById("205").style.background = "#0f99e3";
 		custom[0][w_205][h_205] = DEAD;
+		grid_205 = DEAD;
 	}
 }
 var grid_206 = DEAD;
@@ -3981,6 +4186,7 @@ function _206() {
 	 else{ 
 		document.getElementById("206").style.background = "#0f99e3";
 		custom[0][w_206][h_206] = DEAD;
+		grid_206 = DEAD;
 	}
 }
 var grid_207 = DEAD;
@@ -3995,6 +4201,7 @@ function _207() {
 	 else{ 
 		document.getElementById("207").style.background = "#0f99e3";
 		custom[0][w_207][h_207] = DEAD;
+		grid_207 = DEAD;
 	}
 }
 var grid_208 = DEAD;
@@ -4009,6 +4216,7 @@ function _208() {
 	 else{ 
 		document.getElementById("208").style.background = "#0f99e3";
 		custom[0][w_208][h_208] = DEAD;
+		grid_208 = DEAD;
 	}
 }
 var grid_209 = DEAD;
@@ -4023,6 +4231,7 @@ function _209() {
 	 else{ 
 		document.getElementById("209").style.background = "#0f99e3";
 		custom[0][w_209][h_209] = DEAD;
+		grid_209 = DEAD;
 	}
 }
 var grid_210 = DEAD;
@@ -4037,6 +4246,7 @@ function _210() {
 	 else{ 
 		document.getElementById("210").style.background = "#0f99e3";
 		custom[0][w_210][h_210] = DEAD;
+		grid_210 = DEAD;
 	}
 }
 var grid_211 = DEAD;
@@ -4051,6 +4261,7 @@ function _211() {
 	 else{ 
 		document.getElementById("211").style.background = "#0f99e3";
 		custom[0][w_211][h_211] = DEAD;
+		grid_211 = DEAD;
 	}
 }
 var grid_212 = DEAD;
@@ -4065,6 +4276,7 @@ function _212() {
 	 else{ 
 		document.getElementById("212").style.background = "#0f99e3";
 		custom[0][w_212][h_212] = DEAD;
+		grid_212 = DEAD;
 	}
 }
 var grid_213 = DEAD;
@@ -4079,6 +4291,7 @@ function _213() {
 	 else{ 
 		document.getElementById("213").style.background = "#0f99e3";
 		custom[0][w_213][h_213] = DEAD;
+		grid_213 = DEAD;
 	}
 }
 var grid_214 = DEAD;
@@ -4093,6 +4306,7 @@ function _214() {
 	 else{ 
 		document.getElementById("214").style.background = "#0f99e3";
 		custom[0][w_214][h_214] = DEAD;
+		grid_214 = DEAD;
 	}
 }
 var grid_215 = DEAD;
@@ -4107,6 +4321,7 @@ function _215() {
 	 else{ 
 		document.getElementById("215").style.background = "#0f99e3";
 		custom[0][w_215][h_215] = DEAD;
+		grid_215 = DEAD;
 	}
 }
 var grid_216 = DEAD;
@@ -4121,6 +4336,7 @@ function _216() {
 	 else{ 
 		document.getElementById("216").style.background = "#0f99e3";
 		custom[0][w_216][h_216] = DEAD;
+		grid_216 = DEAD;
 	}
 }
 var grid_217 = DEAD;
@@ -4135,6 +4351,7 @@ function _217() {
 	 else{ 
 		document.getElementById("217").style.background = "#0f99e3";
 		custom[0][w_217][h_217] = DEAD;
+		grid_217 = DEAD;
 	}
 }
 var grid_218 = DEAD;
@@ -4149,6 +4366,7 @@ function _218() {
 	 else{ 
 		document.getElementById("218").style.background = "#0f99e3";
 		custom[0][w_218][h_218] = DEAD;
+		grid_218 = DEAD;
 	}
 }
 var grid_219 = DEAD;
@@ -4163,6 +4381,7 @@ function _219() {
 	 else{ 
 		document.getElementById("219").style.background = "#0f99e3";
 		custom[0][w_219][h_219] = DEAD;
+		grid_219 = DEAD;
 	}
 }
 var grid_220 = DEAD;
@@ -4177,6 +4396,7 @@ function _220() {
 	 else{ 
 		document.getElementById("220").style.background = "#0f99e3";
 		custom[0][w_220][h_220] = DEAD;
+		grid_220 = DEAD;
 	}
 }
 var grid_221 = DEAD;
@@ -4191,6 +4411,7 @@ function _221() {
 	 else{ 
 		document.getElementById("221").style.background = "#0f99e3";
 		custom[0][w_221][h_221] = DEAD;
+		grid_221 = DEAD;
 	}
 }
 var grid_222 = DEAD;
@@ -4205,6 +4426,7 @@ function _222() {
 	 else{ 
 		document.getElementById("222").style.background = "#0f99e3";
 		custom[0][w_222][h_222] = DEAD;
+		grid_222 = DEAD;
 	}
 }
 var grid_223 = DEAD;
@@ -4219,6 +4441,7 @@ function _223() {
 	 else{ 
 		document.getElementById("223").style.background = "#0f99e3";
 		custom[0][w_223][h_223] = DEAD;
+		grid_223 = DEAD;
 	}
 }
 var grid_224 = DEAD;
@@ -4233,6 +4456,7 @@ function _224() {
 	 else{ 
 		document.getElementById("224").style.background = "#0f99e3";
 		custom[0][w_224][h_224] = DEAD;
+		grid_224 = DEAD;
 	}
 }
 var grid_225 = DEAD;
@@ -4247,6 +4471,7 @@ function _225() {
 	 else{ 
 		document.getElementById("225").style.background = "#0f99e3";
 		custom[0][w_225][h_225] = DEAD;
+		grid_225 = DEAD;
 	}
 }
 var grid_226 = DEAD;
@@ -4261,6 +4486,7 @@ function _226() {
 	 else{ 
 		document.getElementById("226").style.background = "#0f99e3";
 		custom[0][w_226][h_226] = DEAD;
+		grid_226 = DEAD;
 	}
 }
 var grid_227 = DEAD;
@@ -4275,6 +4501,7 @@ function _227() {
 	 else{ 
 		document.getElementById("227").style.background = "#0f99e3";
 		custom[0][w_227][h_227] = DEAD;
+		grid_227 = DEAD;
 	}
 }
 var grid_228 = DEAD;
@@ -4289,6 +4516,7 @@ function _228() {
 	 else{ 
 		document.getElementById("228").style.background = "#0f99e3";
 		custom[0][w_228][h_228] = DEAD;
+		grid_228 = DEAD;
 	}
 }
 var grid_229 = DEAD;
@@ -4303,6 +4531,7 @@ function _229() {
 	 else{ 
 		document.getElementById("229").style.background = "#0f99e3";
 		custom[0][w_229][h_229] = DEAD;
+		grid_229 = DEAD;
 	}
 }
 var grid_230 = DEAD;
@@ -4317,6 +4546,7 @@ function _230() {
 	 else{ 
 		document.getElementById("230").style.background = "#0f99e3";
 		custom[0][w_230][h_230] = DEAD;
+		grid_230 = DEAD;
 	}
 }
 var grid_231 = DEAD;
@@ -4331,6 +4561,7 @@ function _231() {
 	 else{ 
 		document.getElementById("231").style.background = "#0f99e3";
 		custom[0][w_231][h_231] = DEAD;
+		grid_231 = DEAD;
 	}
 }
 var grid_232 = DEAD;
@@ -4345,6 +4576,7 @@ function _232() {
 	 else{ 
 		document.getElementById("232").style.background = "#0f99e3";
 		custom[0][w_232][h_232] = DEAD;
+		grid_232 = DEAD;
 	}
 }
 var grid_233 = DEAD;
@@ -4359,6 +4591,7 @@ function _233() {
 	 else{ 
 		document.getElementById("233").style.background = "#0f99e3";
 		custom[0][w_233][h_233] = DEAD;
+		grid_233 = DEAD;
 	}
 }
 var grid_234 = DEAD;
@@ -4373,6 +4606,7 @@ function _234() {
 	 else{ 
 		document.getElementById("234").style.background = "#0f99e3";
 		custom[0][w_234][h_234] = DEAD;
+		grid_234 = DEAD;
 	}
 }
 var grid_235 = DEAD;
@@ -4387,6 +4621,7 @@ function _235() {
 	 else{ 
 		document.getElementById("235").style.background = "#0f99e3";
 		custom[0][w_235][h_235] = DEAD;
+		grid_235 = DEAD;
 	}
 }
 var grid_236 = DEAD;
@@ -4401,6 +4636,7 @@ function _236() {
 	 else{ 
 		document.getElementById("236").style.background = "#0f99e3";
 		custom[0][w_236][h_236] = DEAD;
+		grid_236 = DEAD;
 	}
 }
 var grid_237 = DEAD;
@@ -4415,6 +4651,7 @@ function _237() {
 	 else{ 
 		document.getElementById("237").style.background = "#0f99e3";
 		custom[0][w_237][h_237] = DEAD;
+		grid_237 = DEAD;
 	}
 }
 var grid_238 = DEAD;
@@ -4429,6 +4666,7 @@ function _238() {
 	 else{ 
 		document.getElementById("238").style.background = "#0f99e3";
 		custom[0][w_238][h_238] = DEAD;
+		grid_238 = DEAD;
 	}
 }
 var grid_239 = DEAD;
@@ -4443,6 +4681,7 @@ function _239() {
 	 else{ 
 		document.getElementById("239").style.background = "#0f99e3";
 		custom[0][w_239][h_239] = DEAD;
+		grid_239 = DEAD;
 	}
 }
 var grid_240 = DEAD;
@@ -4457,6 +4696,7 @@ function _240() {
 	 else{ 
 		document.getElementById("240").style.background = "#0f99e3";
 		custom[0][w_240][h_240] = DEAD;
+		grid_240 = DEAD;
 	}
 }
 var grid_241 = DEAD;
@@ -4471,6 +4711,7 @@ function _241() {
 	 else{ 
 		document.getElementById("241").style.background = "#0f99e3";
 		custom[0][w_241][h_241] = DEAD;
+		grid_241 = DEAD;
 	}
 }
 var grid_242 = DEAD;
@@ -4485,6 +4726,7 @@ function _242() {
 	 else{ 
 		document.getElementById("242").style.background = "#0f99e3";
 		custom[0][w_242][h_242] = DEAD;
+		grid_242 = DEAD;
 	}
 }
 var grid_243 = DEAD;
@@ -4499,6 +4741,7 @@ function _243() {
 	 else{ 
 		document.getElementById("243").style.background = "#0f99e3";
 		custom[0][w_243][h_243] = DEAD;
+		grid_243 = DEAD;
 	}
 }
 var grid_244 = DEAD;
@@ -4513,6 +4756,7 @@ function _244() {
 	 else{ 
 		document.getElementById("244").style.background = "#0f99e3";
 		custom[0][w_244][h_244] = DEAD;
+		grid_244 = DEAD;
 	}
 }
 var grid_245 = DEAD;
@@ -4527,6 +4771,7 @@ function _245() {
 	 else{ 
 		document.getElementById("245").style.background = "#0f99e3";
 		custom[0][w_245][h_245] = DEAD;
+		grid_245 = DEAD;
 	}
 }
 var grid_246 = DEAD;
@@ -4541,6 +4786,7 @@ function _246() {
 	 else{ 
 		document.getElementById("246").style.background = "#0f99e3";
 		custom[0][w_246][h_246] = DEAD;
+		grid_246 = DEAD;
 	}
 }
 var grid_247 = DEAD;
@@ -4555,6 +4801,7 @@ function _247() {
 	 else{ 
 		document.getElementById("247").style.background = "#0f99e3";
 		custom[0][w_247][h_247] = DEAD;
+		grid_247 = DEAD;
 	}
 }
 var grid_248 = DEAD;
@@ -4569,6 +4816,7 @@ function _248() {
 	 else{ 
 		document.getElementById("248").style.background = "#0f99e3";
 		custom[0][w_248][h_248] = DEAD;
+		grid_248 = DEAD;
 	}
 }
 var grid_249 = DEAD;
@@ -4583,6 +4831,7 @@ function _249() {
 	 else{ 
 		document.getElementById("249").style.background = "#0f99e3";
 		custom[0][w_249][h_249] = DEAD;
+		grid_249 = DEAD;
 	}
 }
 var grid_250 = DEAD;
@@ -4597,6 +4846,7 @@ function _250() {
 	 else{ 
 		document.getElementById("250").style.background = "#0f99e3";
 		custom[0][w_250][h_250] = DEAD;
+		grid_250 = DEAD;
 	}
 }
 var grid_251 = DEAD;
@@ -4611,6 +4861,7 @@ function _251() {
 	 else{ 
 		document.getElementById("251").style.background = "#0f99e3";
 		custom[0][w_251][h_251] = DEAD;
+		grid_251 = DEAD;
 	}
 }
 var grid_252 = DEAD;
@@ -4625,6 +4876,7 @@ function _252() {
 	 else{ 
 		document.getElementById("252").style.background = "#0f99e3";
 		custom[0][w_252][h_252] = DEAD;
+		grid_252 = DEAD;
 	}
 }
 var grid_253 = DEAD;
@@ -4639,6 +4891,7 @@ function _253() {
 	 else{ 
 		document.getElementById("253").style.background = "#0f99e3";
 		custom[0][w_253][h_253] = DEAD;
+		grid_253 = DEAD;
 	}
 }
 var grid_254 = DEAD;
@@ -4653,6 +4906,7 @@ function _254() {
 	 else{ 
 		document.getElementById("254").style.background = "#0f99e3";
 		custom[0][w_254][h_254] = DEAD;
+		grid_254 = DEAD;
 	}
 }
 var grid_255 = DEAD;
@@ -4667,6 +4921,7 @@ function _255() {
 	 else{ 
 		document.getElementById("255").style.background = "#0f99e3";
 		custom[0][w_255][h_255] = DEAD;
+		grid_255 = DEAD;
 	}
 }
 var grid_256 = DEAD;
@@ -4681,6 +4936,7 @@ function _256() {
 	 else{ 
 		document.getElementById("256").style.background = "#0f99e3";
 		custom[0][w_256][h_256] = DEAD;
+		grid_256 = DEAD;
 	}
 }
 var grid_257 = DEAD;
@@ -4695,6 +4951,7 @@ function _257() {
 	 else{ 
 		document.getElementById("257").style.background = "#0f99e3";
 		custom[0][w_257][h_257] = DEAD;
+		grid_257 = DEAD;
 	}
 }
 var grid_258 = DEAD;
@@ -4709,6 +4966,7 @@ function _258() {
 	 else{ 
 		document.getElementById("258").style.background = "#0f99e3";
 		custom[0][w_258][h_258] = DEAD;
+		grid_258 = DEAD;
 	}
 }
 var grid_259 = DEAD;
@@ -4723,6 +4981,7 @@ function _259() {
 	 else{ 
 		document.getElementById("259").style.background = "#0f99e3";
 		custom[0][w_259][h_259] = DEAD;
+		grid_259 = DEAD;
 	}
 }
 var grid_260 = DEAD;
@@ -4737,6 +4996,7 @@ function _260() {
 	 else{ 
 		document.getElementById("260").style.background = "#0f99e3";
 		custom[0][w_260][h_260] = DEAD;
+		grid_260 = DEAD;
 	}
 }
 var grid_261 = DEAD;
@@ -4751,6 +5011,7 @@ function _261() {
 	 else{ 
 		document.getElementById("261").style.background = "#0f99e3";
 		custom[0][w_261][h_261] = DEAD;
+		grid_261 = DEAD;
 	}
 }
 var grid_262 = DEAD;
@@ -4765,6 +5026,7 @@ function _262() {
 	 else{ 
 		document.getElementById("262").style.background = "#0f99e3";
 		custom[0][w_262][h_262] = DEAD;
+		grid_262 = DEAD;
 	}
 }
 var grid_263 = DEAD;
@@ -4779,6 +5041,7 @@ function _263() {
 	 else{ 
 		document.getElementById("263").style.background = "#0f99e3";
 		custom[0][w_263][h_263] = DEAD;
+		grid_263 = DEAD;
 	}
 }
 var grid_264 = DEAD;
@@ -4793,6 +5056,7 @@ function _264() {
 	 else{ 
 		document.getElementById("264").style.background = "#0f99e3";
 		custom[0][w_264][h_264] = DEAD;
+		grid_264 = DEAD;
 	}
 }
 var grid_265 = DEAD;
@@ -4807,6 +5071,7 @@ function _265() {
 	 else{ 
 		document.getElementById("265").style.background = "#0f99e3";
 		custom[0][w_265][h_265] = DEAD;
+		grid_265 = DEAD;
 	}
 }
 var grid_266 = DEAD;
@@ -4821,6 +5086,7 @@ function _266() {
 	 else{ 
 		document.getElementById("266").style.background = "#0f99e3";
 		custom[0][w_266][h_266] = DEAD;
+		grid_266 = DEAD;
 	}
 }
 var grid_267 = DEAD;
@@ -4835,6 +5101,7 @@ function _267() {
 	 else{ 
 		document.getElementById("267").style.background = "#0f99e3";
 		custom[0][w_267][h_267] = DEAD;
+		grid_267 = DEAD;
 	}
 }
 var grid_268 = DEAD;
@@ -4849,6 +5116,7 @@ function _268() {
 	 else{ 
 		document.getElementById("268").style.background = "#0f99e3";
 		custom[0][w_268][h_268] = DEAD;
+		grid_268 = DEAD;
 	}
 }
 var grid_269 = DEAD;
@@ -4863,6 +5131,7 @@ function _269() {
 	 else{ 
 		document.getElementById("269").style.background = "#0f99e3";
 		custom[0][w_269][h_269] = DEAD;
+		grid_269 = DEAD;
 	}
 }
 var grid_270 = DEAD;
@@ -4877,6 +5146,7 @@ function _270() {
 	 else{ 
 		document.getElementById("270").style.background = "#0f99e3";
 		custom[0][w_270][h_270] = DEAD;
+		grid_270 = DEAD;
 	}
 }
 var grid_271 = DEAD;
@@ -4891,6 +5161,7 @@ function _271() {
 	 else{ 
 		document.getElementById("271").style.background = "#0f99e3";
 		custom[0][w_271][h_271] = DEAD;
+		grid_271 = DEAD;
 	}
 }
 var grid_272 = DEAD;
@@ -4905,6 +5176,7 @@ function _272() {
 	 else{ 
 		document.getElementById("272").style.background = "#0f99e3";
 		custom[0][w_272][h_272] = DEAD;
+		grid_272 = DEAD;
 	}
 }
 var grid_273 = DEAD;
@@ -4919,6 +5191,7 @@ function _273() {
 	 else{ 
 		document.getElementById("273").style.background = "#0f99e3";
 		custom[0][w_273][h_273] = DEAD;
+		grid_273 = DEAD;
 	}
 }
 var grid_274 = DEAD;
@@ -4933,6 +5206,7 @@ function _274() {
 	 else{ 
 		document.getElementById("274").style.background = "#0f99e3";
 		custom[0][w_274][h_274] = DEAD;
+		grid_274 = DEAD;
 	}
 }
 var grid_275 = DEAD;
@@ -4947,6 +5221,7 @@ function _275() {
 	 else{ 
 		document.getElementById("275").style.background = "#0f99e3";
 		custom[0][w_275][h_275] = DEAD;
+		grid_275 = DEAD;
 	}
 }
 var grid_276 = DEAD;
@@ -4961,6 +5236,7 @@ function _276() {
 	 else{ 
 		document.getElementById("276").style.background = "#0f99e3";
 		custom[0][w_276][h_276] = DEAD;
+		grid_276 = DEAD;
 	}
 }
 var grid_277 = DEAD;
@@ -4975,6 +5251,7 @@ function _277() {
 	 else{ 
 		document.getElementById("277").style.background = "#0f99e3";
 		custom[0][w_277][h_277] = DEAD;
+		grid_277 = DEAD;
 	}
 }
 var grid_278 = DEAD;
@@ -4989,6 +5266,7 @@ function _278() {
 	 else{ 
 		document.getElementById("278").style.background = "#0f99e3";
 		custom[0][w_278][h_278] = DEAD;
+		grid_278 = DEAD;
 	}
 }
 var grid_279 = DEAD;
@@ -5003,6 +5281,7 @@ function _279() {
 	 else{ 
 		document.getElementById("279").style.background = "#0f99e3";
 		custom[0][w_279][h_279] = DEAD;
+		grid_279 = DEAD;
 	}
 }
 var grid_280 = DEAD;
@@ -5017,6 +5296,7 @@ function _280() {
 	 else{ 
 		document.getElementById("280").style.background = "#0f99e3";
 		custom[0][w_280][h_280] = DEAD;
+		grid_280 = DEAD;
 	}
 }
 var grid_281 = DEAD;
@@ -5031,6 +5311,7 @@ function _281() {
 	 else{ 
 		document.getElementById("281").style.background = "#0f99e3";
 		custom[0][w_281][h_281] = DEAD;
+		grid_281 = DEAD;
 	}
 }
 var grid_282 = DEAD;
@@ -5045,6 +5326,7 @@ function _282() {
 	 else{ 
 		document.getElementById("282").style.background = "#0f99e3";
 		custom[0][w_282][h_282] = DEAD;
+		grid_282 = DEAD;
 	}
 }
 var grid_283 = DEAD;
@@ -5059,6 +5341,7 @@ function _283() {
 	 else{ 
 		document.getElementById("283").style.background = "#0f99e3";
 		custom[0][w_283][h_283] = DEAD;
+		grid_283 = DEAD;
 	}
 }
 var grid_284 = DEAD;
@@ -5073,6 +5356,7 @@ function _284() {
 	 else{ 
 		document.getElementById("284").style.background = "#0f99e3";
 		custom[0][w_284][h_284] = DEAD;
+		grid_284 = DEAD;
 	}
 }
 var grid_285 = DEAD;
@@ -5087,6 +5371,7 @@ function _285() {
 	 else{ 
 		document.getElementById("285").style.background = "#0f99e3";
 		custom[0][w_285][h_285] = DEAD;
+		grid_285 = DEAD;
 	}
 }
 var grid_286 = DEAD;
@@ -5101,6 +5386,7 @@ function _286() {
 	 else{ 
 		document.getElementById("286").style.background = "#0f99e3";
 		custom[0][w_286][h_286] = DEAD;
+		grid_286 = DEAD;
 	}
 }
 var grid_287 = DEAD;
@@ -5115,6 +5401,7 @@ function _287() {
 	 else{ 
 		document.getElementById("287").style.background = "#0f99e3";
 		custom[0][w_287][h_287] = DEAD;
+		grid_287 = DEAD;
 	}
 }
 var grid_288 = DEAD;
@@ -5129,6 +5416,7 @@ function _288() {
 	 else{ 
 		document.getElementById("288").style.background = "#0f99e3";
 		custom[0][w_288][h_288] = DEAD;
+		grid_288 = DEAD;
 	}
 }
 var grid_289 = DEAD;
@@ -5143,6 +5431,7 @@ function _289() {
 	 else{ 
 		document.getElementById("289").style.background = "#0f99e3";
 		custom[0][w_289][h_289] = DEAD;
+		grid_289 = DEAD;
 	}
 }
 var grid_290 = DEAD;
@@ -5157,6 +5446,7 @@ function _290() {
 	 else{ 
 		document.getElementById("290").style.background = "#0f99e3";
 		custom[0][w_290][h_290] = DEAD;
+		grid_290 = DEAD;
 	}
 }
 var grid_291 = DEAD;
@@ -5171,6 +5461,7 @@ function _291() {
 	 else{ 
 		document.getElementById("291").style.background = "#0f99e3";
 		custom[0][w_291][h_291] = DEAD;
+		grid_291 = DEAD;
 	}
 }
 var grid_292 = DEAD;
@@ -5185,6 +5476,7 @@ function _292() {
 	 else{ 
 		document.getElementById("292").style.background = "#0f99e3";
 		custom[0][w_292][h_292] = DEAD;
+		grid_292 = DEAD;
 	}
 }
 var grid_293 = DEAD;
@@ -5199,6 +5491,7 @@ function _293() {
 	 else{ 
 		document.getElementById("293").style.background = "#0f99e3";
 		custom[0][w_293][h_293] = DEAD;
+		grid_293 = DEAD;
 	}
 }
 var grid_294 = DEAD;
@@ -5213,6 +5506,7 @@ function _294() {
 	 else{ 
 		document.getElementById("294").style.background = "#0f99e3";
 		custom[0][w_294][h_294] = DEAD;
+		grid_294 = DEAD;
 	}
 }
 var grid_295 = DEAD;
@@ -5227,6 +5521,7 @@ function _295() {
 	 else{ 
 		document.getElementById("295").style.background = "#0f99e3";
 		custom[0][w_295][h_295] = DEAD;
+		grid_295 = DEAD;
 	}
 }
 var grid_296 = DEAD;
@@ -5241,6 +5536,7 @@ function _296() {
 	 else{ 
 		document.getElementById("296").style.background = "#0f99e3";
 		custom[0][w_296][h_296] = DEAD;
+		grid_296 = DEAD;
 	}
 }
 var grid_297 = DEAD;
@@ -5255,6 +5551,7 @@ function _297() {
 	 else{ 
 		document.getElementById("297").style.background = "#0f99e3";
 		custom[0][w_297][h_297] = DEAD;
+		grid_297 = DEAD;
 	}
 }
 var grid_298 = DEAD;
@@ -5269,6 +5566,7 @@ function _298() {
 	 else{ 
 		document.getElementById("298").style.background = "#0f99e3";
 		custom[0][w_298][h_298] = DEAD;
+		grid_298 = DEAD;
 	}
 }
 var grid_299 = DEAD;
@@ -5283,6 +5581,7 @@ function _299() {
 	 else{ 
 		document.getElementById("299").style.background = "#0f99e3";
 		custom[0][w_299][h_299] = DEAD;
+		grid_299 = DEAD;
 	}
 }
 var grid_300 = DEAD;
@@ -5297,6 +5596,7 @@ function _300() {
 	 else{ 
 		document.getElementById("300").style.background = "#0f99e3";
 		custom[0][w_300][h_300] = DEAD;
+		grid_300 = DEAD;
 	}
 }
 var grid_301 = DEAD;
@@ -5311,6 +5611,7 @@ function _301() {
 	 else{ 
 		document.getElementById("301").style.background = "#0f99e3";
 		custom[0][w_301][h_301] = DEAD;
+		grid_301 = DEAD;
 	}
 }
 var grid_302 = DEAD;
@@ -5325,6 +5626,7 @@ function _302() {
 	 else{ 
 		document.getElementById("302").style.background = "#0f99e3";
 		custom[0][w_302][h_302] = DEAD;
+		grid_302 = DEAD;
 	}
 }
 var grid_303 = DEAD;
@@ -5339,6 +5641,7 @@ function _303() {
 	 else{ 
 		document.getElementById("303").style.background = "#0f99e3";
 		custom[0][w_303][h_303] = DEAD;
+		grid_303 = DEAD;
 	}
 }
 var grid_304 = DEAD;
@@ -5353,6 +5656,7 @@ function _304() {
 	 else{ 
 		document.getElementById("304").style.background = "#0f99e3";
 		custom[0][w_304][h_304] = DEAD;
+		grid_304 = DEAD;
 	}
 }
 var grid_305 = DEAD;
@@ -5367,6 +5671,7 @@ function _305() {
 	 else{ 
 		document.getElementById("305").style.background = "#0f99e3";
 		custom[0][w_305][h_305] = DEAD;
+		grid_305 = DEAD;
 	}
 }
 var grid_306 = DEAD;
@@ -5381,6 +5686,7 @@ function _306() {
 	 else{ 
 		document.getElementById("306").style.background = "#0f99e3";
 		custom[0][w_306][h_306] = DEAD;
+		grid_306 = DEAD;
 	}
 }
 var grid_307 = DEAD;
@@ -5395,6 +5701,7 @@ function _307() {
 	 else{ 
 		document.getElementById("307").style.background = "#0f99e3";
 		custom[0][w_307][h_307] = DEAD;
+		grid_307 = DEAD;
 	}
 }
 var grid_308 = DEAD;
@@ -5409,6 +5716,7 @@ function _308() {
 	 else{ 
 		document.getElementById("308").style.background = "#0f99e3";
 		custom[0][w_308][h_308] = DEAD;
+		grid_308 = DEAD;
 	}
 }
 var grid_309 = DEAD;
@@ -5423,6 +5731,7 @@ function _309() {
 	 else{ 
 		document.getElementById("309").style.background = "#0f99e3";
 		custom[0][w_309][h_309] = DEAD;
+		grid_309 = DEAD;
 	}
 }
 var grid_310 = DEAD;
@@ -5437,6 +5746,7 @@ function _310() {
 	 else{ 
 		document.getElementById("310").style.background = "#0f99e3";
 		custom[0][w_310][h_310] = DEAD;
+		grid_310 = DEAD;
 	}
 }
 var grid_311 = DEAD;
@@ -5451,6 +5761,7 @@ function _311() {
 	 else{ 
 		document.getElementById("311").style.background = "#0f99e3";
 		custom[0][w_311][h_311] = DEAD;
+		grid_311 = DEAD;
 	}
 }
 var grid_312 = DEAD;
@@ -5465,6 +5776,7 @@ function _312() {
 	 else{ 
 		document.getElementById("312").style.background = "#0f99e3";
 		custom[0][w_312][h_312] = DEAD;
+		grid_312 = DEAD;
 	}
 }
 var grid_313 = DEAD;
@@ -5479,6 +5791,7 @@ function _313() {
 	 else{ 
 		document.getElementById("313").style.background = "#0f99e3";
 		custom[0][w_313][h_313] = DEAD;
+		grid_313 = DEAD;
 	}
 }
 var grid_314 = DEAD;
@@ -5493,6 +5806,7 @@ function _314() {
 	 else{ 
 		document.getElementById("314").style.background = "#0f99e3";
 		custom[0][w_314][h_314] = DEAD;
+		grid_314 = DEAD;
 	}
 }
 var grid_315 = DEAD;
@@ -5507,6 +5821,7 @@ function _315() {
 	 else{ 
 		document.getElementById("315").style.background = "#0f99e3";
 		custom[0][w_315][h_315] = DEAD;
+		grid_315 = DEAD;
 	}
 }
 var grid_316 = DEAD;
@@ -5521,6 +5836,7 @@ function _316() {
 	 else{ 
 		document.getElementById("316").style.background = "#0f99e3";
 		custom[0][w_316][h_316] = DEAD;
+		grid_316 = DEAD;
 	}
 }
 var grid_317 = DEAD;
@@ -5535,6 +5851,7 @@ function _317() {
 	 else{ 
 		document.getElementById("317").style.background = "#0f99e3";
 		custom[0][w_317][h_317] = DEAD;
+		grid_317 = DEAD;
 	}
 }
 var grid_318 = DEAD;
@@ -5549,6 +5866,7 @@ function _318() {
 	 else{ 
 		document.getElementById("318").style.background = "#0f99e3";
 		custom[0][w_318][h_318] = DEAD;
+		grid_318 = DEAD;
 	}
 }
 var grid_319 = DEAD;
@@ -5563,6 +5881,7 @@ function _319() {
 	 else{ 
 		document.getElementById("319").style.background = "#0f99e3";
 		custom[0][w_319][h_319] = DEAD;
+		grid_319 = DEAD;
 	}
 }
 var grid_320 = DEAD;
@@ -5577,6 +5896,7 @@ function _320() {
 	 else{ 
 		document.getElementById("320").style.background = "#0f99e3";
 		custom[0][w_320][h_320] = DEAD;
+		grid_320 = DEAD;
 	}
 }
 var grid_321 = DEAD;
@@ -5591,6 +5911,7 @@ function _321() {
 	 else{ 
 		document.getElementById("321").style.background = "#0f99e3";
 		custom[0][w_321][h_321] = DEAD;
+		grid_321 = DEAD;
 	}
 }
 var grid_322 = DEAD;
@@ -5605,6 +5926,7 @@ function _322() {
 	 else{ 
 		document.getElementById("322").style.background = "#0f99e3";
 		custom[0][w_322][h_322] = DEAD;
+		grid_322 = DEAD;
 	}
 }
 var grid_323 = DEAD;
@@ -5619,6 +5941,7 @@ function _323() {
 	 else{ 
 		document.getElementById("323").style.background = "#0f99e3";
 		custom[0][w_323][h_323] = DEAD;
+		grid_323 = DEAD;
 	}
 }
 var grid_324 = DEAD;
@@ -5633,6 +5956,7 @@ function _324() {
 	 else{ 
 		document.getElementById("324").style.background = "#0f99e3";
 		custom[0][w_324][h_324] = DEAD;
+		grid_324 = DEAD;
 	}
 }
 var grid_325 = DEAD;
@@ -5647,6 +5971,7 @@ function _325() {
 	 else{ 
 		document.getElementById("325").style.background = "#0f99e3";
 		custom[0][w_325][h_325] = DEAD;
+		grid_325 = DEAD;
 	}
 }
 var grid_326 = DEAD;
@@ -5661,6 +5986,7 @@ function _326() {
 	 else{ 
 		document.getElementById("326").style.background = "#0f99e3";
 		custom[0][w_326][h_326] = DEAD;
+		grid_326 = DEAD;
 	}
 }
 var grid_327 = DEAD;
@@ -5675,6 +6001,7 @@ function _327() {
 	 else{ 
 		document.getElementById("327").style.background = "#0f99e3";
 		custom[0][w_327][h_327] = DEAD;
+		grid_327 = DEAD;
 	}
 }
 var grid_328 = DEAD;
@@ -5689,6 +6016,7 @@ function _328() {
 	 else{ 
 		document.getElementById("328").style.background = "#0f99e3";
 		custom[0][w_328][h_328] = DEAD;
+		grid_328 = DEAD;
 	}
 }
 var grid_329 = DEAD;
@@ -5703,6 +6031,7 @@ function _329() {
 	 else{ 
 		document.getElementById("329").style.background = "#0f99e3";
 		custom[0][w_329][h_329] = DEAD;
+		grid_329 = DEAD;
 	}
 }
 var grid_330 = DEAD;
@@ -5717,6 +6046,7 @@ function _330() {
 	 else{ 
 		document.getElementById("330").style.background = "#0f99e3";
 		custom[0][w_330][h_330] = DEAD;
+		grid_330 = DEAD;
 	}
 }
 var grid_331 = DEAD;
@@ -5731,6 +6061,7 @@ function _331() {
 	 else{ 
 		document.getElementById("331").style.background = "#0f99e3";
 		custom[0][w_331][h_331] = DEAD;
+		grid_331 = DEAD;
 	}
 }
 var grid_332 = DEAD;
@@ -5745,6 +6076,7 @@ function _332() {
 	 else{ 
 		document.getElementById("332").style.background = "#0f99e3";
 		custom[0][w_332][h_332] = DEAD;
+		grid_332 = DEAD;
 	}
 }
 var grid_333 = DEAD;
@@ -5759,6 +6091,7 @@ function _333() {
 	 else{ 
 		document.getElementById("333").style.background = "#0f99e3";
 		custom[0][w_333][h_333] = DEAD;
+		grid_333 = DEAD;
 	}
 }
 var grid_334 = DEAD;
@@ -5773,6 +6106,7 @@ function _334() {
 	 else{ 
 		document.getElementById("334").style.background = "#0f99e3";
 		custom[0][w_334][h_334] = DEAD;
+		grid_334 = DEAD;
 	}
 }
 var grid_335 = DEAD;
@@ -5787,6 +6121,7 @@ function _335() {
 	 else{ 
 		document.getElementById("335").style.background = "#0f99e3";
 		custom[0][w_335][h_335] = DEAD;
+		grid_335 = DEAD;
 	}
 }
 var grid_336 = DEAD;
@@ -5801,6 +6136,7 @@ function _336() {
 	 else{ 
 		document.getElementById("336").style.background = "#0f99e3";
 		custom[0][w_336][h_336] = DEAD;
+		grid_336 = DEAD;
 	}
 }
 var grid_337 = DEAD;
@@ -5815,6 +6151,7 @@ function _337() {
 	 else{ 
 		document.getElementById("337").style.background = "#0f99e3";
 		custom[0][w_337][h_337] = DEAD;
+		grid_337 = DEAD;
 	}
 }
 var grid_338 = DEAD;
@@ -5829,6 +6166,7 @@ function _338() {
 	 else{ 
 		document.getElementById("338").style.background = "#0f99e3";
 		custom[0][w_338][h_338] = DEAD;
+		grid_338 = DEAD;
 	}
 }
 var grid_339 = DEAD;
@@ -5843,6 +6181,7 @@ function _339() {
 	 else{ 
 		document.getElementById("339").style.background = "#0f99e3";
 		custom[0][w_339][h_339] = DEAD;
+		grid_339 = DEAD;
 	}
 }
 var grid_340 = DEAD;
@@ -5857,6 +6196,7 @@ function _340() {
 	 else{ 
 		document.getElementById("340").style.background = "#0f99e3";
 		custom[0][w_340][h_340] = DEAD;
+		grid_340 = DEAD;
 	}
 }
 var grid_341 = DEAD;
@@ -5871,6 +6211,7 @@ function _341() {
 	 else{ 
 		document.getElementById("341").style.background = "#0f99e3";
 		custom[0][w_341][h_341] = DEAD;
+		grid_341 = DEAD;
 	}
 }
 var grid_342 = DEAD;
@@ -5885,6 +6226,7 @@ function _342() {
 	 else{ 
 		document.getElementById("342").style.background = "#0f99e3";
 		custom[0][w_342][h_342] = DEAD;
+		grid_342 = DEAD;
 	}
 }
 var grid_343 = DEAD;
@@ -5899,6 +6241,7 @@ function _343() {
 	 else{ 
 		document.getElementById("343").style.background = "#0f99e3";
 		custom[0][w_343][h_343] = DEAD;
+		grid_343 = DEAD;
 	}
 }
 var grid_344 = DEAD;
@@ -5913,6 +6256,7 @@ function _344() {
 	 else{ 
 		document.getElementById("344").style.background = "#0f99e3";
 		custom[0][w_344][h_344] = DEAD;
+		grid_344 = DEAD;
 	}
 }
 var grid_345 = DEAD;
@@ -5927,6 +6271,7 @@ function _345() {
 	 else{ 
 		document.getElementById("345").style.background = "#0f99e3";
 		custom[0][w_345][h_345] = DEAD;
+		grid_345 = DEAD;
 	}
 }
 var grid_346 = DEAD;
@@ -5941,6 +6286,7 @@ function _346() {
 	 else{ 
 		document.getElementById("346").style.background = "#0f99e3";
 		custom[0][w_346][h_346] = DEAD;
+		grid_346 = DEAD;
 	}
 }
 var grid_347 = DEAD;
@@ -5955,6 +6301,7 @@ function _347() {
 	 else{ 
 		document.getElementById("347").style.background = "#0f99e3";
 		custom[0][w_347][h_347] = DEAD;
+		grid_347 = DEAD;
 	}
 }
 var grid_348 = DEAD;
@@ -5969,6 +6316,7 @@ function _348() {
 	 else{ 
 		document.getElementById("348").style.background = "#0f99e3";
 		custom[0][w_348][h_348] = DEAD;
+		grid_348 = DEAD;
 	}
 }
 var grid_349 = DEAD;
@@ -5983,6 +6331,7 @@ function _349() {
 	 else{ 
 		document.getElementById("349").style.background = "#0f99e3";
 		custom[0][w_349][h_349] = DEAD;
+		grid_349 = DEAD;
 	}
 }
 var grid_350 = DEAD;
@@ -5997,6 +6346,7 @@ function _350() {
 	 else{ 
 		document.getElementById("350").style.background = "#0f99e3";
 		custom[0][w_350][h_350] = DEAD;
+		grid_350 = DEAD;
 	}
 }
 var grid_351 = DEAD;
@@ -6011,6 +6361,7 @@ function _351() {
 	 else{ 
 		document.getElementById("351").style.background = "#0f99e3";
 		custom[0][w_351][h_351] = DEAD;
+		grid_351 = DEAD;
 	}
 }
 var grid_352 = DEAD;
@@ -6025,6 +6376,7 @@ function _352() {
 	 else{ 
 		document.getElementById("352").style.background = "#0f99e3";
 		custom[0][w_352][h_352] = DEAD;
+		grid_352 = DEAD;
 	}
 }
 var grid_353 = DEAD;
@@ -6039,6 +6391,7 @@ function _353() {
 	 else{ 
 		document.getElementById("353").style.background = "#0f99e3";
 		custom[0][w_353][h_353] = DEAD;
+		grid_353 = DEAD;
 	}
 }
 var grid_354 = DEAD;
@@ -6053,6 +6406,7 @@ function _354() {
 	 else{ 
 		document.getElementById("354").style.background = "#0f99e3";
 		custom[0][w_354][h_354] = DEAD;
+		grid_354 = DEAD;
 	}
 }
 var grid_355 = DEAD;
@@ -6067,6 +6421,7 @@ function _355() {
 	 else{ 
 		document.getElementById("355").style.background = "#0f99e3";
 		custom[0][w_355][h_355] = DEAD;
+		grid_355 = DEAD;
 	}
 }
 var grid_356 = DEAD;
@@ -6081,6 +6436,7 @@ function _356() {
 	 else{ 
 		document.getElementById("356").style.background = "#0f99e3";
 		custom[0][w_356][h_356] = DEAD;
+		grid_356 = DEAD;
 	}
 }
 var grid_357 = DEAD;
@@ -6095,6 +6451,7 @@ function _357() {
 	 else{ 
 		document.getElementById("357").style.background = "#0f99e3";
 		custom[0][w_357][h_357] = DEAD;
+		grid_357 = DEAD;
 	}
 }
 var grid_358 = DEAD;
@@ -6109,6 +6466,7 @@ function _358() {
 	 else{ 
 		document.getElementById("358").style.background = "#0f99e3";
 		custom[0][w_358][h_358] = DEAD;
+		grid_358 = DEAD;
 	}
 }
 var grid_359 = DEAD;
@@ -6123,6 +6481,7 @@ function _359() {
 	 else{ 
 		document.getElementById("359").style.background = "#0f99e3";
 		custom[0][w_359][h_359] = DEAD;
+		grid_359 = DEAD;
 	}
 }
 var grid_360 = DEAD;
@@ -6137,6 +6496,7 @@ function _360() {
 	 else{ 
 		document.getElementById("360").style.background = "#0f99e3";
 		custom[0][w_360][h_360] = DEAD;
+		grid_360 = DEAD;
 	}
 }
 var grid_361 = DEAD;
@@ -6151,6 +6511,7 @@ function _361() {
 	 else{ 
 		document.getElementById("361").style.background = "#0f99e3";
 		custom[0][w_361][h_361] = DEAD;
+		grid_361 = DEAD;
 	}
 }
 var grid_362 = DEAD;
@@ -6165,6 +6526,7 @@ function _362() {
 	 else{ 
 		document.getElementById("362").style.background = "#0f99e3";
 		custom[0][w_362][h_362] = DEAD;
+		grid_362 = DEAD;
 	}
 }
 var grid_363 = DEAD;
@@ -6179,6 +6541,7 @@ function _363() {
 	 else{ 
 		document.getElementById("363").style.background = "#0f99e3";
 		custom[0][w_363][h_363] = DEAD;
+		grid_363 = DEAD;
 	}
 }
 var grid_364 = DEAD;
@@ -6193,6 +6556,7 @@ function _364() {
 	 else{ 
 		document.getElementById("364").style.background = "#0f99e3";
 		custom[0][w_364][h_364] = DEAD;
+		grid_364 = DEAD;
 	}
 }
 var grid_365 = DEAD;
@@ -6207,6 +6571,7 @@ function _365() {
 	 else{ 
 		document.getElementById("365").style.background = "#0f99e3";
 		custom[0][w_365][h_365] = DEAD;
+		grid_365 = DEAD;
 	}
 }
 var grid_366 = DEAD;
@@ -6221,6 +6586,7 @@ function _366() {
 	 else{ 
 		document.getElementById("366").style.background = "#0f99e3";
 		custom[0][w_366][h_366] = DEAD;
+		grid_366 = DEAD;
 	}
 }
 var grid_367 = DEAD;
@@ -6235,6 +6601,7 @@ function _367() {
 	 else{ 
 		document.getElementById("367").style.background = "#0f99e3";
 		custom[0][w_367][h_367] = DEAD;
+		grid_367 = DEAD;
 	}
 }
 var grid_368 = DEAD;
@@ -6249,6 +6616,7 @@ function _368() {
 	 else{ 
 		document.getElementById("368").style.background = "#0f99e3";
 		custom[0][w_368][h_368] = DEAD;
+		grid_368 = DEAD;
 	}
 }
 var grid_369 = DEAD;
@@ -6263,6 +6631,7 @@ function _369() {
 	 else{ 
 		document.getElementById("369").style.background = "#0f99e3";
 		custom[0][w_369][h_369] = DEAD;
+		grid_369 = DEAD;
 	}
 }
 var grid_370 = DEAD;
@@ -6277,6 +6646,7 @@ function _370() {
 	 else{ 
 		document.getElementById("370").style.background = "#0f99e3";
 		custom[0][w_370][h_370] = DEAD;
+		grid_370 = DEAD;
 	}
 }
 var grid_371 = DEAD;
@@ -6291,6 +6661,7 @@ function _371() {
 	 else{ 
 		document.getElementById("371").style.background = "#0f99e3";
 		custom[0][w_371][h_371] = DEAD;
+		grid_371 = DEAD;
 	}
 }
 var grid_372 = DEAD;
@@ -6305,6 +6676,7 @@ function _372() {
 	 else{ 
 		document.getElementById("372").style.background = "#0f99e3";
 		custom[0][w_372][h_372] = DEAD;
+		grid_372 = DEAD;
 	}
 }
 var grid_373 = DEAD;
@@ -6319,6 +6691,7 @@ function _373() {
 	 else{ 
 		document.getElementById("373").style.background = "#0f99e3";
 		custom[0][w_373][h_373] = DEAD;
+		grid_373 = DEAD;
 	}
 }
 var grid_374 = DEAD;
@@ -6333,6 +6706,7 @@ function _374() {
 	 else{ 
 		document.getElementById("374").style.background = "#0f99e3";
 		custom[0][w_374][h_374] = DEAD;
+		grid_374 = DEAD;
 	}
 }
 var grid_375 = DEAD;
@@ -6347,6 +6721,7 @@ function _375() {
 	 else{ 
 		document.getElementById("375").style.background = "#0f99e3";
 		custom[0][w_375][h_375] = DEAD;
+		grid_375 = DEAD;
 	}
 }
 var grid_376 = DEAD;
@@ -6361,6 +6736,7 @@ function _376() {
 	 else{ 
 		document.getElementById("376").style.background = "#0f99e3";
 		custom[0][w_376][h_376] = DEAD;
+		grid_376 = DEAD;
 	}
 }
 var grid_377 = DEAD;
@@ -6375,6 +6751,7 @@ function _377() {
 	 else{ 
 		document.getElementById("377").style.background = "#0f99e3";
 		custom[0][w_377][h_377] = DEAD;
+		grid_377 = DEAD;
 	}
 }
 var grid_378 = DEAD;
@@ -6389,6 +6766,7 @@ function _378() {
 	 else{ 
 		document.getElementById("378").style.background = "#0f99e3";
 		custom[0][w_378][h_378] = DEAD;
+		grid_378 = DEAD;
 	}
 }
 var grid_379 = DEAD;
@@ -6403,6 +6781,7 @@ function _379() {
 	 else{ 
 		document.getElementById("379").style.background = "#0f99e3";
 		custom[0][w_379][h_379] = DEAD;
+		grid_379 = DEAD;
 	}
 }
 var grid_380 = DEAD;
@@ -6417,6 +6796,7 @@ function _380() {
 	 else{ 
 		document.getElementById("380").style.background = "#0f99e3";
 		custom[0][w_380][h_380] = DEAD;
+		grid_380 = DEAD;
 	}
 }
 var grid_381 = DEAD;
@@ -6431,6 +6811,7 @@ function _381() {
 	 else{ 
 		document.getElementById("381").style.background = "#0f99e3";
 		custom[0][w_381][h_381] = DEAD;
+		grid_381 = DEAD;
 	}
 }
 var grid_382 = DEAD;
@@ -6445,6 +6826,7 @@ function _382() {
 	 else{ 
 		document.getElementById("382").style.background = "#0f99e3";
 		custom[0][w_382][h_382] = DEAD;
+		grid_382 = DEAD;
 	}
 }
 var grid_383 = DEAD;
@@ -6459,6 +6841,7 @@ function _383() {
 	 else{ 
 		document.getElementById("383").style.background = "#0f99e3";
 		custom[0][w_383][h_383] = DEAD;
+		grid_383 = DEAD;
 	}
 }
 var grid_384 = DEAD;
@@ -6473,6 +6856,7 @@ function _384() {
 	 else{ 
 		document.getElementById("384").style.background = "#0f99e3";
 		custom[0][w_384][h_384] = DEAD;
+		grid_384 = DEAD;
 	}
 }
 var grid_385 = DEAD;
@@ -6487,6 +6871,7 @@ function _385() {
 	 else{ 
 		document.getElementById("385").style.background = "#0f99e3";
 		custom[0][w_385][h_385] = DEAD;
+		grid_385 = DEAD;
 	}
 }
 var grid_386 = DEAD;
@@ -6501,6 +6886,7 @@ function _386() {
 	 else{ 
 		document.getElementById("386").style.background = "#0f99e3";
 		custom[0][w_386][h_386] = DEAD;
+		grid_386 = DEAD;
 	}
 }
 var grid_387 = DEAD;
@@ -6515,6 +6901,7 @@ function _387() {
 	 else{ 
 		document.getElementById("387").style.background = "#0f99e3";
 		custom[0][w_387][h_387] = DEAD;
+		grid_387 = DEAD;
 	}
 }
 var grid_388 = DEAD;
@@ -6529,6 +6916,7 @@ function _388() {
 	 else{ 
 		document.getElementById("388").style.background = "#0f99e3";
 		custom[0][w_388][h_388] = DEAD;
+		grid_388 = DEAD;
 	}
 }
 var grid_389 = DEAD;
@@ -6543,6 +6931,7 @@ function _389() {
 	 else{ 
 		document.getElementById("389").style.background = "#0f99e3";
 		custom[0][w_389][h_389] = DEAD;
+		grid_389 = DEAD;
 	}
 }
 var grid_390 = DEAD;
@@ -6557,6 +6946,7 @@ function _390() {
 	 else{ 
 		document.getElementById("390").style.background = "#0f99e3";
 		custom[0][w_390][h_390] = DEAD;
+		grid_390 = DEAD;
 	}
 }
 var grid_391 = DEAD;
@@ -6571,6 +6961,7 @@ function _391() {
 	 else{ 
 		document.getElementById("391").style.background = "#0f99e3";
 		custom[0][w_391][h_391] = DEAD;
+		grid_391 = DEAD;
 	}
 }
 var grid_392 = DEAD;
@@ -6585,6 +6976,7 @@ function _392() {
 	 else{ 
 		document.getElementById("392").style.background = "#0f99e3";
 		custom[0][w_392][h_392] = DEAD;
+		grid_392 = DEAD;
 	}
 }
 var grid_393 = DEAD;
@@ -6599,6 +6991,7 @@ function _393() {
 	 else{ 
 		document.getElementById("393").style.background = "#0f99e3";
 		custom[0][w_393][h_393] = DEAD;
+		grid_393 = DEAD;
 	}
 }
 var grid_394 = DEAD;
@@ -6613,6 +7006,7 @@ function _394() {
 	 else{ 
 		document.getElementById("394").style.background = "#0f99e3";
 		custom[0][w_394][h_394] = DEAD;
+		grid_394 = DEAD;
 	}
 }
 var grid_395 = DEAD;
@@ -6627,6 +7021,7 @@ function _395() {
 	 else{ 
 		document.getElementById("395").style.background = "#0f99e3";
 		custom[0][w_395][h_395] = DEAD;
+		grid_395 = DEAD;
 	}
 }
 var grid_396 = DEAD;
@@ -6641,6 +7036,7 @@ function _396() {
 	 else{ 
 		document.getElementById("396").style.background = "#0f99e3";
 		custom[0][w_396][h_396] = DEAD;
+		grid_396 = DEAD;
 	}
 }
 var grid_397 = DEAD;
@@ -6655,6 +7051,7 @@ function _397() {
 	 else{ 
 		document.getElementById("397").style.background = "#0f99e3";
 		custom[0][w_397][h_397] = DEAD;
+		grid_397 = DEAD;
 	}
 }
 var grid_398 = DEAD;
@@ -6669,6 +7066,7 @@ function _398() {
 	 else{ 
 		document.getElementById("398").style.background = "#0f99e3";
 		custom[0][w_398][h_398] = DEAD;
+		grid_398 = DEAD;
 	}
 }
 var grid_399 = DEAD;
@@ -6683,6 +7081,7 @@ function _399() {
 	 else{ 
 		document.getElementById("399").style.background = "#0f99e3";
 		custom[0][w_399][h_399] = DEAD;
+		grid_399 = DEAD;
 	}
 }
 var grid_400 = DEAD;
@@ -6697,6 +7096,7 @@ function _400() {
 	 else{ 
 		document.getElementById("400").style.background = "#0f99e3";
 		custom[0][w_400][h_400] = DEAD;
+		grid_400 = DEAD;
 	}
 }
 var grid_401 = DEAD;
@@ -6711,6 +7111,7 @@ function _401() {
 	 else{ 
 		document.getElementById("401").style.background = "#0f99e3";
 		custom[0][w_401][h_401] = DEAD;
+		grid_401 = DEAD;
 	}
 }
 var grid_402 = DEAD;
@@ -6725,6 +7126,7 @@ function _402() {
 	 else{ 
 		document.getElementById("402").style.background = "#0f99e3";
 		custom[0][w_402][h_402] = DEAD;
+		grid_402 = DEAD;
 	}
 }
 var grid_403 = DEAD;
@@ -6739,6 +7141,7 @@ function _403() {
 	 else{ 
 		document.getElementById("403").style.background = "#0f99e3";
 		custom[0][w_403][h_403] = DEAD;
+		grid_403 = DEAD;
 	}
 }
 var grid_404 = DEAD;
@@ -6753,6 +7156,7 @@ function _404() {
 	 else{ 
 		document.getElementById("404").style.background = "#0f99e3";
 		custom[0][w_404][h_404] = DEAD;
+		grid_404 = DEAD;
 	}
 }
 var grid_405 = DEAD;
@@ -6767,6 +7171,7 @@ function _405() {
 	 else{ 
 		document.getElementById("405").style.background = "#0f99e3";
 		custom[0][w_405][h_405] = DEAD;
+		grid_405 = DEAD;
 	}
 }
 var grid_406 = DEAD;
@@ -6781,6 +7186,7 @@ function _406() {
 	 else{ 
 		document.getElementById("406").style.background = "#0f99e3";
 		custom[0][w_406][h_406] = DEAD;
+		grid_406 = DEAD;
 	}
 }
 var grid_407 = DEAD;
@@ -6795,6 +7201,7 @@ function _407() {
 	 else{ 
 		document.getElementById("407").style.background = "#0f99e3";
 		custom[0][w_407][h_407] = DEAD;
+		grid_407 = DEAD;
 	}
 }
 var grid_408 = DEAD;
@@ -6809,6 +7216,7 @@ function _408() {
 	 else{ 
 		document.getElementById("408").style.background = "#0f99e3";
 		custom[0][w_408][h_408] = DEAD;
+		grid_408 = DEAD;
 	}
 }
 var grid_409 = DEAD;
@@ -6823,6 +7231,7 @@ function _409() {
 	 else{ 
 		document.getElementById("409").style.background = "#0f99e3";
 		custom[0][w_409][h_409] = DEAD;
+		grid_409 = DEAD;
 	}
 }
 var grid_410 = DEAD;
@@ -6837,6 +7246,7 @@ function _410() {
 	 else{ 
 		document.getElementById("410").style.background = "#0f99e3";
 		custom[0][w_410][h_410] = DEAD;
+		grid_410 = DEAD;
 	}
 }
 var grid_411 = DEAD;
@@ -6851,6 +7261,7 @@ function _411() {
 	 else{ 
 		document.getElementById("411").style.background = "#0f99e3";
 		custom[0][w_411][h_411] = DEAD;
+		grid_411 = DEAD;
 	}
 }
 var grid_412 = DEAD;
@@ -6865,6 +7276,7 @@ function _412() {
 	 else{ 
 		document.getElementById("412").style.background = "#0f99e3";
 		custom[0][w_412][h_412] = DEAD;
+		grid_412 = DEAD;
 	}
 }
 var grid_413 = DEAD;
@@ -6879,6 +7291,7 @@ function _413() {
 	 else{ 
 		document.getElementById("413").style.background = "#0f99e3";
 		custom[0][w_413][h_413] = DEAD;
+		grid_413 = DEAD;
 	}
 }
 var grid_414 = DEAD;
@@ -6893,6 +7306,7 @@ function _414() {
 	 else{ 
 		document.getElementById("414").style.background = "#0f99e3";
 		custom[0][w_414][h_414] = DEAD;
+		grid_414 = DEAD;
 	}
 }
 var grid_415 = DEAD;
@@ -6907,6 +7321,7 @@ function _415() {
 	 else{ 
 		document.getElementById("415").style.background = "#0f99e3";
 		custom[0][w_415][h_415] = DEAD;
+		grid_415 = DEAD;
 	}
 }
 var grid_416 = DEAD;
@@ -6921,6 +7336,7 @@ function _416() {
 	 else{ 
 		document.getElementById("416").style.background = "#0f99e3";
 		custom[0][w_416][h_416] = DEAD;
+		grid_416 = DEAD;
 	}
 }
 var grid_417 = DEAD;
@@ -6935,6 +7351,7 @@ function _417() {
 	 else{ 
 		document.getElementById("417").style.background = "#0f99e3";
 		custom[0][w_417][h_417] = DEAD;
+		grid_417 = DEAD;
 	}
 }
 var grid_418 = DEAD;
@@ -6949,6 +7366,7 @@ function _418() {
 	 else{ 
 		document.getElementById("418").style.background = "#0f99e3";
 		custom[0][w_418][h_418] = DEAD;
+		grid_418 = DEAD;
 	}
 }
 var grid_419 = DEAD;
@@ -6963,6 +7381,7 @@ function _419() {
 	 else{ 
 		document.getElementById("419").style.background = "#0f99e3";
 		custom[0][w_419][h_419] = DEAD;
+		grid_419 = DEAD;
 	}
 }
 var grid_420 = DEAD;
@@ -6977,6 +7396,7 @@ function _420() {
 	 else{ 
 		document.getElementById("420").style.background = "#0f99e3";
 		custom[0][w_420][h_420] = DEAD;
+		grid_420 = DEAD;
 	}
 }
 var grid_421 = DEAD;
@@ -6991,6 +7411,7 @@ function _421() {
 	 else{ 
 		document.getElementById("421").style.background = "#0f99e3";
 		custom[0][w_421][h_421] = DEAD;
+		grid_421 = DEAD;
 	}
 }
 var grid_422 = DEAD;
@@ -7005,6 +7426,7 @@ function _422() {
 	 else{ 
 		document.getElementById("422").style.background = "#0f99e3";
 		custom[0][w_422][h_422] = DEAD;
+		grid_422 = DEAD;
 	}
 }
 var grid_423 = DEAD;
@@ -7019,6 +7441,7 @@ function _423() {
 	 else{ 
 		document.getElementById("423").style.background = "#0f99e3";
 		custom[0][w_423][h_423] = DEAD;
+		grid_423 = DEAD;
 	}
 }
 var grid_424 = DEAD;
@@ -7033,6 +7456,7 @@ function _424() {
 	 else{ 
 		document.getElementById("424").style.background = "#0f99e3";
 		custom[0][w_424][h_424] = DEAD;
+		grid_424 = DEAD;
 	}
 }
 var grid_425 = DEAD;
@@ -7047,6 +7471,7 @@ function _425() {
 	 else{ 
 		document.getElementById("425").style.background = "#0f99e3";
 		custom[0][w_425][h_425] = DEAD;
+		grid_425 = DEAD;
 	}
 }
 var grid_426 = DEAD;
@@ -7061,6 +7486,7 @@ function _426() {
 	 else{ 
 		document.getElementById("426").style.background = "#0f99e3";
 		custom[0][w_426][h_426] = DEAD;
+		grid_426 = DEAD;
 	}
 }
 var grid_427 = DEAD;
@@ -7075,6 +7501,7 @@ function _427() {
 	 else{ 
 		document.getElementById("427").style.background = "#0f99e3";
 		custom[0][w_427][h_427] = DEAD;
+		grid_427 = DEAD;
 	}
 }
 var grid_428 = DEAD;
@@ -7089,6 +7516,7 @@ function _428() {
 	 else{ 
 		document.getElementById("428").style.background = "#0f99e3";
 		custom[0][w_428][h_428] = DEAD;
+		grid_428 = DEAD;
 	}
 }
 var grid_429 = DEAD;
@@ -7103,6 +7531,7 @@ function _429() {
 	 else{ 
 		document.getElementById("429").style.background = "#0f99e3";
 		custom[0][w_429][h_429] = DEAD;
+		grid_429 = DEAD;
 	}
 }
 var grid_430 = DEAD;
@@ -7117,6 +7546,7 @@ function _430() {
 	 else{ 
 		document.getElementById("430").style.background = "#0f99e3";
 		custom[0][w_430][h_430] = DEAD;
+		grid_430 = DEAD;
 	}
 }
 var grid_431 = DEAD;
@@ -7131,6 +7561,7 @@ function _431() {
 	 else{ 
 		document.getElementById("431").style.background = "#0f99e3";
 		custom[0][w_431][h_431] = DEAD;
+		grid_431 = DEAD;
 	}
 }
 var grid_432 = DEAD;
@@ -7145,6 +7576,7 @@ function _432() {
 	 else{ 
 		document.getElementById("432").style.background = "#0f99e3";
 		custom[0][w_432][h_432] = DEAD;
+		grid_432 = DEAD;
 	}
 }
 var grid_433 = DEAD;
@@ -7159,6 +7591,7 @@ function _433() {
 	 else{ 
 		document.getElementById("433").style.background = "#0f99e3";
 		custom[0][w_433][h_433] = DEAD;
+		grid_433 = DEAD;
 	}
 }
 var grid_434 = DEAD;
@@ -7173,6 +7606,7 @@ function _434() {
 	 else{ 
 		document.getElementById("434").style.background = "#0f99e3";
 		custom[0][w_434][h_434] = DEAD;
+		grid_434 = DEAD;
 	}
 }
 var grid_435 = DEAD;
@@ -7187,6 +7621,7 @@ function _435() {
 	 else{ 
 		document.getElementById("435").style.background = "#0f99e3";
 		custom[0][w_435][h_435] = DEAD;
+		grid_435 = DEAD;
 	}
 }
 var grid_436 = DEAD;
@@ -7201,6 +7636,7 @@ function _436() {
 	 else{ 
 		document.getElementById("436").style.background = "#0f99e3";
 		custom[0][w_436][h_436] = DEAD;
+		grid_436 = DEAD;
 	}
 }
 var grid_437 = DEAD;
@@ -7215,6 +7651,7 @@ function _437() {
 	 else{ 
 		document.getElementById("437").style.background = "#0f99e3";
 		custom[0][w_437][h_437] = DEAD;
+		grid_437 = DEAD;
 	}
 }
 var grid_438 = DEAD;
@@ -7229,6 +7666,7 @@ function _438() {
 	 else{ 
 		document.getElementById("438").style.background = "#0f99e3";
 		custom[0][w_438][h_438] = DEAD;
+		grid_438 = DEAD;
 	}
 }
 var grid_439 = DEAD;
@@ -7243,6 +7681,7 @@ function _439() {
 	 else{ 
 		document.getElementById("439").style.background = "#0f99e3";
 		custom[0][w_439][h_439] = DEAD;
+		grid_439 = DEAD;
 	}
 }
 var grid_440 = DEAD;
@@ -7257,6 +7696,7 @@ function _440() {
 	 else{ 
 		document.getElementById("440").style.background = "#0f99e3";
 		custom[0][w_440][h_440] = DEAD;
+		grid_440 = DEAD;
 	}
 }
 var grid_441 = DEAD;
@@ -7271,6 +7711,7 @@ function _441() {
 	 else{ 
 		document.getElementById("441").style.background = "#0f99e3";
 		custom[0][w_441][h_441] = DEAD;
+		grid_441 = DEAD;
 	}
 }
 var grid_442 = DEAD;
@@ -7285,6 +7726,7 @@ function _442() {
 	 else{ 
 		document.getElementById("442").style.background = "#0f99e3";
 		custom[0][w_442][h_442] = DEAD;
+		grid_442 = DEAD;
 	}
 }
 var grid_443 = DEAD;
@@ -7299,6 +7741,7 @@ function _443() {
 	 else{ 
 		document.getElementById("443").style.background = "#0f99e3";
 		custom[0][w_443][h_443] = DEAD;
+		grid_443 = DEAD;
 	}
 }
 var grid_444 = DEAD;
@@ -7313,6 +7756,7 @@ function _444() {
 	 else{ 
 		document.getElementById("444").style.background = "#0f99e3";
 		custom[0][w_444][h_444] = DEAD;
+		grid_444 = DEAD;
 	}
 }
 var grid_445 = DEAD;
@@ -7327,6 +7771,7 @@ function _445() {
 	 else{ 
 		document.getElementById("445").style.background = "#0f99e3";
 		custom[0][w_445][h_445] = DEAD;
+		grid_445 = DEAD;
 	}
 }
 var grid_446 = DEAD;
@@ -7341,6 +7786,7 @@ function _446() {
 	 else{ 
 		document.getElementById("446").style.background = "#0f99e3";
 		custom[0][w_446][h_446] = DEAD;
+		grid_446 = DEAD;
 	}
 }
 var grid_447 = DEAD;
@@ -7355,6 +7801,7 @@ function _447() {
 	 else{ 
 		document.getElementById("447").style.background = "#0f99e3";
 		custom[0][w_447][h_447] = DEAD;
+		grid_447 = DEAD;
 	}
 }
 var grid_448 = DEAD;
@@ -7369,6 +7816,7 @@ function _448() {
 	 else{ 
 		document.getElementById("448").style.background = "#0f99e3";
 		custom[0][w_448][h_448] = DEAD;
+		grid_448 = DEAD;
 	}
 }
 var grid_449 = DEAD;
@@ -7383,6 +7831,7 @@ function _449() {
 	 else{ 
 		document.getElementById("449").style.background = "#0f99e3";
 		custom[0][w_449][h_449] = DEAD;
+		grid_449 = DEAD;
 	}
 }
 var grid_450 = DEAD;
@@ -7397,6 +7846,7 @@ function _450() {
 	 else{ 
 		document.getElementById("450").style.background = "#0f99e3";
 		custom[0][w_450][h_450] = DEAD;
+		grid_450 = DEAD;
 	}
 }
 var grid_451 = DEAD;
@@ -7411,6 +7861,7 @@ function _451() {
 	 else{ 
 		document.getElementById("451").style.background = "#0f99e3";
 		custom[0][w_451][h_451] = DEAD;
+		grid_451 = DEAD;
 	}
 }
 var grid_452 = DEAD;
@@ -7425,6 +7876,7 @@ function _452() {
 	 else{ 
 		document.getElementById("452").style.background = "#0f99e3";
 		custom[0][w_452][h_452] = DEAD;
+		grid_452 = DEAD;
 	}
 }
 var grid_453 = DEAD;
@@ -7439,6 +7891,7 @@ function _453() {
 	 else{ 
 		document.getElementById("453").style.background = "#0f99e3";
 		custom[0][w_453][h_453] = DEAD;
+		grid_453 = DEAD;
 	}
 }
 var grid_454 = DEAD;
@@ -7453,6 +7906,7 @@ function _454() {
 	 else{ 
 		document.getElementById("454").style.background = "#0f99e3";
 		custom[0][w_454][h_454] = DEAD;
+		grid_454 = DEAD;
 	}
 }
 var grid_455 = DEAD;
@@ -7467,6 +7921,7 @@ function _455() {
 	 else{ 
 		document.getElementById("455").style.background = "#0f99e3";
 		custom[0][w_455][h_455] = DEAD;
+		grid_455 = DEAD;
 	}
 }
 var grid_456 = DEAD;
@@ -7481,6 +7936,7 @@ function _456() {
 	 else{ 
 		document.getElementById("456").style.background = "#0f99e3";
 		custom[0][w_456][h_456] = DEAD;
+		grid_456 = DEAD;
 	}
 }
 var grid_457 = DEAD;
@@ -7495,6 +7951,7 @@ function _457() {
 	 else{ 
 		document.getElementById("457").style.background = "#0f99e3";
 		custom[0][w_457][h_457] = DEAD;
+		grid_457 = DEAD;
 	}
 }
 var grid_458 = DEAD;
@@ -7509,6 +7966,7 @@ function _458() {
 	 else{ 
 		document.getElementById("458").style.background = "#0f99e3";
 		custom[0][w_458][h_458] = DEAD;
+		grid_458 = DEAD;
 	}
 }
 var grid_459 = DEAD;
@@ -7523,6 +7981,7 @@ function _459() {
 	 else{ 
 		document.getElementById("459").style.background = "#0f99e3";
 		custom[0][w_459][h_459] = DEAD;
+		grid_459 = DEAD;
 	}
 }
 var grid_460 = DEAD;
@@ -7537,6 +7996,7 @@ function _460() {
 	 else{ 
 		document.getElementById("460").style.background = "#0f99e3";
 		custom[0][w_460][h_460] = DEAD;
+		grid_460 = DEAD;
 	}
 }
 var grid_461 = DEAD;
@@ -7551,6 +8011,7 @@ function _461() {
 	 else{ 
 		document.getElementById("461").style.background = "#0f99e3";
 		custom[0][w_461][h_461] = DEAD;
+		grid_461 = DEAD;
 	}
 }
 var grid_462 = DEAD;
@@ -7565,6 +8026,7 @@ function _462() {
 	 else{ 
 		document.getElementById("462").style.background = "#0f99e3";
 		custom[0][w_462][h_462] = DEAD;
+		grid_462 = DEAD;
 	}
 }
 var grid_463 = DEAD;
@@ -7579,6 +8041,7 @@ function _463() {
 	 else{ 
 		document.getElementById("463").style.background = "#0f99e3";
 		custom[0][w_463][h_463] = DEAD;
+		grid_463 = DEAD;
 	}
 }
 var grid_464 = DEAD;
@@ -7593,6 +8056,7 @@ function _464() {
 	 else{ 
 		document.getElementById("464").style.background = "#0f99e3";
 		custom[0][w_464][h_464] = DEAD;
+		grid_464 = DEAD;
 	}
 }
 var grid_465 = DEAD;
@@ -7607,6 +8071,7 @@ function _465() {
 	 else{ 
 		document.getElementById("465").style.background = "#0f99e3";
 		custom[0][w_465][h_465] = DEAD;
+		grid_465 = DEAD;
 	}
 }
 var grid_466 = DEAD;
@@ -7621,6 +8086,7 @@ function _466() {
 	 else{ 
 		document.getElementById("466").style.background = "#0f99e3";
 		custom[0][w_466][h_466] = DEAD;
+		grid_466 = DEAD;
 	}
 }
 var grid_467 = DEAD;
@@ -7635,6 +8101,7 @@ function _467() {
 	 else{ 
 		document.getElementById("467").style.background = "#0f99e3";
 		custom[0][w_467][h_467] = DEAD;
+		grid_467 = DEAD;
 	}
 }
 var grid_468 = DEAD;
@@ -7649,6 +8116,7 @@ function _468() {
 	 else{ 
 		document.getElementById("468").style.background = "#0f99e3";
 		custom[0][w_468][h_468] = DEAD;
+		grid_468 = DEAD;
 	}
 }
 var grid_469 = DEAD;
@@ -7663,6 +8131,7 @@ function _469() {
 	 else{ 
 		document.getElementById("469").style.background = "#0f99e3";
 		custom[0][w_469][h_469] = DEAD;
+		grid_469 = DEAD;
 	}
 }
 var grid_470 = DEAD;
@@ -7677,6 +8146,7 @@ function _470() {
 	 else{ 
 		document.getElementById("470").style.background = "#0f99e3";
 		custom[0][w_470][h_470] = DEAD;
+		grid_470 = DEAD;
 	}
 }
 var grid_471 = DEAD;
@@ -7691,6 +8161,7 @@ function _471() {
 	 else{ 
 		document.getElementById("471").style.background = "#0f99e3";
 		custom[0][w_471][h_471] = DEAD;
+		grid_471 = DEAD;
 	}
 }
 var grid_472 = DEAD;
@@ -7705,6 +8176,7 @@ function _472() {
 	 else{ 
 		document.getElementById("472").style.background = "#0f99e3";
 		custom[0][w_472][h_472] = DEAD;
+		grid_472 = DEAD;
 	}
 }
 var grid_473 = DEAD;
@@ -7719,6 +8191,7 @@ function _473() {
 	 else{ 
 		document.getElementById("473").style.background = "#0f99e3";
 		custom[0][w_473][h_473] = DEAD;
+		grid_473 = DEAD;
 	}
 }
 var grid_474 = DEAD;
@@ -7733,6 +8206,7 @@ function _474() {
 	 else{ 
 		document.getElementById("474").style.background = "#0f99e3";
 		custom[0][w_474][h_474] = DEAD;
+		grid_474 = DEAD;
 	}
 }
 var grid_475 = DEAD;
@@ -7747,6 +8221,7 @@ function _475() {
 	 else{ 
 		document.getElementById("475").style.background = "#0f99e3";
 		custom[0][w_475][h_475] = DEAD;
+		grid_475 = DEAD;
 	}
 }
 var grid_476 = DEAD;
@@ -7761,6 +8236,7 @@ function _476() {
 	 else{ 
 		document.getElementById("476").style.background = "#0f99e3";
 		custom[0][w_476][h_476] = DEAD;
+		grid_476 = DEAD;
 	}
 }
 var grid_477 = DEAD;
@@ -7775,6 +8251,7 @@ function _477() {
 	 else{ 
 		document.getElementById("477").style.background = "#0f99e3";
 		custom[0][w_477][h_477] = DEAD;
+		grid_477 = DEAD;
 	}
 }
 var grid_478 = DEAD;
@@ -7789,6 +8266,7 @@ function _478() {
 	 else{ 
 		document.getElementById("478").style.background = "#0f99e3";
 		custom[0][w_478][h_478] = DEAD;
+		grid_478 = DEAD;
 	}
 }
 var grid_479 = DEAD;
@@ -7803,6 +8281,7 @@ function _479() {
 	 else{ 
 		document.getElementById("479").style.background = "#0f99e3";
 		custom[0][w_479][h_479] = DEAD;
+		grid_479 = DEAD;
 	}
 }
 var grid_480 = DEAD;
@@ -7817,6 +8296,7 @@ function _480() {
 	 else{ 
 		document.getElementById("480").style.background = "#0f99e3";
 		custom[0][w_480][h_480] = DEAD;
+		grid_480 = DEAD;
 	}
 }
 var grid_481 = DEAD;
@@ -7831,6 +8311,7 @@ function _481() {
 	 else{ 
 		document.getElementById("481").style.background = "#0f99e3";
 		custom[0][w_481][h_481] = DEAD;
+		grid_481 = DEAD;
 	}
 }
 var grid_482 = DEAD;
@@ -7845,6 +8326,7 @@ function _482() {
 	 else{ 
 		document.getElementById("482").style.background = "#0f99e3";
 		custom[0][w_482][h_482] = DEAD;
+		grid_482 = DEAD;
 	}
 }
 var grid_483 = DEAD;
@@ -7859,6 +8341,7 @@ function _483() {
 	 else{ 
 		document.getElementById("483").style.background = "#0f99e3";
 		custom[0][w_483][h_483] = DEAD;
+		grid_483 = DEAD;
 	}
 }
 var grid_484 = DEAD;
@@ -7873,6 +8356,7 @@ function _484() {
 	 else{ 
 		document.getElementById("484").style.background = "#0f99e3";
 		custom[0][w_484][h_484] = DEAD;
+		grid_484 = DEAD;
 	}
 }
 var grid_485 = DEAD;
@@ -7887,6 +8371,7 @@ function _485() {
 	 else{ 
 		document.getElementById("485").style.background = "#0f99e3";
 		custom[0][w_485][h_485] = DEAD;
+		grid_485 = DEAD;
 	}
 }
 var grid_486 = DEAD;
@@ -7901,6 +8386,7 @@ function _486() {
 	 else{ 
 		document.getElementById("486").style.background = "#0f99e3";
 		custom[0][w_486][h_486] = DEAD;
+		grid_486 = DEAD;
 	}
 }
 var grid_487 = DEAD;
@@ -7915,6 +8401,7 @@ function _487() {
 	 else{ 
 		document.getElementById("487").style.background = "#0f99e3";
 		custom[0][w_487][h_487] = DEAD;
+		grid_487 = DEAD;
 	}
 }
 var grid_488 = DEAD;
@@ -7929,6 +8416,7 @@ function _488() {
 	 else{ 
 		document.getElementById("488").style.background = "#0f99e3";
 		custom[0][w_488][h_488] = DEAD;
+		grid_488 = DEAD;
 	}
 }
 var grid_489 = DEAD;
@@ -7943,6 +8431,7 @@ function _489() {
 	 else{ 
 		document.getElementById("489").style.background = "#0f99e3";
 		custom[0][w_489][h_489] = DEAD;
+		grid_489 = DEAD;
 	}
 }
 var grid_490 = DEAD;
@@ -7957,6 +8446,7 @@ function _490() {
 	 else{ 
 		document.getElementById("490").style.background = "#0f99e3";
 		custom[0][w_490][h_490] = DEAD;
+		grid_490 = DEAD;
 	}
 }
 var grid_491 = DEAD;
@@ -7971,6 +8461,7 @@ function _491() {
 	 else{ 
 		document.getElementById("491").style.background = "#0f99e3";
 		custom[0][w_491][h_491] = DEAD;
+		grid_491 = DEAD;
 	}
 }
 var grid_492 = DEAD;
@@ -7985,6 +8476,7 @@ function _492() {
 	 else{ 
 		document.getElementById("492").style.background = "#0f99e3";
 		custom[0][w_492][h_492] = DEAD;
+		grid_492 = DEAD;
 	}
 }
 var grid_493 = DEAD;
@@ -7999,6 +8491,7 @@ function _493() {
 	 else{ 
 		document.getElementById("493").style.background = "#0f99e3";
 		custom[0][w_493][h_493] = DEAD;
+		grid_493 = DEAD;
 	}
 }
 var grid_494 = DEAD;
@@ -8013,6 +8506,7 @@ function _494() {
 	 else{ 
 		document.getElementById("494").style.background = "#0f99e3";
 		custom[0][w_494][h_494] = DEAD;
+		grid_494 = DEAD;
 	}
 }
 var grid_495 = DEAD;
@@ -8027,6 +8521,7 @@ function _495() {
 	 else{ 
 		document.getElementById("495").style.background = "#0f99e3";
 		custom[0][w_495][h_495] = DEAD;
+		grid_495 = DEAD;
 	}
 }
 var grid_496 = DEAD;
@@ -8041,6 +8536,7 @@ function _496() {
 	 else{ 
 		document.getElementById("496").style.background = "#0f99e3";
 		custom[0][w_496][h_496] = DEAD;
+		grid_496 = DEAD;
 	}
 }
 var grid_497 = DEAD;
@@ -8055,6 +8551,7 @@ function _497() {
 	 else{ 
 		document.getElementById("497").style.background = "#0f99e3";
 		custom[0][w_497][h_497] = DEAD;
+		grid_497 = DEAD;
 	}
 }
 var grid_498 = DEAD;
@@ -8069,6 +8566,7 @@ function _498() {
 	 else{ 
 		document.getElementById("498").style.background = "#0f99e3";
 		custom[0][w_498][h_498] = DEAD;
+		grid_498 = DEAD;
 	}
 }
 var grid_499 = DEAD;
@@ -8083,6 +8581,7 @@ function _499() {
 	 else{ 
 		document.getElementById("499").style.background = "#0f99e3";
 		custom[0][w_499][h_499] = DEAD;
+		grid_499 = DEAD;
 	}
 }
 var grid_500 = DEAD;
@@ -8097,6 +8596,7 @@ function _500() {
 	 else{ 
 		document.getElementById("500").style.background = "#0f99e3";
 		custom[0][w_500][h_500] = DEAD;
+		grid_500 = DEAD;
 	}
 }
 var grid_501 = DEAD;
@@ -8111,6 +8611,7 @@ function _501() {
 	 else{ 
 		document.getElementById("501").style.background = "#0f99e3";
 		custom[0][w_501][h_501] = DEAD;
+		grid_501 = DEAD;
 	}
 }
 var grid_502 = DEAD;
@@ -8125,6 +8626,7 @@ function _502() {
 	 else{ 
 		document.getElementById("502").style.background = "#0f99e3";
 		custom[0][w_502][h_502] = DEAD;
+		grid_502 = DEAD;
 	}
 }
 var grid_503 = DEAD;
@@ -8139,6 +8641,7 @@ function _503() {
 	 else{ 
 		document.getElementById("503").style.background = "#0f99e3";
 		custom[0][w_503][h_503] = DEAD;
+		grid_503 = DEAD;
 	}
 }
 var grid_504 = DEAD;
@@ -8153,6 +8656,7 @@ function _504() {
 	 else{ 
 		document.getElementById("504").style.background = "#0f99e3";
 		custom[0][w_504][h_504] = DEAD;
+		grid_504 = DEAD;
 	}
 }
 var grid_505 = DEAD;
@@ -8167,6 +8671,7 @@ function _505() {
 	 else{ 
 		document.getElementById("505").style.background = "#0f99e3";
 		custom[0][w_505][h_505] = DEAD;
+		grid_505 = DEAD;
 	}
 }
 var grid_506 = DEAD;
@@ -8181,6 +8686,7 @@ function _506() {
 	 else{ 
 		document.getElementById("506").style.background = "#0f99e3";
 		custom[0][w_506][h_506] = DEAD;
+		grid_506 = DEAD;
 	}
 }
 var grid_507 = DEAD;
@@ -8195,6 +8701,7 @@ function _507() {
 	 else{ 
 		document.getElementById("507").style.background = "#0f99e3";
 		custom[0][w_507][h_507] = DEAD;
+		grid_507 = DEAD;
 	}
 }
 var grid_508 = DEAD;
@@ -8209,6 +8716,7 @@ function _508() {
 	 else{ 
 		document.getElementById("508").style.background = "#0f99e3";
 		custom[0][w_508][h_508] = DEAD;
+		grid_508 = DEAD;
 	}
 }
 var grid_509 = DEAD;
@@ -8223,6 +8731,7 @@ function _509() {
 	 else{ 
 		document.getElementById("509").style.background = "#0f99e3";
 		custom[0][w_509][h_509] = DEAD;
+		grid_509 = DEAD;
 	}
 }
 var grid_510 = DEAD;
@@ -8237,6 +8746,7 @@ function _510() {
 	 else{ 
 		document.getElementById("510").style.background = "#0f99e3";
 		custom[0][w_510][h_510] = DEAD;
+		grid_510 = DEAD;
 	}
 }
 var grid_511 = DEAD;
@@ -8251,6 +8761,7 @@ function _511() {
 	 else{ 
 		document.getElementById("511").style.background = "#0f99e3";
 		custom[0][w_511][h_511] = DEAD;
+		grid_511 = DEAD;
 	}
 }
 var grid_512 = DEAD;
@@ -8265,6 +8776,7 @@ function _512() {
 	 else{ 
 		document.getElementById("512").style.background = "#0f99e3";
 		custom[0][w_512][h_512] = DEAD;
+		grid_512 = DEAD;
 	}
 }
 var grid_513 = DEAD;
@@ -8279,6 +8791,7 @@ function _513() {
 	 else{ 
 		document.getElementById("513").style.background = "#0f99e3";
 		custom[0][w_513][h_513] = DEAD;
+		grid_513 = DEAD;
 	}
 }
 var grid_514 = DEAD;
@@ -8293,6 +8806,7 @@ function _514() {
 	 else{ 
 		document.getElementById("514").style.background = "#0f99e3";
 		custom[0][w_514][h_514] = DEAD;
+		grid_514 = DEAD;
 	}
 }
 var grid_515 = DEAD;
@@ -8307,6 +8821,7 @@ function _515() {
 	 else{ 
 		document.getElementById("515").style.background = "#0f99e3";
 		custom[0][w_515][h_515] = DEAD;
+		grid_515 = DEAD;
 	}
 }
 var grid_516 = DEAD;
@@ -8321,6 +8836,7 @@ function _516() {
 	 else{ 
 		document.getElementById("516").style.background = "#0f99e3";
 		custom[0][w_516][h_516] = DEAD;
+		grid_516 = DEAD;
 	}
 }
 var grid_517 = DEAD;
@@ -8335,6 +8851,7 @@ function _517() {
 	 else{ 
 		document.getElementById("517").style.background = "#0f99e3";
 		custom[0][w_517][h_517] = DEAD;
+		grid_517 = DEAD;
 	}
 }
 var grid_518 = DEAD;
@@ -8349,6 +8866,7 @@ function _518() {
 	 else{ 
 		document.getElementById("518").style.background = "#0f99e3";
 		custom[0][w_518][h_518] = DEAD;
+		grid_518 = DEAD;
 	}
 }
 var grid_519 = DEAD;
@@ -8363,6 +8881,7 @@ function _519() {
 	 else{ 
 		document.getElementById("519").style.background = "#0f99e3";
 		custom[0][w_519][h_519] = DEAD;
+		grid_519 = DEAD;
 	}
 }
 var grid_520 = DEAD;
@@ -8377,6 +8896,7 @@ function _520() {
 	 else{ 
 		document.getElementById("520").style.background = "#0f99e3";
 		custom[0][w_520][h_520] = DEAD;
+		grid_520 = DEAD;
 	}
 }
 var grid_521 = DEAD;
@@ -8391,6 +8911,7 @@ function _521() {
 	 else{ 
 		document.getElementById("521").style.background = "#0f99e3";
 		custom[0][w_521][h_521] = DEAD;
+		grid_521 = DEAD;
 	}
 }
 var grid_522 = DEAD;
@@ -8405,6 +8926,7 @@ function _522() {
 	 else{ 
 		document.getElementById("522").style.background = "#0f99e3";
 		custom[0][w_522][h_522] = DEAD;
+		grid_522 = DEAD;
 	}
 }
 var grid_523 = DEAD;
@@ -8419,6 +8941,7 @@ function _523() {
 	 else{ 
 		document.getElementById("523").style.background = "#0f99e3";
 		custom[0][w_523][h_523] = DEAD;
+		grid_523 = DEAD;
 	}
 }
 var grid_524 = DEAD;
@@ -8433,6 +8956,7 @@ function _524() {
 	 else{ 
 		document.getElementById("524").style.background = "#0f99e3";
 		custom[0][w_524][h_524] = DEAD;
+		grid_524 = DEAD;
 	}
 }
 var grid_525 = DEAD;
@@ -8447,6 +8971,7 @@ function _525() {
 	 else{ 
 		document.getElementById("525").style.background = "#0f99e3";
 		custom[0][w_525][h_525] = DEAD;
+		grid_525 = DEAD;
 	}
 }
 var grid_526 = DEAD;
@@ -8461,6 +8986,7 @@ function _526() {
 	 else{ 
 		document.getElementById("526").style.background = "#0f99e3";
 		custom[0][w_526][h_526] = DEAD;
+		grid_526 = DEAD;
 	}
 }
 var grid_527 = DEAD;
@@ -8475,6 +9001,7 @@ function _527() {
 	 else{ 
 		document.getElementById("527").style.background = "#0f99e3";
 		custom[0][w_527][h_527] = DEAD;
+		grid_527 = DEAD;
 	}
 }
 var grid_528 = DEAD;
@@ -8489,6 +9016,7 @@ function _528() {
 	 else{ 
 		document.getElementById("528").style.background = "#0f99e3";
 		custom[0][w_528][h_528] = DEAD;
+		grid_528 = DEAD;
 	}
 }
 var grid_529 = DEAD;
@@ -8503,6 +9031,7 @@ function _529() {
 	 else{ 
 		document.getElementById("529").style.background = "#0f99e3";
 		custom[0][w_529][h_529] = DEAD;
+		grid_529 = DEAD;
 	}
 }
 var grid_530 = DEAD;
@@ -8517,6 +9046,7 @@ function _530() {
 	 else{ 
 		document.getElementById("530").style.background = "#0f99e3";
 		custom[0][w_530][h_530] = DEAD;
+		grid_530 = DEAD;
 	}
 }
 var grid_531 = DEAD;
@@ -8531,6 +9061,7 @@ function _531() {
 	 else{ 
 		document.getElementById("531").style.background = "#0f99e3";
 		custom[0][w_531][h_531] = DEAD;
+		grid_531 = DEAD;
 	}
 }
 var grid_532 = DEAD;
@@ -8545,6 +9076,7 @@ function _532() {
 	 else{ 
 		document.getElementById("532").style.background = "#0f99e3";
 		custom[0][w_532][h_532] = DEAD;
+		grid_532 = DEAD;
 	}
 }
 var grid_533 = DEAD;
@@ -8559,6 +9091,7 @@ function _533() {
 	 else{ 
 		document.getElementById("533").style.background = "#0f99e3";
 		custom[0][w_533][h_533] = DEAD;
+		grid_533 = DEAD;
 	}
 }
 var grid_534 = DEAD;
@@ -8573,6 +9106,7 @@ function _534() {
 	 else{ 
 		document.getElementById("534").style.background = "#0f99e3";
 		custom[0][w_534][h_534] = DEAD;
+		grid_534 = DEAD;
 	}
 }
 var grid_535 = DEAD;
@@ -8587,6 +9121,7 @@ function _535() {
 	 else{ 
 		document.getElementById("535").style.background = "#0f99e3";
 		custom[0][w_535][h_535] = DEAD;
+		grid_535 = DEAD;
 	}
 }
 var grid_536 = DEAD;
@@ -8601,6 +9136,7 @@ function _536() {
 	 else{ 
 		document.getElementById("536").style.background = "#0f99e3";
 		custom[0][w_536][h_536] = DEAD;
+		grid_536 = DEAD;
 	}
 }
 var grid_537 = DEAD;
@@ -8615,6 +9151,7 @@ function _537() {
 	 else{ 
 		document.getElementById("537").style.background = "#0f99e3";
 		custom[0][w_537][h_537] = DEAD;
+		grid_537 = DEAD;
 	}
 }
 var grid_538 = DEAD;
@@ -8629,6 +9166,7 @@ function _538() {
 	 else{ 
 		document.getElementById("538").style.background = "#0f99e3";
 		custom[0][w_538][h_538] = DEAD;
+		grid_538 = DEAD;
 	}
 }
 var grid_539 = DEAD;
@@ -8643,6 +9181,7 @@ function _539() {
 	 else{ 
 		document.getElementById("539").style.background = "#0f99e3";
 		custom[0][w_539][h_539] = DEAD;
+		grid_539 = DEAD;
 	}
 }
 var grid_540 = DEAD;
@@ -8657,6 +9196,7 @@ function _540() {
 	 else{ 
 		document.getElementById("540").style.background = "#0f99e3";
 		custom[0][w_540][h_540] = DEAD;
+		grid_540 = DEAD;
 	}
 }
 var grid_541 = DEAD;
@@ -8671,6 +9211,7 @@ function _541() {
 	 else{ 
 		document.getElementById("541").style.background = "#0f99e3";
 		custom[0][w_541][h_541] = DEAD;
+		grid_541 = DEAD;
 	}
 }
 var grid_542 = DEAD;
@@ -8685,6 +9226,7 @@ function _542() {
 	 else{ 
 		document.getElementById("542").style.background = "#0f99e3";
 		custom[0][w_542][h_542] = DEAD;
+		grid_542 = DEAD;
 	}
 }
 var grid_543 = DEAD;
@@ -8699,6 +9241,7 @@ function _543() {
 	 else{ 
 		document.getElementById("543").style.background = "#0f99e3";
 		custom[0][w_543][h_543] = DEAD;
+		grid_543 = DEAD;
 	}
 }
 var grid_544 = DEAD;
@@ -8713,6 +9256,7 @@ function _544() {
 	 else{ 
 		document.getElementById("544").style.background = "#0f99e3";
 		custom[0][w_544][h_544] = DEAD;
+		grid_544 = DEAD;
 	}
 }
 var grid_545 = DEAD;
@@ -8727,6 +9271,7 @@ function _545() {
 	 else{ 
 		document.getElementById("545").style.background = "#0f99e3";
 		custom[0][w_545][h_545] = DEAD;
+		grid_545 = DEAD;
 	}
 }
 var grid_546 = DEAD;
@@ -8741,6 +9286,7 @@ function _546() {
 	 else{ 
 		document.getElementById("546").style.background = "#0f99e3";
 		custom[0][w_546][h_546] = DEAD;
+		grid_546 = DEAD;
 	}
 }
 var grid_547 = DEAD;
@@ -8755,6 +9301,7 @@ function _547() {
 	 else{ 
 		document.getElementById("547").style.background = "#0f99e3";
 		custom[0][w_547][h_547] = DEAD;
+		grid_547 = DEAD;
 	}
 }
 var grid_548 = DEAD;
@@ -8769,6 +9316,7 @@ function _548() {
 	 else{ 
 		document.getElementById("548").style.background = "#0f99e3";
 		custom[0][w_548][h_548] = DEAD;
+		grid_548 = DEAD;
 	}
 }
 var grid_549 = DEAD;
@@ -8783,6 +9331,7 @@ function _549() {
 	 else{ 
 		document.getElementById("549").style.background = "#0f99e3";
 		custom[0][w_549][h_549] = DEAD;
+		grid_549 = DEAD;
 	}
 }
 var grid_550 = DEAD;
@@ -8797,6 +9346,7 @@ function _550() {
 	 else{ 
 		document.getElementById("550").style.background = "#0f99e3";
 		custom[0][w_550][h_550] = DEAD;
+		grid_550 = DEAD;
 	}
 }
 var grid_551 = DEAD;
@@ -8811,6 +9361,7 @@ function _551() {
 	 else{ 
 		document.getElementById("551").style.background = "#0f99e3";
 		custom[0][w_551][h_551] = DEAD;
+		grid_551 = DEAD;
 	}
 }
 var grid_552 = DEAD;
@@ -8825,6 +9376,7 @@ function _552() {
 	 else{ 
 		document.getElementById("552").style.background = "#0f99e3";
 		custom[0][w_552][h_552] = DEAD;
+		grid_552 = DEAD;
 	}
 }
 var grid_553 = DEAD;
@@ -8839,6 +9391,7 @@ function _553() {
 	 else{ 
 		document.getElementById("553").style.background = "#0f99e3";
 		custom[0][w_553][h_553] = DEAD;
+		grid_553 = DEAD;
 	}
 }
 var grid_554 = DEAD;
@@ -8853,6 +9406,7 @@ function _554() {
 	 else{ 
 		document.getElementById("554").style.background = "#0f99e3";
 		custom[0][w_554][h_554] = DEAD;
+		grid_554 = DEAD;
 	}
 }
 var grid_555 = DEAD;
@@ -8867,6 +9421,7 @@ function _555() {
 	 else{ 
 		document.getElementById("555").style.background = "#0f99e3";
 		custom[0][w_555][h_555] = DEAD;
+		grid_555 = DEAD;
 	}
 }
 var grid_556 = DEAD;
@@ -8881,6 +9436,7 @@ function _556() {
 	 else{ 
 		document.getElementById("556").style.background = "#0f99e3";
 		custom[0][w_556][h_556] = DEAD;
+		grid_556 = DEAD;
 	}
 }
 var grid_557 = DEAD;
@@ -8895,6 +9451,7 @@ function _557() {
 	 else{ 
 		document.getElementById("557").style.background = "#0f99e3";
 		custom[0][w_557][h_557] = DEAD;
+		grid_557 = DEAD;
 	}
 }
 var grid_558 = DEAD;
@@ -8909,6 +9466,7 @@ function _558() {
 	 else{ 
 		document.getElementById("558").style.background = "#0f99e3";
 		custom[0][w_558][h_558] = DEAD;
+		grid_558 = DEAD;
 	}
 }
 var grid_559 = DEAD;
@@ -8923,6 +9481,7 @@ function _559() {
 	 else{ 
 		document.getElementById("559").style.background = "#0f99e3";
 		custom[0][w_559][h_559] = DEAD;
+		grid_559 = DEAD;
 	}
 }
 var grid_560 = DEAD;
@@ -8937,6 +9496,7 @@ function _560() {
 	 else{ 
 		document.getElementById("560").style.background = "#0f99e3";
 		custom[0][w_560][h_560] = DEAD;
+		grid_560 = DEAD;
 	}
 }
 var grid_561 = DEAD;
@@ -8951,6 +9511,7 @@ function _561() {
 	 else{ 
 		document.getElementById("561").style.background = "#0f99e3";
 		custom[0][w_561][h_561] = DEAD;
+		grid_561 = DEAD;
 	}
 }
 var grid_562 = DEAD;
@@ -8965,6 +9526,7 @@ function _562() {
 	 else{ 
 		document.getElementById("562").style.background = "#0f99e3";
 		custom[0][w_562][h_562] = DEAD;
+		grid_562 = DEAD;
 	}
 }
 var grid_563 = DEAD;
@@ -8979,6 +9541,7 @@ function _563() {
 	 else{ 
 		document.getElementById("563").style.background = "#0f99e3";
 		custom[0][w_563][h_563] = DEAD;
+		grid_563 = DEAD;
 	}
 }
 var grid_564 = DEAD;
@@ -8993,6 +9556,7 @@ function _564() {
 	 else{ 
 		document.getElementById("564").style.background = "#0f99e3";
 		custom[0][w_564][h_564] = DEAD;
+		grid_564 = DEAD;
 	}
 }
 var grid_565 = DEAD;
@@ -9007,6 +9571,7 @@ function _565() {
 	 else{ 
 		document.getElementById("565").style.background = "#0f99e3";
 		custom[0][w_565][h_565] = DEAD;
+		grid_565 = DEAD;
 	}
 }
 var grid_566 = DEAD;
@@ -9021,6 +9586,7 @@ function _566() {
 	 else{ 
 		document.getElementById("566").style.background = "#0f99e3";
 		custom[0][w_566][h_566] = DEAD;
+		grid_566 = DEAD;
 	}
 }
 var grid_567 = DEAD;
@@ -9035,6 +9601,7 @@ function _567() {
 	 else{ 
 		document.getElementById("567").style.background = "#0f99e3";
 		custom[0][w_567][h_567] = DEAD;
+		grid_567 = DEAD;
 	}
 }
 var grid_568 = DEAD;
@@ -9049,6 +9616,7 @@ function _568() {
 	 else{ 
 		document.getElementById("568").style.background = "#0f99e3";
 		custom[0][w_568][h_568] = DEAD;
+		grid_568 = DEAD;
 	}
 }
 var grid_569 = DEAD;
@@ -9063,6 +9631,7 @@ function _569() {
 	 else{ 
 		document.getElementById("569").style.background = "#0f99e3";
 		custom[0][w_569][h_569] = DEAD;
+		grid_569 = DEAD;
 	}
 }
 var grid_570 = DEAD;
@@ -9077,6 +9646,7 @@ function _570() {
 	 else{ 
 		document.getElementById("570").style.background = "#0f99e3";
 		custom[0][w_570][h_570] = DEAD;
+		grid_570 = DEAD;
 	}
 }
 var grid_571 = DEAD;
@@ -9091,6 +9661,7 @@ function _571() {
 	 else{ 
 		document.getElementById("571").style.background = "#0f99e3";
 		custom[0][w_571][h_571] = DEAD;
+		grid_571 = DEAD;
 	}
 }
 var grid_572 = DEAD;
@@ -9105,6 +9676,7 @@ function _572() {
 	 else{ 
 		document.getElementById("572").style.background = "#0f99e3";
 		custom[0][w_572][h_572] = DEAD;
+		grid_572 = DEAD;
 	}
 }
 var grid_573 = DEAD;
@@ -9119,6 +9691,7 @@ function _573() {
 	 else{ 
 		document.getElementById("573").style.background = "#0f99e3";
 		custom[0][w_573][h_573] = DEAD;
+		grid_573 = DEAD;
 	}
 }
 var grid_574 = DEAD;
@@ -9133,6 +9706,7 @@ function _574() {
 	 else{ 
 		document.getElementById("574").style.background = "#0f99e3";
 		custom[0][w_574][h_574] = DEAD;
+		grid_574 = DEAD;
 	}
 }
 var grid_575 = DEAD;
@@ -9147,6 +9721,7 @@ function _575() {
 	 else{ 
 		document.getElementById("575").style.background = "#0f99e3";
 		custom[0][w_575][h_575] = DEAD;
+		grid_575 = DEAD;
 	}
 }
 var grid_576 = DEAD;
@@ -9161,6 +9736,7 @@ function _576() {
 	 else{ 
 		document.getElementById("576").style.background = "#0f99e3";
 		custom[0][w_576][h_576] = DEAD;
+		grid_576 = DEAD;
 	}
 }
 var grid_577 = DEAD;
@@ -9175,6 +9751,7 @@ function _577() {
 	 else{ 
 		document.getElementById("577").style.background = "#0f99e3";
 		custom[0][w_577][h_577] = DEAD;
+		grid_577 = DEAD;
 	}
 }
 var grid_578 = DEAD;
@@ -9189,6 +9766,7 @@ function _578() {
 	 else{ 
 		document.getElementById("578").style.background = "#0f99e3";
 		custom[0][w_578][h_578] = DEAD;
+		grid_578 = DEAD;
 	}
 }
 var grid_579 = DEAD;
@@ -9203,6 +9781,7 @@ function _579() {
 	 else{ 
 		document.getElementById("579").style.background = "#0f99e3";
 		custom[0][w_579][h_579] = DEAD;
+		grid_579 = DEAD;
 	}
 }
 var grid_580 = DEAD;
@@ -9217,6 +9796,7 @@ function _580() {
 	 else{ 
 		document.getElementById("580").style.background = "#0f99e3";
 		custom[0][w_580][h_580] = DEAD;
+		grid_580 = DEAD;
 	}
 }
 var grid_581 = DEAD;
@@ -9231,6 +9811,7 @@ function _581() {
 	 else{ 
 		document.getElementById("581").style.background = "#0f99e3";
 		custom[0][w_581][h_581] = DEAD;
+		grid_581 = DEAD;
 	}
 }
 var grid_582 = DEAD;
@@ -9245,6 +9826,7 @@ function _582() {
 	 else{ 
 		document.getElementById("582").style.background = "#0f99e3";
 		custom[0][w_582][h_582] = DEAD;
+		grid_582 = DEAD;
 	}
 }
 var grid_583 = DEAD;
@@ -9259,6 +9841,7 @@ function _583() {
 	 else{ 
 		document.getElementById("583").style.background = "#0f99e3";
 		custom[0][w_583][h_583] = DEAD;
+		grid_583 = DEAD;
 	}
 }
 var grid_584 = DEAD;
@@ -9273,6 +9856,7 @@ function _584() {
 	 else{ 
 		document.getElementById("584").style.background = "#0f99e3";
 		custom[0][w_584][h_584] = DEAD;
+		grid_584 = DEAD;
 	}
 }
 var grid_585 = DEAD;
@@ -9287,6 +9871,7 @@ function _585() {
 	 else{ 
 		document.getElementById("585").style.background = "#0f99e3";
 		custom[0][w_585][h_585] = DEAD;
+		grid_585 = DEAD;
 	}
 }
 var grid_586 = DEAD;
@@ -9301,6 +9886,7 @@ function _586() {
 	 else{ 
 		document.getElementById("586").style.background = "#0f99e3";
 		custom[0][w_586][h_586] = DEAD;
+		grid_586 = DEAD;
 	}
 }
 var grid_587 = DEAD;
@@ -9315,6 +9901,7 @@ function _587() {
 	 else{ 
 		document.getElementById("587").style.background = "#0f99e3";
 		custom[0][w_587][h_587] = DEAD;
+		grid_587 = DEAD;
 	}
 }
 var grid_588 = DEAD;
@@ -9329,6 +9916,7 @@ function _588() {
 	 else{ 
 		document.getElementById("588").style.background = "#0f99e3";
 		custom[0][w_588][h_588] = DEAD;
+		grid_588 = DEAD;
 	}
 }
 var grid_589 = DEAD;
@@ -9343,6 +9931,7 @@ function _589() {
 	 else{ 
 		document.getElementById("589").style.background = "#0f99e3";
 		custom[0][w_589][h_589] = DEAD;
+		grid_589 = DEAD;
 	}
 }
 var grid_590 = DEAD;
@@ -9357,6 +9946,7 @@ function _590() {
 	 else{ 
 		document.getElementById("590").style.background = "#0f99e3";
 		custom[0][w_590][h_590] = DEAD;
+		grid_590 = DEAD;
 	}
 }
 var grid_591 = DEAD;
@@ -9371,6 +9961,7 @@ function _591() {
 	 else{ 
 		document.getElementById("591").style.background = "#0f99e3";
 		custom[0][w_591][h_591] = DEAD;
+		grid_591 = DEAD;
 	}
 }
 var grid_592 = DEAD;
@@ -9385,6 +9976,7 @@ function _592() {
 	 else{ 
 		document.getElementById("592").style.background = "#0f99e3";
 		custom[0][w_592][h_592] = DEAD;
+		grid_592 = DEAD;
 	}
 }
 var grid_593 = DEAD;
@@ -9399,6 +9991,7 @@ function _593() {
 	 else{ 
 		document.getElementById("593").style.background = "#0f99e3";
 		custom[0][w_593][h_593] = DEAD;
+		grid_593 = DEAD;
 	}
 }
 var grid_594 = DEAD;
@@ -9413,6 +10006,7 @@ function _594() {
 	 else{ 
 		document.getElementById("594").style.background = "#0f99e3";
 		custom[0][w_594][h_594] = DEAD;
+		grid_594 = DEAD;
 	}
 }
 var grid_595 = DEAD;
@@ -9427,6 +10021,7 @@ function _595() {
 	 else{ 
 		document.getElementById("595").style.background = "#0f99e3";
 		custom[0][w_595][h_595] = DEAD;
+		grid_595 = DEAD;
 	}
 }
 var grid_596 = DEAD;
@@ -9441,6 +10036,7 @@ function _596() {
 	 else{ 
 		document.getElementById("596").style.background = "#0f99e3";
 		custom[0][w_596][h_596] = DEAD;
+		grid_596 = DEAD;
 	}
 }
 var grid_597 = DEAD;
@@ -9455,6 +10051,7 @@ function _597() {
 	 else{ 
 		document.getElementById("597").style.background = "#0f99e3";
 		custom[0][w_597][h_597] = DEAD;
+		grid_597 = DEAD;
 	}
 }
 var grid_598 = DEAD;
@@ -9469,6 +10066,7 @@ function _598() {
 	 else{ 
 		document.getElementById("598").style.background = "#0f99e3";
 		custom[0][w_598][h_598] = DEAD;
+		grid_598 = DEAD;
 	}
 }
 var grid_599 = DEAD;
@@ -9483,6 +10081,7 @@ function _599() {
 	 else{ 
 		document.getElementById("599").style.background = "#0f99e3";
 		custom[0][w_599][h_599] = DEAD;
+		grid_599 = DEAD;
 	}
 }
 var grid_600 = DEAD;
@@ -9497,6 +10096,7 @@ function _600() {
 	 else{ 
 		document.getElementById("600").style.background = "#0f99e3";
 		custom[0][w_600][h_600] = DEAD;
+		grid_600 = DEAD;
 	}
 }
 var grid_601 = DEAD;
@@ -9511,6 +10111,7 @@ function _601() {
 	 else{ 
 		document.getElementById("601").style.background = "#0f99e3";
 		custom[0][w_601][h_601] = DEAD;
+		grid_601 = DEAD;
 	}
 }
 var grid_602 = DEAD;
@@ -9525,6 +10126,7 @@ function _602() {
 	 else{ 
 		document.getElementById("602").style.background = "#0f99e3";
 		custom[0][w_602][h_602] = DEAD;
+		grid_602 = DEAD;
 	}
 }
 var grid_603 = DEAD;
@@ -9539,6 +10141,7 @@ function _603() {
 	 else{ 
 		document.getElementById("603").style.background = "#0f99e3";
 		custom[0][w_603][h_603] = DEAD;
+		grid_603 = DEAD;
 	}
 }
 var grid_604 = DEAD;
@@ -9553,6 +10156,7 @@ function _604() {
 	 else{ 
 		document.getElementById("604").style.background = "#0f99e3";
 		custom[0][w_604][h_604] = DEAD;
+		grid_604 = DEAD;
 	}
 }
 var grid_605 = DEAD;
@@ -9567,6 +10171,7 @@ function _605() {
 	 else{ 
 		document.getElementById("605").style.background = "#0f99e3";
 		custom[0][w_605][h_605] = DEAD;
+		grid_605 = DEAD;
 	}
 }
 var grid_606 = DEAD;
@@ -9581,6 +10186,7 @@ function _606() {
 	 else{ 
 		document.getElementById("606").style.background = "#0f99e3";
 		custom[0][w_606][h_606] = DEAD;
+		grid_606 = DEAD;
 	}
 }
 var grid_607 = DEAD;
@@ -9595,6 +10201,7 @@ function _607() {
 	 else{ 
 		document.getElementById("607").style.background = "#0f99e3";
 		custom[0][w_607][h_607] = DEAD;
+		grid_607 = DEAD;
 	}
 }
 var grid_608 = DEAD;
@@ -9609,6 +10216,7 @@ function _608() {
 	 else{ 
 		document.getElementById("608").style.background = "#0f99e3";
 		custom[0][w_608][h_608] = DEAD;
+		grid_608 = DEAD;
 	}
 }
 var grid_609 = DEAD;
@@ -9623,6 +10231,7 @@ function _609() {
 	 else{ 
 		document.getElementById("609").style.background = "#0f99e3";
 		custom[0][w_609][h_609] = DEAD;
+		grid_609 = DEAD;
 	}
 }
 var grid_610 = DEAD;
@@ -9637,6 +10246,7 @@ function _610() {
 	 else{ 
 		document.getElementById("610").style.background = "#0f99e3";
 		custom[0][w_610][h_610] = DEAD;
+		grid_610 = DEAD;
 	}
 }
 var grid_611 = DEAD;
@@ -9651,6 +10261,7 @@ function _611() {
 	 else{ 
 		document.getElementById("611").style.background = "#0f99e3";
 		custom[0][w_611][h_611] = DEAD;
+		grid_611 = DEAD;
 	}
 }
 var grid_612 = DEAD;
@@ -9665,6 +10276,7 @@ function _612() {
 	 else{ 
 		document.getElementById("612").style.background = "#0f99e3";
 		custom[0][w_612][h_612] = DEAD;
+		grid_612 = DEAD;
 	}
 }
 var grid_613 = DEAD;
@@ -9679,6 +10291,7 @@ function _613() {
 	 else{ 
 		document.getElementById("613").style.background = "#0f99e3";
 		custom[0][w_613][h_613] = DEAD;
+		grid_613 = DEAD;
 	}
 }
 var grid_614 = DEAD;
@@ -9693,6 +10306,7 @@ function _614() {
 	 else{ 
 		document.getElementById("614").style.background = "#0f99e3";
 		custom[0][w_614][h_614] = DEAD;
+		grid_614 = DEAD;
 	}
 }
 var grid_615 = DEAD;
@@ -9707,6 +10321,7 @@ function _615() {
 	 else{ 
 		document.getElementById("615").style.background = "#0f99e3";
 		custom[0][w_615][h_615] = DEAD;
+		grid_615 = DEAD;
 	}
 }
 var grid_616 = DEAD;
@@ -9721,6 +10336,7 @@ function _616() {
 	 else{ 
 		document.getElementById("616").style.background = "#0f99e3";
 		custom[0][w_616][h_616] = DEAD;
+		grid_616 = DEAD;
 	}
 }
 var grid_617 = DEAD;
@@ -9735,6 +10351,7 @@ function _617() {
 	 else{ 
 		document.getElementById("617").style.background = "#0f99e3";
 		custom[0][w_617][h_617] = DEAD;
+		grid_617 = DEAD;
 	}
 }
 var grid_618 = DEAD;
@@ -9749,6 +10366,7 @@ function _618() {
 	 else{ 
 		document.getElementById("618").style.background = "#0f99e3";
 		custom[0][w_618][h_618] = DEAD;
+		grid_618 = DEAD;
 	}
 }
 var grid_619 = DEAD;
@@ -9763,6 +10381,7 @@ function _619() {
 	 else{ 
 		document.getElementById("619").style.background = "#0f99e3";
 		custom[0][w_619][h_619] = DEAD;
+		grid_619 = DEAD;
 	}
 }
 var grid_620 = DEAD;
@@ -9777,6 +10396,7 @@ function _620() {
 	 else{ 
 		document.getElementById("620").style.background = "#0f99e3";
 		custom[0][w_620][h_620] = DEAD;
+		grid_620 = DEAD;
 	}
 }
 var grid_621 = DEAD;
@@ -9791,6 +10411,7 @@ function _621() {
 	 else{ 
 		document.getElementById("621").style.background = "#0f99e3";
 		custom[0][w_621][h_621] = DEAD;
+		grid_621 = DEAD;
 	}
 }
 var grid_622 = DEAD;
@@ -9805,6 +10426,7 @@ function _622() {
 	 else{ 
 		document.getElementById("622").style.background = "#0f99e3";
 		custom[0][w_622][h_622] = DEAD;
+		grid_622 = DEAD;
 	}
 }
 var grid_623 = DEAD;
@@ -9819,6 +10441,7 @@ function _623() {
 	 else{ 
 		document.getElementById("623").style.background = "#0f99e3";
 		custom[0][w_623][h_623] = DEAD;
+		grid_623 = DEAD;
 	}
 }
 var grid_624 = DEAD;
@@ -9833,6 +10456,7 @@ function _624() {
 	 else{ 
 		document.getElementById("624").style.background = "#0f99e3";
 		custom[0][w_624][h_624] = DEAD;
+		grid_624 = DEAD;
 	}
 }
 var grid_625 = DEAD;
@@ -9847,6 +10471,7 @@ function _625() {
 	 else{ 
 		document.getElementById("625").style.background = "#0f99e3";
 		custom[0][w_625][h_625] = DEAD;
+		grid_625 = DEAD;
 	}
 }
 var grid_626 = DEAD;
@@ -9861,6 +10486,7 @@ function _626() {
 	 else{ 
 		document.getElementById("626").style.background = "#0f99e3";
 		custom[0][w_626][h_626] = DEAD;
+		grid_626 = DEAD;
 	}
 }
 var grid_627 = DEAD;
@@ -9875,6 +10501,7 @@ function _627() {
 	 else{ 
 		document.getElementById("627").style.background = "#0f99e3";
 		custom[0][w_627][h_627] = DEAD;
+		grid_627 = DEAD;
 	}
 }
 var grid_628 = DEAD;
@@ -9889,6 +10516,7 @@ function _628() {
 	 else{ 
 		document.getElementById("628").style.background = "#0f99e3";
 		custom[0][w_628][h_628] = DEAD;
+		grid_628 = DEAD;
 	}
 }
 var grid_629 = DEAD;
@@ -9903,6 +10531,7 @@ function _629() {
 	 else{ 
 		document.getElementById("629").style.background = "#0f99e3";
 		custom[0][w_629][h_629] = DEAD;
+		grid_629 = DEAD;
 	}
 }
 var grid_630 = DEAD;
@@ -9917,6 +10546,7 @@ function _630() {
 	 else{ 
 		document.getElementById("630").style.background = "#0f99e3";
 		custom[0][w_630][h_630] = DEAD;
+		grid_630 = DEAD;
 	}
 }
 var grid_631 = DEAD;
@@ -9931,6 +10561,7 @@ function _631() {
 	 else{ 
 		document.getElementById("631").style.background = "#0f99e3";
 		custom[0][w_631][h_631] = DEAD;
+		grid_631 = DEAD;
 	}
 }
 var grid_632 = DEAD;
@@ -9945,6 +10576,7 @@ function _632() {
 	 else{ 
 		document.getElementById("632").style.background = "#0f99e3";
 		custom[0][w_632][h_632] = DEAD;
+		grid_632 = DEAD;
 	}
 }
 var grid_633 = DEAD;
@@ -9959,6 +10591,7 @@ function _633() {
 	 else{ 
 		document.getElementById("633").style.background = "#0f99e3";
 		custom[0][w_633][h_633] = DEAD;
+		grid_633 = DEAD;
 	}
 }
 var grid_634 = DEAD;
@@ -9973,6 +10606,7 @@ function _634() {
 	 else{ 
 		document.getElementById("634").style.background = "#0f99e3";
 		custom[0][w_634][h_634] = DEAD;
+		grid_634 = DEAD;
 	}
 }
 var grid_635 = DEAD;
@@ -9987,6 +10621,7 @@ function _635() {
 	 else{ 
 		document.getElementById("635").style.background = "#0f99e3";
 		custom[0][w_635][h_635] = DEAD;
+		grid_635 = DEAD;
 	}
 }
 var grid_636 = DEAD;
@@ -10001,6 +10636,7 @@ function _636() {
 	 else{ 
 		document.getElementById("636").style.background = "#0f99e3";
 		custom[0][w_636][h_636] = DEAD;
+		grid_636 = DEAD;
 	}
 }
 var grid_637 = DEAD;
@@ -10015,6 +10651,7 @@ function _637() {
 	 else{ 
 		document.getElementById("637").style.background = "#0f99e3";
 		custom[0][w_637][h_637] = DEAD;
+		grid_637 = DEAD;
 	}
 }
 var grid_638 = DEAD;
@@ -10029,6 +10666,7 @@ function _638() {
 	 else{ 
 		document.getElementById("638").style.background = "#0f99e3";
 		custom[0][w_638][h_638] = DEAD;
+		grid_638 = DEAD;
 	}
 }
 var grid_639 = DEAD;
@@ -10043,6 +10681,7 @@ function _639() {
 	 else{ 
 		document.getElementById("639").style.background = "#0f99e3";
 		custom[0][w_639][h_639] = DEAD;
+		grid_639 = DEAD;
 	}
 }
 var grid_640 = DEAD;
@@ -10057,6 +10696,7 @@ function _640() {
 	 else{ 
 		document.getElementById("640").style.background = "#0f99e3";
 		custom[0][w_640][h_640] = DEAD;
+		grid_640 = DEAD;
 	}
 }
 var grid_641 = DEAD;
@@ -10071,6 +10711,7 @@ function _641() {
 	 else{ 
 		document.getElementById("641").style.background = "#0f99e3";
 		custom[0][w_641][h_641] = DEAD;
+		grid_641 = DEAD;
 	}
 }
 var grid_642 = DEAD;
@@ -10085,6 +10726,7 @@ function _642() {
 	 else{ 
 		document.getElementById("642").style.background = "#0f99e3";
 		custom[0][w_642][h_642] = DEAD;
+		grid_642 = DEAD;
 	}
 }
 var grid_643 = DEAD;
@@ -10099,6 +10741,7 @@ function _643() {
 	 else{ 
 		document.getElementById("643").style.background = "#0f99e3";
 		custom[0][w_643][h_643] = DEAD;
+		grid_643 = DEAD;
 	}
 }
 var grid_644 = DEAD;
@@ -10113,6 +10756,7 @@ function _644() {
 	 else{ 
 		document.getElementById("644").style.background = "#0f99e3";
 		custom[0][w_644][h_644] = DEAD;
+		grid_644 = DEAD;
 	}
 }
 var grid_645 = DEAD;
@@ -10127,6 +10771,7 @@ function _645() {
 	 else{ 
 		document.getElementById("645").style.background = "#0f99e3";
 		custom[0][w_645][h_645] = DEAD;
+		grid_645 = DEAD;
 	}
 }
 var grid_646 = DEAD;
@@ -10141,6 +10786,7 @@ function _646() {
 	 else{ 
 		document.getElementById("646").style.background = "#0f99e3";
 		custom[0][w_646][h_646] = DEAD;
+		grid_646 = DEAD;
 	}
 }
 var grid_647 = DEAD;
@@ -10155,6 +10801,7 @@ function _647() {
 	 else{ 
 		document.getElementById("647").style.background = "#0f99e3";
 		custom[0][w_647][h_647] = DEAD;
+		grid_647 = DEAD;
 	}
 }
 var grid_648 = DEAD;
@@ -10169,6 +10816,7 @@ function _648() {
 	 else{ 
 		document.getElementById("648").style.background = "#0f99e3";
 		custom[0][w_648][h_648] = DEAD;
+		grid_648 = DEAD;
 	}
 }
 var grid_649 = DEAD;
@@ -10183,6 +10831,7 @@ function _649() {
 	 else{ 
 		document.getElementById("649").style.background = "#0f99e3";
 		custom[0][w_649][h_649] = DEAD;
+		grid_649 = DEAD;
 	}
 }
 var grid_650 = DEAD;
@@ -10197,6 +10846,7 @@ function _650() {
 	 else{ 
 		document.getElementById("650").style.background = "#0f99e3";
 		custom[0][w_650][h_650] = DEAD;
+		grid_650 = DEAD;
 	}
 }
 var grid_651 = DEAD;
@@ -10211,6 +10861,7 @@ function _651() {
 	 else{ 
 		document.getElementById("651").style.background = "#0f99e3";
 		custom[0][w_651][h_651] = DEAD;
+		grid_651 = DEAD;
 	}
 }
 var grid_652 = DEAD;
@@ -10225,6 +10876,7 @@ function _652() {
 	 else{ 
 		document.getElementById("652").style.background = "#0f99e3";
 		custom[0][w_652][h_652] = DEAD;
+		grid_652 = DEAD;
 	}
 }
 var grid_653 = DEAD;
@@ -10239,6 +10891,7 @@ function _653() {
 	 else{ 
 		document.getElementById("653").style.background = "#0f99e3";
 		custom[0][w_653][h_653] = DEAD;
+		grid_653 = DEAD;
 	}
 }
 var grid_654 = DEAD;
@@ -10253,6 +10906,7 @@ function _654() {
 	 else{ 
 		document.getElementById("654").style.background = "#0f99e3";
 		custom[0][w_654][h_654] = DEAD;
+		grid_654 = DEAD;
 	}
 }
 var grid_655 = DEAD;
@@ -10267,6 +10921,7 @@ function _655() {
 	 else{ 
 		document.getElementById("655").style.background = "#0f99e3";
 		custom[0][w_655][h_655] = DEAD;
+		grid_655 = DEAD;
 	}
 }
 var grid_656 = DEAD;
@@ -10281,6 +10936,7 @@ function _656() {
 	 else{ 
 		document.getElementById("656").style.background = "#0f99e3";
 		custom[0][w_656][h_656] = DEAD;
+		grid_656 = DEAD;
 	}
 }
 var grid_657 = DEAD;
@@ -10295,6 +10951,7 @@ function _657() {
 	 else{ 
 		document.getElementById("657").style.background = "#0f99e3";
 		custom[0][w_657][h_657] = DEAD;
+		grid_657 = DEAD;
 	}
 }
 var grid_658 = DEAD;
@@ -10309,6 +10966,7 @@ function _658() {
 	 else{ 
 		document.getElementById("658").style.background = "#0f99e3";
 		custom[0][w_658][h_658] = DEAD;
+		grid_658 = DEAD;
 	}
 }
 var grid_659 = DEAD;
@@ -10323,6 +10981,7 @@ function _659() {
 	 else{ 
 		document.getElementById("659").style.background = "#0f99e3";
 		custom[0][w_659][h_659] = DEAD;
+		grid_659 = DEAD;
 	}
 }
 var grid_660 = DEAD;
@@ -10337,6 +10996,7 @@ function _660() {
 	 else{ 
 		document.getElementById("660").style.background = "#0f99e3";
 		custom[0][w_660][h_660] = DEAD;
+		grid_660 = DEAD;
 	}
 }
 var grid_661 = DEAD;
@@ -10351,6 +11011,7 @@ function _661() {
 	 else{ 
 		document.getElementById("661").style.background = "#0f99e3";
 		custom[0][w_661][h_661] = DEAD;
+		grid_661 = DEAD;
 	}
 }
 var grid_662 = DEAD;
@@ -10365,6 +11026,7 @@ function _662() {
 	 else{ 
 		document.getElementById("662").style.background = "#0f99e3";
 		custom[0][w_662][h_662] = DEAD;
+		grid_662 = DEAD;
 	}
 }
 var grid_663 = DEAD;
@@ -10379,6 +11041,7 @@ function _663() {
 	 else{ 
 		document.getElementById("663").style.background = "#0f99e3";
 		custom[0][w_663][h_663] = DEAD;
+		grid_663 = DEAD;
 	}
 }
 var grid_664 = DEAD;
@@ -10393,6 +11056,7 @@ function _664() {
 	 else{ 
 		document.getElementById("664").style.background = "#0f99e3";
 		custom[0][w_664][h_664] = DEAD;
+		grid_664 = DEAD;
 	}
 }
 var grid_665 = DEAD;
@@ -10407,6 +11071,7 @@ function _665() {
 	 else{ 
 		document.getElementById("665").style.background = "#0f99e3";
 		custom[0][w_665][h_665] = DEAD;
+		grid_665 = DEAD;
 	}
 }
 var grid_666 = DEAD;
@@ -10421,6 +11086,7 @@ function _666() {
 	 else{ 
 		document.getElementById("666").style.background = "#0f99e3";
 		custom[0][w_666][h_666] = DEAD;
+		grid_666 = DEAD;
 	}
 }
 var grid_667 = DEAD;
@@ -10435,6 +11101,7 @@ function _667() {
 	 else{ 
 		document.getElementById("667").style.background = "#0f99e3";
 		custom[0][w_667][h_667] = DEAD;
+		grid_667 = DEAD;
 	}
 }
 var grid_668 = DEAD;
@@ -10449,6 +11116,7 @@ function _668() {
 	 else{ 
 		document.getElementById("668").style.background = "#0f99e3";
 		custom[0][w_668][h_668] = DEAD;
+		grid_668 = DEAD;
 	}
 }
 var grid_669 = DEAD;
@@ -10463,6 +11131,7 @@ function _669() {
 	 else{ 
 		document.getElementById("669").style.background = "#0f99e3";
 		custom[0][w_669][h_669] = DEAD;
+		grid_669 = DEAD;
 	}
 }
 var grid_670 = DEAD;
@@ -10477,6 +11146,7 @@ function _670() {
 	 else{ 
 		document.getElementById("670").style.background = "#0f99e3";
 		custom[0][w_670][h_670] = DEAD;
+		grid_670 = DEAD;
 	}
 }
 var grid_671 = DEAD;
@@ -10491,6 +11161,7 @@ function _671() {
 	 else{ 
 		document.getElementById("671").style.background = "#0f99e3";
 		custom[0][w_671][h_671] = DEAD;
+		grid_671 = DEAD;
 	}
 }
 var grid_672 = DEAD;
@@ -10505,6 +11176,7 @@ function _672() {
 	 else{ 
 		document.getElementById("672").style.background = "#0f99e3";
 		custom[0][w_672][h_672] = DEAD;
+		grid_672 = DEAD;
 	}
 }
 var grid_673 = DEAD;
@@ -10519,6 +11191,7 @@ function _673() {
 	 else{ 
 		document.getElementById("673").style.background = "#0f99e3";
 		custom[0][w_673][h_673] = DEAD;
+		grid_673 = DEAD;
 	}
 }
 var grid_674 = DEAD;
@@ -10533,6 +11206,7 @@ function _674() {
 	 else{ 
 		document.getElementById("674").style.background = "#0f99e3";
 		custom[0][w_674][h_674] = DEAD;
+		grid_674 = DEAD;
 	}
 }
 var grid_675 = DEAD;
@@ -10547,6 +11221,7 @@ function _675() {
 	 else{ 
 		document.getElementById("675").style.background = "#0f99e3";
 		custom[0][w_675][h_675] = DEAD;
+		grid_675 = DEAD;
 	}
 }
 var grid_676 = DEAD;
@@ -10561,6 +11236,7 @@ function _676() {
 	 else{ 
 		document.getElementById("676").style.background = "#0f99e3";
 		custom[0][w_676][h_676] = DEAD;
+		grid_676 = DEAD;
 	}
 }
 var grid_677 = DEAD;
@@ -10575,6 +11251,7 @@ function _677() {
 	 else{ 
 		document.getElementById("677").style.background = "#0f99e3";
 		custom[0][w_677][h_677] = DEAD;
+		grid_677 = DEAD;
 	}
 }
 var grid_678 = DEAD;
@@ -10589,6 +11266,7 @@ function _678() {
 	 else{ 
 		document.getElementById("678").style.background = "#0f99e3";
 		custom[0][w_678][h_678] = DEAD;
+		grid_678 = DEAD;
 	}
 }
 var grid_679 = DEAD;
@@ -10603,6 +11281,7 @@ function _679() {
 	 else{ 
 		document.getElementById("679").style.background = "#0f99e3";
 		custom[0][w_679][h_679] = DEAD;
+		grid_679 = DEAD;
 	}
 }
 var grid_680 = DEAD;
@@ -10617,6 +11296,7 @@ function _680() {
 	 else{ 
 		document.getElementById("680").style.background = "#0f99e3";
 		custom[0][w_680][h_680] = DEAD;
+		grid_680 = DEAD;
 	}
 }
 var grid_681 = DEAD;
@@ -10631,6 +11311,7 @@ function _681() {
 	 else{ 
 		document.getElementById("681").style.background = "#0f99e3";
 		custom[0][w_681][h_681] = DEAD;
+		grid_681 = DEAD;
 	}
 }
 var grid_682 = DEAD;
@@ -10645,6 +11326,7 @@ function _682() {
 	 else{ 
 		document.getElementById("682").style.background = "#0f99e3";
 		custom[0][w_682][h_682] = DEAD;
+		grid_682 = DEAD;
 	}
 }
 var grid_683 = DEAD;
@@ -10659,6 +11341,7 @@ function _683() {
 	 else{ 
 		document.getElementById("683").style.background = "#0f99e3";
 		custom[0][w_683][h_683] = DEAD;
+		grid_683 = DEAD;
 	}
 }
 var grid_684 = DEAD;
@@ -10673,6 +11356,7 @@ function _684() {
 	 else{ 
 		document.getElementById("684").style.background = "#0f99e3";
 		custom[0][w_684][h_684] = DEAD;
+		grid_684 = DEAD;
 	}
 }
 var grid_685 = DEAD;
@@ -10687,6 +11371,7 @@ function _685() {
 	 else{ 
 		document.getElementById("685").style.background = "#0f99e3";
 		custom[0][w_685][h_685] = DEAD;
+		grid_685 = DEAD;
 	}
 }
 var grid_686 = DEAD;
@@ -10701,6 +11386,7 @@ function _686() {
 	 else{ 
 		document.getElementById("686").style.background = "#0f99e3";
 		custom[0][w_686][h_686] = DEAD;
+		grid_686 = DEAD;
 	}
 }
 var grid_687 = DEAD;
@@ -10715,6 +11401,7 @@ function _687() {
 	 else{ 
 		document.getElementById("687").style.background = "#0f99e3";
 		custom[0][w_687][h_687] = DEAD;
+		grid_687 = DEAD;
 	}
 }
 var grid_688 = DEAD;
@@ -10729,6 +11416,7 @@ function _688() {
 	 else{ 
 		document.getElementById("688").style.background = "#0f99e3";
 		custom[0][w_688][h_688] = DEAD;
+		grid_688 = DEAD;
 	}
 }
 var grid_689 = DEAD;
@@ -10743,6 +11431,7 @@ function _689() {
 	 else{ 
 		document.getElementById("689").style.background = "#0f99e3";
 		custom[0][w_689][h_689] = DEAD;
+		grid_689 = DEAD;
 	}
 }
 var grid_690 = DEAD;
@@ -10757,6 +11446,7 @@ function _690() {
 	 else{ 
 		document.getElementById("690").style.background = "#0f99e3";
 		custom[0][w_690][h_690] = DEAD;
+		grid_690 = DEAD;
 	}
 }
 var grid_691 = DEAD;
@@ -10771,6 +11461,7 @@ function _691() {
 	 else{ 
 		document.getElementById("691").style.background = "#0f99e3";
 		custom[0][w_691][h_691] = DEAD;
+		grid_691 = DEAD;
 	}
 }
 var grid_692 = DEAD;
@@ -10785,6 +11476,7 @@ function _692() {
 	 else{ 
 		document.getElementById("692").style.background = "#0f99e3";
 		custom[0][w_692][h_692] = DEAD;
+		grid_692 = DEAD;
 	}
 }
 var grid_693 = DEAD;
@@ -10799,6 +11491,7 @@ function _693() {
 	 else{ 
 		document.getElementById("693").style.background = "#0f99e3";
 		custom[0][w_693][h_693] = DEAD;
+		grid_693 = DEAD;
 	}
 }
 var grid_694 = DEAD;
@@ -10813,6 +11506,7 @@ function _694() {
 	 else{ 
 		document.getElementById("694").style.background = "#0f99e3";
 		custom[0][w_694][h_694] = DEAD;
+		grid_694 = DEAD;
 	}
 }
 var grid_695 = DEAD;
@@ -10827,6 +11521,7 @@ function _695() {
 	 else{ 
 		document.getElementById("695").style.background = "#0f99e3";
 		custom[0][w_695][h_695] = DEAD;
+		grid_695 = DEAD;
 	}
 }
 var grid_696 = DEAD;
@@ -10841,6 +11536,7 @@ function _696() {
 	 else{ 
 		document.getElementById("696").style.background = "#0f99e3";
 		custom[0][w_696][h_696] = DEAD;
+		grid_696 = DEAD;
 	}
 }
 var grid_697 = DEAD;
@@ -10855,6 +11551,7 @@ function _697() {
 	 else{ 
 		document.getElementById("697").style.background = "#0f99e3";
 		custom[0][w_697][h_697] = DEAD;
+		grid_697 = DEAD;
 	}
 }
 var grid_698 = DEAD;
@@ -10869,6 +11566,7 @@ function _698() {
 	 else{ 
 		document.getElementById("698").style.background = "#0f99e3";
 		custom[0][w_698][h_698] = DEAD;
+		grid_698 = DEAD;
 	}
 }
 var grid_699 = DEAD;
@@ -10883,6 +11581,7 @@ function _699() {
 	 else{ 
 		document.getElementById("699").style.background = "#0f99e3";
 		custom[0][w_699][h_699] = DEAD;
+		grid_699 = DEAD;
 	}
 }
 var grid_700 = DEAD;
@@ -10897,6 +11596,7 @@ function _700() {
 	 else{ 
 		document.getElementById("700").style.background = "#0f99e3";
 		custom[0][w_700][h_700] = DEAD;
+		grid_700 = DEAD;
 	}
 }
 var grid_701 = DEAD;
@@ -10911,6 +11611,7 @@ function _701() {
 	 else{ 
 		document.getElementById("701").style.background = "#0f99e3";
 		custom[0][w_701][h_701] = DEAD;
+		grid_701 = DEAD;
 	}
 }
 var grid_702 = DEAD;
@@ -10925,6 +11626,7 @@ function _702() {
 	 else{ 
 		document.getElementById("702").style.background = "#0f99e3";
 		custom[0][w_702][h_702] = DEAD;
+		grid_702 = DEAD;
 	}
 }
 var grid_703 = DEAD;
@@ -10939,6 +11641,7 @@ function _703() {
 	 else{ 
 		document.getElementById("703").style.background = "#0f99e3";
 		custom[0][w_703][h_703] = DEAD;
+		grid_703 = DEAD;
 	}
 }
 var grid_704 = DEAD;
@@ -10953,6 +11656,7 @@ function _704() {
 	 else{ 
 		document.getElementById("704").style.background = "#0f99e3";
 		custom[0][w_704][h_704] = DEAD;
+		grid_704 = DEAD;
 	}
 }
 var grid_705 = DEAD;
@@ -10967,6 +11671,7 @@ function _705() {
 	 else{ 
 		document.getElementById("705").style.background = "#0f99e3";
 		custom[0][w_705][h_705] = DEAD;
+		grid_705 = DEAD;
 	}
 }
 var grid_706 = DEAD;
@@ -10981,6 +11686,7 @@ function _706() {
 	 else{ 
 		document.getElementById("706").style.background = "#0f99e3";
 		custom[0][w_706][h_706] = DEAD;
+		grid_706 = DEAD;
 	}
 }
 var grid_707 = DEAD;
@@ -10995,6 +11701,7 @@ function _707() {
 	 else{ 
 		document.getElementById("707").style.background = "#0f99e3";
 		custom[0][w_707][h_707] = DEAD;
+		grid_707 = DEAD;
 	}
 }
 var grid_708 = DEAD;
@@ -11009,6 +11716,7 @@ function _708() {
 	 else{ 
 		document.getElementById("708").style.background = "#0f99e3";
 		custom[0][w_708][h_708] = DEAD;
+		grid_708 = DEAD;
 	}
 }
 var grid_709 = DEAD;
@@ -11023,6 +11731,7 @@ function _709() {
 	 else{ 
 		document.getElementById("709").style.background = "#0f99e3";
 		custom[0][w_709][h_709] = DEAD;
+		grid_709 = DEAD;
 	}
 }
 var grid_710 = DEAD;
@@ -11037,6 +11746,7 @@ function _710() {
 	 else{ 
 		document.getElementById("710").style.background = "#0f99e3";
 		custom[0][w_710][h_710] = DEAD;
+		grid_710 = DEAD;
 	}
 }
 var grid_711 = DEAD;
@@ -11051,6 +11761,7 @@ function _711() {
 	 else{ 
 		document.getElementById("711").style.background = "#0f99e3";
 		custom[0][w_711][h_711] = DEAD;
+		grid_711 = DEAD;
 	}
 }
 var grid_712 = DEAD;
@@ -11065,6 +11776,7 @@ function _712() {
 	 else{ 
 		document.getElementById("712").style.background = "#0f99e3";
 		custom[0][w_712][h_712] = DEAD;
+		grid_712 = DEAD;
 	}
 }
 var grid_713 = DEAD;
@@ -11079,6 +11791,7 @@ function _713() {
 	 else{ 
 		document.getElementById("713").style.background = "#0f99e3";
 		custom[0][w_713][h_713] = DEAD;
+		grid_713 = DEAD;
 	}
 }
 var grid_714 = DEAD;
@@ -11093,6 +11806,7 @@ function _714() {
 	 else{ 
 		document.getElementById("714").style.background = "#0f99e3";
 		custom[0][w_714][h_714] = DEAD;
+		grid_714 = DEAD;
 	}
 }
 var grid_715 = DEAD;
@@ -11107,6 +11821,7 @@ function _715() {
 	 else{ 
 		document.getElementById("715").style.background = "#0f99e3";
 		custom[0][w_715][h_715] = DEAD;
+		grid_715 = DEAD;
 	}
 }
 var grid_716 = DEAD;
@@ -11121,6 +11836,7 @@ function _716() {
 	 else{ 
 		document.getElementById("716").style.background = "#0f99e3";
 		custom[0][w_716][h_716] = DEAD;
+		grid_716 = DEAD;
 	}
 }
 var grid_717 = DEAD;
@@ -11135,6 +11851,7 @@ function _717() {
 	 else{ 
 		document.getElementById("717").style.background = "#0f99e3";
 		custom[0][w_717][h_717] = DEAD;
+		grid_717 = DEAD;
 	}
 }
 var grid_718 = DEAD;
@@ -11149,6 +11866,7 @@ function _718() {
 	 else{ 
 		document.getElementById("718").style.background = "#0f99e3";
 		custom[0][w_718][h_718] = DEAD;
+		grid_718 = DEAD;
 	}
 }
 var grid_719 = DEAD;
@@ -11163,6 +11881,7 @@ function _719() {
 	 else{ 
 		document.getElementById("719").style.background = "#0f99e3";
 		custom[0][w_719][h_719] = DEAD;
+		grid_719 = DEAD;
 	}
 }
 var grid_720 = DEAD;
@@ -11177,6 +11896,7 @@ function _720() {
 	 else{ 
 		document.getElementById("720").style.background = "#0f99e3";
 		custom[0][w_720][h_720] = DEAD;
+		grid_720 = DEAD;
 	}
 }
 var grid_721 = DEAD;
@@ -11191,6 +11911,7 @@ function _721() {
 	 else{ 
 		document.getElementById("721").style.background = "#0f99e3";
 		custom[0][w_721][h_721] = DEAD;
+		grid_721 = DEAD;
 	}
 }
 var grid_722 = DEAD;
@@ -11205,6 +11926,7 @@ function _722() {
 	 else{ 
 		document.getElementById("722").style.background = "#0f99e3";
 		custom[0][w_722][h_722] = DEAD;
+		grid_722 = DEAD;
 	}
 }
 var grid_723 = DEAD;
@@ -11219,6 +11941,7 @@ function _723() {
 	 else{ 
 		document.getElementById("723").style.background = "#0f99e3";
 		custom[0][w_723][h_723] = DEAD;
+		grid_723 = DEAD;
 	}
 }
 var grid_724 = DEAD;
@@ -11233,6 +11956,7 @@ function _724() {
 	 else{ 
 		document.getElementById("724").style.background = "#0f99e3";
 		custom[0][w_724][h_724] = DEAD;
+		grid_724 = DEAD;
 	}
 }
 var grid_725 = DEAD;
@@ -11247,6 +11971,7 @@ function _725() {
 	 else{ 
 		document.getElementById("725").style.background = "#0f99e3";
 		custom[0][w_725][h_725] = DEAD;
+		grid_725 = DEAD;
 	}
 }
 var grid_726 = DEAD;
@@ -11261,6 +11986,7 @@ function _726() {
 	 else{ 
 		document.getElementById("726").style.background = "#0f99e3";
 		custom[0][w_726][h_726] = DEAD;
+		grid_726 = DEAD;
 	}
 }
 var grid_727 = DEAD;
@@ -11275,6 +12001,7 @@ function _727() {
 	 else{ 
 		document.getElementById("727").style.background = "#0f99e3";
 		custom[0][w_727][h_727] = DEAD;
+		grid_727 = DEAD;
 	}
 }
 var grid_728 = DEAD;
@@ -11289,6 +12016,7 @@ function _728() {
 	 else{ 
 		document.getElementById("728").style.background = "#0f99e3";
 		custom[0][w_728][h_728] = DEAD;
+		grid_728 = DEAD;
 	}
 }
 var grid_729 = DEAD;
@@ -11303,6 +12031,7 @@ function _729() {
 	 else{ 
 		document.getElementById("729").style.background = "#0f99e3";
 		custom[0][w_729][h_729] = DEAD;
+		grid_729 = DEAD;
 	}
 }
 var grid_730 = DEAD;
@@ -11317,6 +12046,7 @@ function _730() {
 	 else{ 
 		document.getElementById("730").style.background = "#0f99e3";
 		custom[0][w_730][h_730] = DEAD;
+		grid_730 = DEAD;
 	}
 }
 var grid_731 = DEAD;
@@ -11331,6 +12061,7 @@ function _731() {
 	 else{ 
 		document.getElementById("731").style.background = "#0f99e3";
 		custom[0][w_731][h_731] = DEAD;
+		grid_731 = DEAD;
 	}
 }
 var grid_732 = DEAD;
@@ -11345,6 +12076,7 @@ function _732() {
 	 else{ 
 		document.getElementById("732").style.background = "#0f99e3";
 		custom[0][w_732][h_732] = DEAD;
+		grid_732 = DEAD;
 	}
 }
 var grid_733 = DEAD;
@@ -11359,6 +12091,7 @@ function _733() {
 	 else{ 
 		document.getElementById("733").style.background = "#0f99e3";
 		custom[0][w_733][h_733] = DEAD;
+		grid_733 = DEAD;
 	}
 }
 var grid_734 = DEAD;
@@ -11373,6 +12106,7 @@ function _734() {
 	 else{ 
 		document.getElementById("734").style.background = "#0f99e3";
 		custom[0][w_734][h_734] = DEAD;
+		grid_734 = DEAD;
 	}
 }
 var grid_735 = DEAD;
@@ -11387,6 +12121,7 @@ function _735() {
 	 else{ 
 		document.getElementById("735").style.background = "#0f99e3";
 		custom[0][w_735][h_735] = DEAD;
+		grid_735 = DEAD;
 	}
 }
 var grid_736 = DEAD;
@@ -11401,6 +12136,7 @@ function _736() {
 	 else{ 
 		document.getElementById("736").style.background = "#0f99e3";
 		custom[0][w_736][h_736] = DEAD;
+		grid_736 = DEAD;
 	}
 }
 var grid_737 = DEAD;
@@ -11415,6 +12151,7 @@ function _737() {
 	 else{ 
 		document.getElementById("737").style.background = "#0f99e3";
 		custom[0][w_737][h_737] = DEAD;
+		grid_737 = DEAD;
 	}
 }
 var grid_738 = DEAD;
@@ -11429,6 +12166,7 @@ function _738() {
 	 else{ 
 		document.getElementById("738").style.background = "#0f99e3";
 		custom[0][w_738][h_738] = DEAD;
+		grid_738 = DEAD;
 	}
 }
 var grid_739 = DEAD;
@@ -11443,6 +12181,7 @@ function _739() {
 	 else{ 
 		document.getElementById("739").style.background = "#0f99e3";
 		custom[0][w_739][h_739] = DEAD;
+		grid_739 = DEAD;
 	}
 }
 var grid_740 = DEAD;
@@ -11457,6 +12196,7 @@ function _740() {
 	 else{ 
 		document.getElementById("740").style.background = "#0f99e3";
 		custom[0][w_740][h_740] = DEAD;
+		grid_740 = DEAD;
 	}
 }
 var grid_741 = DEAD;
@@ -11471,6 +12211,7 @@ function _741() {
 	 else{ 
 		document.getElementById("741").style.background = "#0f99e3";
 		custom[0][w_741][h_741] = DEAD;
+		grid_741 = DEAD;
 	}
 }
 var grid_742 = DEAD;
@@ -11485,6 +12226,7 @@ function _742() {
 	 else{ 
 		document.getElementById("742").style.background = "#0f99e3";
 		custom[0][w_742][h_742] = DEAD;
+		grid_742 = DEAD;
 	}
 }
 var grid_743 = DEAD;
@@ -11499,6 +12241,7 @@ function _743() {
 	 else{ 
 		document.getElementById("743").style.background = "#0f99e3";
 		custom[0][w_743][h_743] = DEAD;
+		grid_743 = DEAD;
 	}
 }
 var grid_744 = DEAD;
@@ -11513,6 +12256,7 @@ function _744() {
 	 else{ 
 		document.getElementById("744").style.background = "#0f99e3";
 		custom[0][w_744][h_744] = DEAD;
+		grid_744 = DEAD;
 	}
 }
 var grid_745 = DEAD;
@@ -11527,6 +12271,7 @@ function _745() {
 	 else{ 
 		document.getElementById("745").style.background = "#0f99e3";
 		custom[0][w_745][h_745] = DEAD;
+		grid_745 = DEAD;
 	}
 }
 var grid_746 = DEAD;
@@ -11541,6 +12286,7 @@ function _746() {
 	 else{ 
 		document.getElementById("746").style.background = "#0f99e3";
 		custom[0][w_746][h_746] = DEAD;
+		grid_746 = DEAD;
 	}
 }
 var grid_747 = DEAD;
@@ -11555,6 +12301,7 @@ function _747() {
 	 else{ 
 		document.getElementById("747").style.background = "#0f99e3";
 		custom[0][w_747][h_747] = DEAD;
+		grid_747 = DEAD;
 	}
 }
 var grid_748 = DEAD;
@@ -11569,6 +12316,7 @@ function _748() {
 	 else{ 
 		document.getElementById("748").style.background = "#0f99e3";
 		custom[0][w_748][h_748] = DEAD;
+		grid_748 = DEAD;
 	}
 }
 var grid_749 = DEAD;
@@ -11583,6 +12331,7 @@ function _749() {
 	 else{ 
 		document.getElementById("749").style.background = "#0f99e3";
 		custom[0][w_749][h_749] = DEAD;
+		grid_749 = DEAD;
 	}
 }
 var grid_750 = DEAD;
@@ -11597,6 +12346,7 @@ function _750() {
 	 else{ 
 		document.getElementById("750").style.background = "#0f99e3";
 		custom[0][w_750][h_750] = DEAD;
+		grid_750 = DEAD;
 	}
 }
 var grid_751 = DEAD;
@@ -11611,6 +12361,7 @@ function _751() {
 	 else{ 
 		document.getElementById("751").style.background = "#0f99e3";
 		custom[0][w_751][h_751] = DEAD;
+		grid_751 = DEAD;
 	}
 }
 var grid_752 = DEAD;
@@ -11625,6 +12376,7 @@ function _752() {
 	 else{ 
 		document.getElementById("752").style.background = "#0f99e3";
 		custom[0][w_752][h_752] = DEAD;
+		grid_752 = DEAD;
 	}
 }
 var grid_753 = DEAD;
@@ -11639,6 +12391,7 @@ function _753() {
 	 else{ 
 		document.getElementById("753").style.background = "#0f99e3";
 		custom[0][w_753][h_753] = DEAD;
+		grid_753 = DEAD;
 	}
 }
 var grid_754 = DEAD;
@@ -11653,6 +12406,7 @@ function _754() {
 	 else{ 
 		document.getElementById("754").style.background = "#0f99e3";
 		custom[0][w_754][h_754] = DEAD;
+		grid_754 = DEAD;
 	}
 }
 var grid_755 = DEAD;
@@ -11667,6 +12421,7 @@ function _755() {
 	 else{ 
 		document.getElementById("755").style.background = "#0f99e3";
 		custom[0][w_755][h_755] = DEAD;
+		grid_755 = DEAD;
 	}
 }
 var grid_756 = DEAD;
@@ -11681,6 +12436,7 @@ function _756() {
 	 else{ 
 		document.getElementById("756").style.background = "#0f99e3";
 		custom[0][w_756][h_756] = DEAD;
+		grid_756 = DEAD;
 	}
 }
 var grid_757 = DEAD;
@@ -11695,6 +12451,7 @@ function _757() {
 	 else{ 
 		document.getElementById("757").style.background = "#0f99e3";
 		custom[0][w_757][h_757] = DEAD;
+		grid_757 = DEAD;
 	}
 }
 var grid_758 = DEAD;
@@ -11709,6 +12466,7 @@ function _758() {
 	 else{ 
 		document.getElementById("758").style.background = "#0f99e3";
 		custom[0][w_758][h_758] = DEAD;
+		grid_758 = DEAD;
 	}
 }
 var grid_759 = DEAD;
@@ -11723,6 +12481,7 @@ function _759() {
 	 else{ 
 		document.getElementById("759").style.background = "#0f99e3";
 		custom[0][w_759][h_759] = DEAD;
+		grid_759 = DEAD;
 	}
 }
 var grid_760 = DEAD;
@@ -11737,6 +12496,7 @@ function _760() {
 	 else{ 
 		document.getElementById("760").style.background = "#0f99e3";
 		custom[0][w_760][h_760] = DEAD;
+		grid_760 = DEAD;
 	}
 }
 var grid_761 = DEAD;
@@ -11751,6 +12511,7 @@ function _761() {
 	 else{ 
 		document.getElementById("761").style.background = "#0f99e3";
 		custom[0][w_761][h_761] = DEAD;
+		grid_761 = DEAD;
 	}
 }
 var grid_762 = DEAD;
@@ -11765,6 +12526,7 @@ function _762() {
 	 else{ 
 		document.getElementById("762").style.background = "#0f99e3";
 		custom[0][w_762][h_762] = DEAD;
+		grid_762 = DEAD;
 	}
 }
 var grid_763 = DEAD;
@@ -11779,6 +12541,7 @@ function _763() {
 	 else{ 
 		document.getElementById("763").style.background = "#0f99e3";
 		custom[0][w_763][h_763] = DEAD;
+		grid_763 = DEAD;
 	}
 }
 var grid_764 = DEAD;
@@ -11793,6 +12556,7 @@ function _764() {
 	 else{ 
 		document.getElementById("764").style.background = "#0f99e3";
 		custom[0][w_764][h_764] = DEAD;
+		grid_764 = DEAD;
 	}
 }
 var grid_765 = DEAD;
@@ -11807,6 +12571,7 @@ function _765() {
 	 else{ 
 		document.getElementById("765").style.background = "#0f99e3";
 		custom[0][w_765][h_765] = DEAD;
+		grid_765 = DEAD;
 	}
 }
 var grid_766 = DEAD;
@@ -11821,6 +12586,7 @@ function _766() {
 	 else{ 
 		document.getElementById("766").style.background = "#0f99e3";
 		custom[0][w_766][h_766] = DEAD;
+		grid_766 = DEAD;
 	}
 }
 var grid_767 = DEAD;
@@ -11835,6 +12601,7 @@ function _767() {
 	 else{ 
 		document.getElementById("767").style.background = "#0f99e3";
 		custom[0][w_767][h_767] = DEAD;
+		grid_767 = DEAD;
 	}
 }
 var grid_768 = DEAD;
@@ -11849,6 +12616,7 @@ function _768() {
 	 else{ 
 		document.getElementById("768").style.background = "#0f99e3";
 		custom[0][w_768][h_768] = DEAD;
+		grid_768 = DEAD;
 	}
 }
 var grid_769 = DEAD;
@@ -11863,6 +12631,7 @@ function _769() {
 	 else{ 
 		document.getElementById("769").style.background = "#0f99e3";
 		custom[0][w_769][h_769] = DEAD;
+		grid_769 = DEAD;
 	}
 }
 var grid_770 = DEAD;
@@ -11877,6 +12646,7 @@ function _770() {
 	 else{ 
 		document.getElementById("770").style.background = "#0f99e3";
 		custom[0][w_770][h_770] = DEAD;
+		grid_770 = DEAD;
 	}
 }
 var grid_771 = DEAD;
@@ -11891,6 +12661,7 @@ function _771() {
 	 else{ 
 		document.getElementById("771").style.background = "#0f99e3";
 		custom[0][w_771][h_771] = DEAD;
+		grid_771 = DEAD;
 	}
 }
 var grid_772 = DEAD;
@@ -11905,6 +12676,7 @@ function _772() {
 	 else{ 
 		document.getElementById("772").style.background = "#0f99e3";
 		custom[0][w_772][h_772] = DEAD;
+		grid_772 = DEAD;
 	}
 }
 var grid_773 = DEAD;
@@ -11919,6 +12691,7 @@ function _773() {
 	 else{ 
 		document.getElementById("773").style.background = "#0f99e3";
 		custom[0][w_773][h_773] = DEAD;
+		grid_773 = DEAD;
 	}
 }
 var grid_774 = DEAD;
@@ -11933,6 +12706,7 @@ function _774() {
 	 else{ 
 		document.getElementById("774").style.background = "#0f99e3";
 		custom[0][w_774][h_774] = DEAD;
+		grid_774 = DEAD;
 	}
 }
 var grid_775 = DEAD;
@@ -11947,6 +12721,7 @@ function _775() {
 	 else{ 
 		document.getElementById("775").style.background = "#0f99e3";
 		custom[0][w_775][h_775] = DEAD;
+		grid_775 = DEAD;
 	}
 }
 var grid_776 = DEAD;
@@ -11961,6 +12736,7 @@ function _776() {
 	 else{ 
 		document.getElementById("776").style.background = "#0f99e3";
 		custom[0][w_776][h_776] = DEAD;
+		grid_776 = DEAD;
 	}
 }
 var grid_777 = DEAD;
@@ -11975,6 +12751,7 @@ function _777() {
 	 else{ 
 		document.getElementById("777").style.background = "#0f99e3";
 		custom[0][w_777][h_777] = DEAD;
+		grid_777 = DEAD;
 	}
 }
 var grid_778 = DEAD;
@@ -11989,6 +12766,7 @@ function _778() {
 	 else{ 
 		document.getElementById("778").style.background = "#0f99e3";
 		custom[0][w_778][h_778] = DEAD;
+		grid_778 = DEAD;
 	}
 }
 var grid_779 = DEAD;
@@ -12003,6 +12781,7 @@ function _779() {
 	 else{ 
 		document.getElementById("779").style.background = "#0f99e3";
 		custom[0][w_779][h_779] = DEAD;
+		grid_779 = DEAD;
 	}
 }
 var grid_780 = DEAD;
@@ -12017,6 +12796,7 @@ function _780() {
 	 else{ 
 		document.getElementById("780").style.background = "#0f99e3";
 		custom[0][w_780][h_780] = DEAD;
+		grid_780 = DEAD;
 	}
 }
 var grid_781 = DEAD;
@@ -12031,6 +12811,7 @@ function _781() {
 	 else{ 
 		document.getElementById("781").style.background = "#0f99e3";
 		custom[0][w_781][h_781] = DEAD;
+		grid_781 = DEAD;
 	}
 }
 var grid_782 = DEAD;
@@ -12045,6 +12826,7 @@ function _782() {
 	 else{ 
 		document.getElementById("782").style.background = "#0f99e3";
 		custom[0][w_782][h_782] = DEAD;
+		grid_782 = DEAD;
 	}
 }
 var grid_783 = DEAD;
@@ -12059,6 +12841,7 @@ function _783() {
 	 else{ 
 		document.getElementById("783").style.background = "#0f99e3";
 		custom[0][w_783][h_783] = DEAD;
+		grid_783 = DEAD;
 	}
 }
 var grid_784 = DEAD;
@@ -12073,6 +12856,7 @@ function _784() {
 	 else{ 
 		document.getElementById("784").style.background = "#0f99e3";
 		custom[0][w_784][h_784] = DEAD;
+		grid_784 = DEAD;
 	}
 }
 var grid_785 = DEAD;
@@ -12087,6 +12871,7 @@ function _785() {
 	 else{ 
 		document.getElementById("785").style.background = "#0f99e3";
 		custom[0][w_785][h_785] = DEAD;
+		grid_785 = DEAD;
 	}
 }
 var grid_786 = DEAD;
@@ -12101,6 +12886,7 @@ function _786() {
 	 else{ 
 		document.getElementById("786").style.background = "#0f99e3";
 		custom[0][w_786][h_786] = DEAD;
+		grid_786 = DEAD;
 	}
 }
 var grid_787 = DEAD;
@@ -12115,6 +12901,7 @@ function _787() {
 	 else{ 
 		document.getElementById("787").style.background = "#0f99e3";
 		custom[0][w_787][h_787] = DEAD;
+		grid_787 = DEAD;
 	}
 }
 var grid_788 = DEAD;
@@ -12129,6 +12916,7 @@ function _788() {
 	 else{ 
 		document.getElementById("788").style.background = "#0f99e3";
 		custom[0][w_788][h_788] = DEAD;
+		grid_788 = DEAD;
 	}
 }
 var grid_789 = DEAD;
@@ -12143,6 +12931,7 @@ function _789() {
 	 else{ 
 		document.getElementById("789").style.background = "#0f99e3";
 		custom[0][w_789][h_789] = DEAD;
+		grid_789 = DEAD;
 	}
 }
 var grid_790 = DEAD;
@@ -12157,6 +12946,7 @@ function _790() {
 	 else{ 
 		document.getElementById("790").style.background = "#0f99e3";
 		custom[0][w_790][h_790] = DEAD;
+		grid_790 = DEAD;
 	}
 }
 var grid_791 = DEAD;
@@ -12171,6 +12961,7 @@ function _791() {
 	 else{ 
 		document.getElementById("791").style.background = "#0f99e3";
 		custom[0][w_791][h_791] = DEAD;
+		grid_791 = DEAD;
 	}
 }
 var grid_792 = DEAD;
@@ -12185,6 +12976,7 @@ function _792() {
 	 else{ 
 		document.getElementById("792").style.background = "#0f99e3";
 		custom[0][w_792][h_792] = DEAD;
+		grid_792 = DEAD;
 	}
 }
 var grid_793 = DEAD;
@@ -12199,6 +12991,7 @@ function _793() {
 	 else{ 
 		document.getElementById("793").style.background = "#0f99e3";
 		custom[0][w_793][h_793] = DEAD;
+		grid_793 = DEAD;
 	}
 }
 var grid_794 = DEAD;
@@ -12213,6 +13006,7 @@ function _794() {
 	 else{ 
 		document.getElementById("794").style.background = "#0f99e3";
 		custom[0][w_794][h_794] = DEAD;
+		grid_794 = DEAD;
 	}
 }
 var grid_795 = DEAD;
@@ -12227,6 +13021,7 @@ function _795() {
 	 else{ 
 		document.getElementById("795").style.background = "#0f99e3";
 		custom[0][w_795][h_795] = DEAD;
+		grid_795 = DEAD;
 	}
 }
 var grid_796 = DEAD;
@@ -12241,6 +13036,7 @@ function _796() {
 	 else{ 
 		document.getElementById("796").style.background = "#0f99e3";
 		custom[0][w_796][h_796] = DEAD;
+		grid_796 = DEAD;
 	}
 }
 var grid_797 = DEAD;
@@ -12255,6 +13051,7 @@ function _797() {
 	 else{ 
 		document.getElementById("797").style.background = "#0f99e3";
 		custom[0][w_797][h_797] = DEAD;
+		grid_797 = DEAD;
 	}
 }
 var grid_798 = DEAD;
@@ -12269,6 +13066,7 @@ function _798() {
 	 else{ 
 		document.getElementById("798").style.background = "#0f99e3";
 		custom[0][w_798][h_798] = DEAD;
+		grid_798 = DEAD;
 	}
 }
 var grid_799 = DEAD;
@@ -12283,6 +13081,7 @@ function _799() {
 	 else{ 
 		document.getElementById("799").style.background = "#0f99e3";
 		custom[0][w_799][h_799] = DEAD;
+		grid_799 = DEAD;
 	}
 }
 var grid_800 = DEAD;
@@ -12297,6 +13096,7 @@ function _800() {
 	 else{ 
 		document.getElementById("800").style.background = "#0f99e3";
 		custom[0][w_800][h_800] = DEAD;
+		grid_800 = DEAD;
 	}
 }
 var grid_801 = DEAD;
@@ -12311,6 +13111,7 @@ function _801() {
 	 else{ 
 		document.getElementById("801").style.background = "#0f99e3";
 		custom[0][w_801][h_801] = DEAD;
+		grid_801 = DEAD;
 	}
 }
 var grid_802 = DEAD;
@@ -12325,6 +13126,7 @@ function _802() {
 	 else{ 
 		document.getElementById("802").style.background = "#0f99e3";
 		custom[0][w_802][h_802] = DEAD;
+		grid_802 = DEAD;
 	}
 }
 var grid_803 = DEAD;
@@ -12339,6 +13141,7 @@ function _803() {
 	 else{ 
 		document.getElementById("803").style.background = "#0f99e3";
 		custom[0][w_803][h_803] = DEAD;
+		grid_803 = DEAD;
 	}
 }
 var grid_804 = DEAD;
@@ -12353,6 +13156,7 @@ function _804() {
 	 else{ 
 		document.getElementById("804").style.background = "#0f99e3";
 		custom[0][w_804][h_804] = DEAD;
+		grid_804 = DEAD;
 	}
 }
 var grid_805 = DEAD;
@@ -12367,6 +13171,7 @@ function _805() {
 	 else{ 
 		document.getElementById("805").style.background = "#0f99e3";
 		custom[0][w_805][h_805] = DEAD;
+		grid_805 = DEAD;
 	}
 }
 var grid_806 = DEAD;
@@ -12381,6 +13186,7 @@ function _806() {
 	 else{ 
 		document.getElementById("806").style.background = "#0f99e3";
 		custom[0][w_806][h_806] = DEAD;
+		grid_806 = DEAD;
 	}
 }
 var grid_807 = DEAD;
@@ -12395,6 +13201,7 @@ function _807() {
 	 else{ 
 		document.getElementById("807").style.background = "#0f99e3";
 		custom[0][w_807][h_807] = DEAD;
+		grid_807 = DEAD;
 	}
 }
 var grid_808 = DEAD;
@@ -12409,6 +13216,7 @@ function _808() {
 	 else{ 
 		document.getElementById("808").style.background = "#0f99e3";
 		custom[0][w_808][h_808] = DEAD;
+		grid_808 = DEAD;
 	}
 }
 var grid_809 = DEAD;
@@ -12423,6 +13231,7 @@ function _809() {
 	 else{ 
 		document.getElementById("809").style.background = "#0f99e3";
 		custom[0][w_809][h_809] = DEAD;
+		grid_809 = DEAD;
 	}
 }
 var grid_810 = DEAD;
@@ -12437,6 +13246,7 @@ function _810() {
 	 else{ 
 		document.getElementById("810").style.background = "#0f99e3";
 		custom[0][w_810][h_810] = DEAD;
+		grid_810 = DEAD;
 	}
 }
 var grid_811 = DEAD;
@@ -12451,6 +13261,7 @@ function _811() {
 	 else{ 
 		document.getElementById("811").style.background = "#0f99e3";
 		custom[0][w_811][h_811] = DEAD;
+		grid_811 = DEAD;
 	}
 }
 var grid_812 = DEAD;
@@ -12465,6 +13276,7 @@ function _812() {
 	 else{ 
 		document.getElementById("812").style.background = "#0f99e3";
 		custom[0][w_812][h_812] = DEAD;
+		grid_812 = DEAD;
 	}
 }
 var grid_813 = DEAD;
@@ -12479,6 +13291,7 @@ function _813() {
 	 else{ 
 		document.getElementById("813").style.background = "#0f99e3";
 		custom[0][w_813][h_813] = DEAD;
+		grid_813 = DEAD;
 	}
 }
 var grid_814 = DEAD;
@@ -12493,6 +13306,7 @@ function _814() {
 	 else{ 
 		document.getElementById("814").style.background = "#0f99e3";
 		custom[0][w_814][h_814] = DEAD;
+		grid_814 = DEAD;
 	}
 }
 var grid_815 = DEAD;
@@ -12507,6 +13321,7 @@ function _815() {
 	 else{ 
 		document.getElementById("815").style.background = "#0f99e3";
 		custom[0][w_815][h_815] = DEAD;
+		grid_815 = DEAD;
 	}
 }
 var grid_816 = DEAD;
@@ -12521,6 +13336,7 @@ function _816() {
 	 else{ 
 		document.getElementById("816").style.background = "#0f99e3";
 		custom[0][w_816][h_816] = DEAD;
+		grid_816 = DEAD;
 	}
 }
 var grid_817 = DEAD;
@@ -12535,6 +13351,7 @@ function _817() {
 	 else{ 
 		document.getElementById("817").style.background = "#0f99e3";
 		custom[0][w_817][h_817] = DEAD;
+		grid_817 = DEAD;
 	}
 }
 var grid_818 = DEAD;
@@ -12549,6 +13366,7 @@ function _818() {
 	 else{ 
 		document.getElementById("818").style.background = "#0f99e3";
 		custom[0][w_818][h_818] = DEAD;
+		grid_818 = DEAD;
 	}
 }
 var grid_819 = DEAD;
@@ -12563,6 +13381,7 @@ function _819() {
 	 else{ 
 		document.getElementById("819").style.background = "#0f99e3";
 		custom[0][w_819][h_819] = DEAD;
+		grid_819 = DEAD;
 	}
 }
 var grid_820 = DEAD;
@@ -12577,6 +13396,7 @@ function _820() {
 	 else{ 
 		document.getElementById("820").style.background = "#0f99e3";
 		custom[0][w_820][h_820] = DEAD;
+		grid_820 = DEAD;
 	}
 }
 var grid_821 = DEAD;
@@ -12591,6 +13411,7 @@ function _821() {
 	 else{ 
 		document.getElementById("821").style.background = "#0f99e3";
 		custom[0][w_821][h_821] = DEAD;
+		grid_821 = DEAD;
 	}
 }
 var grid_822 = DEAD;
@@ -12605,6 +13426,7 @@ function _822() {
 	 else{ 
 		document.getElementById("822").style.background = "#0f99e3";
 		custom[0][w_822][h_822] = DEAD;
+		grid_822 = DEAD;
 	}
 }
 var grid_823 = DEAD;
@@ -12619,6 +13441,7 @@ function _823() {
 	 else{ 
 		document.getElementById("823").style.background = "#0f99e3";
 		custom[0][w_823][h_823] = DEAD;
+		grid_823 = DEAD;
 	}
 }
 var grid_824 = DEAD;
@@ -12633,6 +13456,7 @@ function _824() {
 	 else{ 
 		document.getElementById("824").style.background = "#0f99e3";
 		custom[0][w_824][h_824] = DEAD;
+		grid_824 = DEAD;
 	}
 }
 var grid_825 = DEAD;
@@ -12647,6 +13471,7 @@ function _825() {
 	 else{ 
 		document.getElementById("825").style.background = "#0f99e3";
 		custom[0][w_825][h_825] = DEAD;
+		grid_825 = DEAD;
 	}
 }
 var grid_826 = DEAD;
@@ -12661,6 +13486,7 @@ function _826() {
 	 else{ 
 		document.getElementById("826").style.background = "#0f99e3";
 		custom[0][w_826][h_826] = DEAD;
+		grid_826 = DEAD;
 	}
 }
 var grid_827 = DEAD;
@@ -12675,6 +13501,7 @@ function _827() {
 	 else{ 
 		document.getElementById("827").style.background = "#0f99e3";
 		custom[0][w_827][h_827] = DEAD;
+		grid_827 = DEAD;
 	}
 }
 var grid_828 = DEAD;
@@ -12689,6 +13516,7 @@ function _828() {
 	 else{ 
 		document.getElementById("828").style.background = "#0f99e3";
 		custom[0][w_828][h_828] = DEAD;
+		grid_828 = DEAD;
 	}
 }
 var grid_829 = DEAD;
@@ -12703,6 +13531,7 @@ function _829() {
 	 else{ 
 		document.getElementById("829").style.background = "#0f99e3";
 		custom[0][w_829][h_829] = DEAD;
+		grid_829 = DEAD;
 	}
 }
 var grid_830 = DEAD;
@@ -12717,6 +13546,7 @@ function _830() {
 	 else{ 
 		document.getElementById("830").style.background = "#0f99e3";
 		custom[0][w_830][h_830] = DEAD;
+		grid_830 = DEAD;
 	}
 }
 var grid_831 = DEAD;
@@ -12731,6 +13561,7 @@ function _831() {
 	 else{ 
 		document.getElementById("831").style.background = "#0f99e3";
 		custom[0][w_831][h_831] = DEAD;
+		grid_831 = DEAD;
 	}
 }
 var grid_832 = DEAD;
@@ -12745,6 +13576,7 @@ function _832() {
 	 else{ 
 		document.getElementById("832").style.background = "#0f99e3";
 		custom[0][w_832][h_832] = DEAD;
+		grid_832 = DEAD;
 	}
 }
 var grid_833 = DEAD;
@@ -12759,6 +13591,7 @@ function _833() {
 	 else{ 
 		document.getElementById("833").style.background = "#0f99e3";
 		custom[0][w_833][h_833] = DEAD;
+		grid_833 = DEAD;
 	}
 }
 var grid_834 = DEAD;
@@ -12773,6 +13606,7 @@ function _834() {
 	 else{ 
 		document.getElementById("834").style.background = "#0f99e3";
 		custom[0][w_834][h_834] = DEAD;
+		grid_834 = DEAD;
 	}
 }
 var grid_835 = DEAD;
@@ -12787,6 +13621,7 @@ function _835() {
 	 else{ 
 		document.getElementById("835").style.background = "#0f99e3";
 		custom[0][w_835][h_835] = DEAD;
+		grid_835 = DEAD;
 	}
 }
 var grid_836 = DEAD;
@@ -12801,6 +13636,7 @@ function _836() {
 	 else{ 
 		document.getElementById("836").style.background = "#0f99e3";
 		custom[0][w_836][h_836] = DEAD;
+		grid_836 = DEAD;
 	}
 }
 var grid_837 = DEAD;
@@ -12815,6 +13651,7 @@ function _837() {
 	 else{ 
 		document.getElementById("837").style.background = "#0f99e3";
 		custom[0][w_837][h_837] = DEAD;
+		grid_837 = DEAD;
 	}
 }
 var grid_838 = DEAD;
@@ -12829,6 +13666,7 @@ function _838() {
 	 else{ 
 		document.getElementById("838").style.background = "#0f99e3";
 		custom[0][w_838][h_838] = DEAD;
+		grid_838 = DEAD;
 	}
 }
 var grid_839 = DEAD;
@@ -12843,6 +13681,7 @@ function _839() {
 	 else{ 
 		document.getElementById("839").style.background = "#0f99e3";
 		custom[0][w_839][h_839] = DEAD;
+		grid_839 = DEAD;
 	}
 }
 var grid_840 = DEAD;
@@ -12857,6 +13696,7 @@ function _840() {
 	 else{ 
 		document.getElementById("840").style.background = "#0f99e3";
 		custom[0][w_840][h_840] = DEAD;
+		grid_840 = DEAD;
 	}
 }
 var grid_841 = DEAD;
@@ -12871,6 +13711,7 @@ function _841() {
 	 else{ 
 		document.getElementById("841").style.background = "#0f99e3";
 		custom[0][w_841][h_841] = DEAD;
+		grid_841 = DEAD;
 	}
 }
 var grid_842 = DEAD;
@@ -12885,6 +13726,7 @@ function _842() {
 	 else{ 
 		document.getElementById("842").style.background = "#0f99e3";
 		custom[0][w_842][h_842] = DEAD;
+		grid_842 = DEAD;
 	}
 }
 var grid_843 = DEAD;
@@ -12899,6 +13741,7 @@ function _843() {
 	 else{ 
 		document.getElementById("843").style.background = "#0f99e3";
 		custom[0][w_843][h_843] = DEAD;
+		grid_843 = DEAD;
 	}
 }
 var grid_844 = DEAD;
@@ -12913,6 +13756,7 @@ function _844() {
 	 else{ 
 		document.getElementById("844").style.background = "#0f99e3";
 		custom[0][w_844][h_844] = DEAD;
+		grid_844 = DEAD;
 	}
 }
 var grid_845 = DEAD;
@@ -12927,6 +13771,7 @@ function _845() {
 	 else{ 
 		document.getElementById("845").style.background = "#0f99e3";
 		custom[0][w_845][h_845] = DEAD;
+		grid_845 = DEAD;
 	}
 }
 var grid_846 = DEAD;
@@ -12941,6 +13786,7 @@ function _846() {
 	 else{ 
 		document.getElementById("846").style.background = "#0f99e3";
 		custom[0][w_846][h_846] = DEAD;
+		grid_846 = DEAD;
 	}
 }
 var grid_847 = DEAD;
@@ -12955,6 +13801,7 @@ function _847() {
 	 else{ 
 		document.getElementById("847").style.background = "#0f99e3";
 		custom[0][w_847][h_847] = DEAD;
+		grid_847 = DEAD;
 	}
 }
 var grid_848 = DEAD;
@@ -12969,6 +13816,7 @@ function _848() {
 	 else{ 
 		document.getElementById("848").style.background = "#0f99e3";
 		custom[0][w_848][h_848] = DEAD;
+		grid_848 = DEAD;
 	}
 }
 var grid_849 = DEAD;
@@ -12983,6 +13831,7 @@ function _849() {
 	 else{ 
 		document.getElementById("849").style.background = "#0f99e3";
 		custom[0][w_849][h_849] = DEAD;
+		grid_849 = DEAD;
 	}
 }
 var grid_850 = DEAD;
@@ -12997,6 +13846,7 @@ function _850() {
 	 else{ 
 		document.getElementById("850").style.background = "#0f99e3";
 		custom[0][w_850][h_850] = DEAD;
+		grid_850 = DEAD;
 	}
 }
 var grid_851 = DEAD;
@@ -13011,6 +13861,7 @@ function _851() {
 	 else{ 
 		document.getElementById("851").style.background = "#0f99e3";
 		custom[0][w_851][h_851] = DEAD;
+		grid_851 = DEAD;
 	}
 }
 var grid_852 = DEAD;
@@ -13025,6 +13876,7 @@ function _852() {
 	 else{ 
 		document.getElementById("852").style.background = "#0f99e3";
 		custom[0][w_852][h_852] = DEAD;
+		grid_852 = DEAD;
 	}
 }
 var grid_853 = DEAD;
@@ -13039,6 +13891,7 @@ function _853() {
 	 else{ 
 		document.getElementById("853").style.background = "#0f99e3";
 		custom[0][w_853][h_853] = DEAD;
+		grid_853 = DEAD;
 	}
 }
 var grid_854 = DEAD;
@@ -13053,6 +13906,7 @@ function _854() {
 	 else{ 
 		document.getElementById("854").style.background = "#0f99e3";
 		custom[0][w_854][h_854] = DEAD;
+		grid_854 = DEAD;
 	}
 }
 var grid_855 = DEAD;
@@ -13067,6 +13921,7 @@ function _855() {
 	 else{ 
 		document.getElementById("855").style.background = "#0f99e3";
 		custom[0][w_855][h_855] = DEAD;
+		grid_855 = DEAD;
 	}
 }
 var grid_856 = DEAD;
@@ -13081,6 +13936,7 @@ function _856() {
 	 else{ 
 		document.getElementById("856").style.background = "#0f99e3";
 		custom[0][w_856][h_856] = DEAD;
+		grid_856 = DEAD;
 	}
 }
 var grid_857 = DEAD;
@@ -13095,6 +13951,7 @@ function _857() {
 	 else{ 
 		document.getElementById("857").style.background = "#0f99e3";
 		custom[0][w_857][h_857] = DEAD;
+		grid_857 = DEAD;
 	}
 }
 var grid_858 = DEAD;
@@ -13109,6 +13966,7 @@ function _858() {
 	 else{ 
 		document.getElementById("858").style.background = "#0f99e3";
 		custom[0][w_858][h_858] = DEAD;
+		grid_858 = DEAD;
 	}
 }
 var grid_859 = DEAD;
@@ -13123,6 +13981,7 @@ function _859() {
 	 else{ 
 		document.getElementById("859").style.background = "#0f99e3";
 		custom[0][w_859][h_859] = DEAD;
+		grid_859 = DEAD;
 	}
 }
 var grid_860 = DEAD;
@@ -13137,6 +13996,7 @@ function _860() {
 	 else{ 
 		document.getElementById("860").style.background = "#0f99e3";
 		custom[0][w_860][h_860] = DEAD;
+		grid_860 = DEAD;
 	}
 }
 var grid_861 = DEAD;
@@ -13151,6 +14011,7 @@ function _861() {
 	 else{ 
 		document.getElementById("861").style.background = "#0f99e3";
 		custom[0][w_861][h_861] = DEAD;
+		grid_861 = DEAD;
 	}
 }
 var grid_862 = DEAD;
@@ -13165,6 +14026,7 @@ function _862() {
 	 else{ 
 		document.getElementById("862").style.background = "#0f99e3";
 		custom[0][w_862][h_862] = DEAD;
+		grid_862 = DEAD;
 	}
 }
 var grid_863 = DEAD;
@@ -13179,6 +14041,7 @@ function _863() {
 	 else{ 
 		document.getElementById("863").style.background = "#0f99e3";
 		custom[0][w_863][h_863] = DEAD;
+		grid_863 = DEAD;
 	}
 }
 var grid_864 = DEAD;
@@ -13193,6 +14056,7 @@ function _864() {
 	 else{ 
 		document.getElementById("864").style.background = "#0f99e3";
 		custom[0][w_864][h_864] = DEAD;
+		grid_864 = DEAD;
 	}
 }
 var grid_865 = DEAD;
@@ -13207,6 +14071,7 @@ function _865() {
 	 else{ 
 		document.getElementById("865").style.background = "#0f99e3";
 		custom[0][w_865][h_865] = DEAD;
+		grid_865 = DEAD;
 	}
 }
 var grid_866 = DEAD;
@@ -13221,6 +14086,7 @@ function _866() {
 	 else{ 
 		document.getElementById("866").style.background = "#0f99e3";
 		custom[0][w_866][h_866] = DEAD;
+		grid_866 = DEAD;
 	}
 }
 var grid_867 = DEAD;
@@ -13235,6 +14101,7 @@ function _867() {
 	 else{ 
 		document.getElementById("867").style.background = "#0f99e3";
 		custom[0][w_867][h_867] = DEAD;
+		grid_867 = DEAD;
 	}
 }
 var grid_868 = DEAD;
@@ -13249,6 +14116,7 @@ function _868() {
 	 else{ 
 		document.getElementById("868").style.background = "#0f99e3";
 		custom[0][w_868][h_868] = DEAD;
+		grid_868 = DEAD;
 	}
 }
 var grid_869 = DEAD;
@@ -13263,6 +14131,7 @@ function _869() {
 	 else{ 
 		document.getElementById("869").style.background = "#0f99e3";
 		custom[0][w_869][h_869] = DEAD;
+		grid_869 = DEAD;
 	}
 }
 var grid_870 = DEAD;
@@ -13277,6 +14146,7 @@ function _870() {
 	 else{ 
 		document.getElementById("870").style.background = "#0f99e3";
 		custom[0][w_870][h_870] = DEAD;
+		grid_870 = DEAD;
 	}
 }
 var grid_871 = DEAD;
@@ -13291,6 +14161,7 @@ function _871() {
 	 else{ 
 		document.getElementById("871").style.background = "#0f99e3";
 		custom[0][w_871][h_871] = DEAD;
+		grid_871 = DEAD;
 	}
 }
 var grid_872 = DEAD;
@@ -13305,6 +14176,7 @@ function _872() {
 	 else{ 
 		document.getElementById("872").style.background = "#0f99e3";
 		custom[0][w_872][h_872] = DEAD;
+		grid_872 = DEAD;
 	}
 }
 var grid_873 = DEAD;
@@ -13319,6 +14191,7 @@ function _873() {
 	 else{ 
 		document.getElementById("873").style.background = "#0f99e3";
 		custom[0][w_873][h_873] = DEAD;
+		grid_873 = DEAD;
 	}
 }
 var grid_874 = DEAD;
@@ -13333,6 +14206,7 @@ function _874() {
 	 else{ 
 		document.getElementById("874").style.background = "#0f99e3";
 		custom[0][w_874][h_874] = DEAD;
+		grid_874 = DEAD;
 	}
 }
 var grid_875 = DEAD;
@@ -13347,6 +14221,7 @@ function _875() {
 	 else{ 
 		document.getElementById("875").style.background = "#0f99e3";
 		custom[0][w_875][h_875] = DEAD;
+		grid_875 = DEAD;
 	}
 }
 var grid_876 = DEAD;
@@ -13361,6 +14236,7 @@ function _876() {
 	 else{ 
 		document.getElementById("876").style.background = "#0f99e3";
 		custom[0][w_876][h_876] = DEAD;
+		grid_876 = DEAD;
 	}
 }
 var grid_877 = DEAD;
@@ -13375,6 +14251,7 @@ function _877() {
 	 else{ 
 		document.getElementById("877").style.background = "#0f99e3";
 		custom[0][w_877][h_877] = DEAD;
+		grid_877 = DEAD;
 	}
 }
 var grid_878 = DEAD;
@@ -13389,6 +14266,7 @@ function _878() {
 	 else{ 
 		document.getElementById("878").style.background = "#0f99e3";
 		custom[0][w_878][h_878] = DEAD;
+		grid_878 = DEAD;
 	}
 }
 var grid_879 = DEAD;
@@ -13403,6 +14281,7 @@ function _879() {
 	 else{ 
 		document.getElementById("879").style.background = "#0f99e3";
 		custom[0][w_879][h_879] = DEAD;
+		grid_879 = DEAD;
 	}
 }
 var grid_880 = DEAD;
@@ -13417,6 +14296,7 @@ function _880() {
 	 else{ 
 		document.getElementById("880").style.background = "#0f99e3";
 		custom[0][w_880][h_880] = DEAD;
+		grid_880 = DEAD;
 	}
 }
 var grid_881 = DEAD;
@@ -13431,6 +14311,7 @@ function _881() {
 	 else{ 
 		document.getElementById("881").style.background = "#0f99e3";
 		custom[0][w_881][h_881] = DEAD;
+		grid_881 = DEAD;
 	}
 }
 var grid_882 = DEAD;
@@ -13445,6 +14326,7 @@ function _882() {
 	 else{ 
 		document.getElementById("882").style.background = "#0f99e3";
 		custom[0][w_882][h_882] = DEAD;
+		grid_882 = DEAD;
 	}
 }
 var grid_883 = DEAD;
@@ -13459,6 +14341,7 @@ function _883() {
 	 else{ 
 		document.getElementById("883").style.background = "#0f99e3";
 		custom[0][w_883][h_883] = DEAD;
+		grid_883 = DEAD;
 	}
 }
 var grid_884 = DEAD;
@@ -13473,6 +14356,7 @@ function _884() {
 	 else{ 
 		document.getElementById("884").style.background = "#0f99e3";
 		custom[0][w_884][h_884] = DEAD;
+		grid_884 = DEAD;
 	}
 }
 var grid_885 = DEAD;
@@ -13487,6 +14371,7 @@ function _885() {
 	 else{ 
 		document.getElementById("885").style.background = "#0f99e3";
 		custom[0][w_885][h_885] = DEAD;
+		grid_885 = DEAD;
 	}
 }
 var grid_886 = DEAD;
@@ -13501,6 +14386,7 @@ function _886() {
 	 else{ 
 		document.getElementById("886").style.background = "#0f99e3";
 		custom[0][w_886][h_886] = DEAD;
+		grid_886 = DEAD;
 	}
 }
 var grid_887 = DEAD;
@@ -13515,6 +14401,7 @@ function _887() {
 	 else{ 
 		document.getElementById("887").style.background = "#0f99e3";
 		custom[0][w_887][h_887] = DEAD;
+		grid_887 = DEAD;
 	}
 }
 var grid_888 = DEAD;
@@ -13529,6 +14416,7 @@ function _888() {
 	 else{ 
 		document.getElementById("888").style.background = "#0f99e3";
 		custom[0][w_888][h_888] = DEAD;
+		grid_888 = DEAD;
 	}
 }
 var grid_889 = DEAD;
@@ -13543,6 +14431,7 @@ function _889() {
 	 else{ 
 		document.getElementById("889").style.background = "#0f99e3";
 		custom[0][w_889][h_889] = DEAD;
+		grid_889 = DEAD;
 	}
 }
 var grid_890 = DEAD;
@@ -13557,6 +14446,7 @@ function _890() {
 	 else{ 
 		document.getElementById("890").style.background = "#0f99e3";
 		custom[0][w_890][h_890] = DEAD;
+		grid_890 = DEAD;
 	}
 }
 var grid_891 = DEAD;
@@ -13571,6 +14461,7 @@ function _891() {
 	 else{ 
 		document.getElementById("891").style.background = "#0f99e3";
 		custom[0][w_891][h_891] = DEAD;
+		grid_891 = DEAD;
 	}
 }
 var grid_892 = DEAD;
@@ -13585,6 +14476,7 @@ function _892() {
 	 else{ 
 		document.getElementById("892").style.background = "#0f99e3";
 		custom[0][w_892][h_892] = DEAD;
+		grid_892 = DEAD;
 	}
 }
 var grid_893 = DEAD;
@@ -13599,6 +14491,7 @@ function _893() {
 	 else{ 
 		document.getElementById("893").style.background = "#0f99e3";
 		custom[0][w_893][h_893] = DEAD;
+		grid_893 = DEAD;
 	}
 }
 var grid_894 = DEAD;
@@ -13613,6 +14506,7 @@ function _894() {
 	 else{ 
 		document.getElementById("894").style.background = "#0f99e3";
 		custom[0][w_894][h_894] = DEAD;
+		grid_894 = DEAD;
 	}
 }
 var grid_895 = DEAD;
@@ -13627,6 +14521,7 @@ function _895() {
 	 else{ 
 		document.getElementById("895").style.background = "#0f99e3";
 		custom[0][w_895][h_895] = DEAD;
+		grid_895 = DEAD;
 	}
 }
 var grid_896 = DEAD;
@@ -13641,6 +14536,7 @@ function _896() {
 	 else{ 
 		document.getElementById("896").style.background = "#0f99e3";
 		custom[0][w_896][h_896] = DEAD;
+		grid_896 = DEAD;
 	}
 }
 var grid_897 = DEAD;
@@ -13655,6 +14551,7 @@ function _897() {
 	 else{ 
 		document.getElementById("897").style.background = "#0f99e3";
 		custom[0][w_897][h_897] = DEAD;
+		grid_897 = DEAD;
 	}
 }
 var grid_898 = DEAD;
@@ -13669,6 +14566,7 @@ function _898() {
 	 else{ 
 		document.getElementById("898").style.background = "#0f99e3";
 		custom[0][w_898][h_898] = DEAD;
+		grid_898 = DEAD;
 	}
 }
 var grid_899 = DEAD;
@@ -13683,6 +14581,7 @@ function _899() {
 	 else{ 
 		document.getElementById("899").style.background = "#0f99e3";
 		custom[0][w_899][h_899] = DEAD;
+		grid_899 = DEAD;
 	}
 }
 var grid_900 = DEAD;
@@ -13697,6 +14596,7 @@ function _900() {
 	 else{ 
 		document.getElementById("900").style.background = "#0f99e3";
 		custom[0][w_900][h_900] = DEAD;
+		grid_900 = DEAD;
 	}
 }
 var grid_901 = DEAD;
@@ -13711,6 +14611,7 @@ function _901() {
 	 else{ 
 		document.getElementById("901").style.background = "#0f99e3";
 		custom[0][w_901][h_901] = DEAD;
+		grid_901 = DEAD;
 	}
 }
 var grid_902 = DEAD;
@@ -13725,6 +14626,7 @@ function _902() {
 	 else{ 
 		document.getElementById("902").style.background = "#0f99e3";
 		custom[0][w_902][h_902] = DEAD;
+		grid_902 = DEAD;
 	}
 }
 var grid_903 = DEAD;
@@ -13739,6 +14641,7 @@ function _903() {
 	 else{ 
 		document.getElementById("903").style.background = "#0f99e3";
 		custom[0][w_903][h_903] = DEAD;
+		grid_903 = DEAD;
 	}
 }
 var grid_904 = DEAD;
@@ -13753,6 +14656,7 @@ function _904() {
 	 else{ 
 		document.getElementById("904").style.background = "#0f99e3";
 		custom[0][w_904][h_904] = DEAD;
+		grid_904 = DEAD;
 	}
 }
 var grid_905 = DEAD;
@@ -13767,6 +14671,7 @@ function _905() {
 	 else{ 
 		document.getElementById("905").style.background = "#0f99e3";
 		custom[0][w_905][h_905] = DEAD;
+		grid_905 = DEAD;
 	}
 }
 var grid_906 = DEAD;
@@ -13781,6 +14686,7 @@ function _906() {
 	 else{ 
 		document.getElementById("906").style.background = "#0f99e3";
 		custom[0][w_906][h_906] = DEAD;
+		grid_906 = DEAD;
 	}
 }
 var grid_907 = DEAD;
@@ -13795,6 +14701,7 @@ function _907() {
 	 else{ 
 		document.getElementById("907").style.background = "#0f99e3";
 		custom[0][w_907][h_907] = DEAD;
+		grid_907 = DEAD;
 	}
 }
 var grid_908 = DEAD;
@@ -13809,6 +14716,7 @@ function _908() {
 	 else{ 
 		document.getElementById("908").style.background = "#0f99e3";
 		custom[0][w_908][h_908] = DEAD;
+		grid_908 = DEAD;
 	}
 }
 var grid_909 = DEAD;
@@ -13823,6 +14731,7 @@ function _909() {
 	 else{ 
 		document.getElementById("909").style.background = "#0f99e3";
 		custom[0][w_909][h_909] = DEAD;
+		grid_909 = DEAD;
 	}
 }
 var grid_910 = DEAD;
@@ -13837,6 +14746,7 @@ function _910() {
 	 else{ 
 		document.getElementById("910").style.background = "#0f99e3";
 		custom[0][w_910][h_910] = DEAD;
+		grid_910 = DEAD;
 	}
 }
 var grid_911 = DEAD;
@@ -13851,6 +14761,7 @@ function _911() {
 	 else{ 
 		document.getElementById("911").style.background = "#0f99e3";
 		custom[0][w_911][h_911] = DEAD;
+		grid_911 = DEAD;
 	}
 }
 var grid_912 = DEAD;
@@ -13865,6 +14776,7 @@ function _912() {
 	 else{ 
 		document.getElementById("912").style.background = "#0f99e3";
 		custom[0][w_912][h_912] = DEAD;
+		grid_912 = DEAD;
 	}
 }
 var grid_913 = DEAD;
@@ -13879,6 +14791,7 @@ function _913() {
 	 else{ 
 		document.getElementById("913").style.background = "#0f99e3";
 		custom[0][w_913][h_913] = DEAD;
+		grid_913 = DEAD;
 	}
 }
 var grid_914 = DEAD;
@@ -13893,6 +14806,7 @@ function _914() {
 	 else{ 
 		document.getElementById("914").style.background = "#0f99e3";
 		custom[0][w_914][h_914] = DEAD;
+		grid_914 = DEAD;
 	}
 }
 var grid_915 = DEAD;
@@ -13907,6 +14821,7 @@ function _915() {
 	 else{ 
 		document.getElementById("915").style.background = "#0f99e3";
 		custom[0][w_915][h_915] = DEAD;
+		grid_915 = DEAD;
 	}
 }
 var grid_916 = DEAD;
@@ -13921,6 +14836,7 @@ function _916() {
 	 else{ 
 		document.getElementById("916").style.background = "#0f99e3";
 		custom[0][w_916][h_916] = DEAD;
+		grid_916 = DEAD;
 	}
 }
 var grid_917 = DEAD;
@@ -13935,6 +14851,7 @@ function _917() {
 	 else{ 
 		document.getElementById("917").style.background = "#0f99e3";
 		custom[0][w_917][h_917] = DEAD;
+		grid_917 = DEAD;
 	}
 }
 var grid_918 = DEAD;
@@ -13949,6 +14866,7 @@ function _918() {
 	 else{ 
 		document.getElementById("918").style.background = "#0f99e3";
 		custom[0][w_918][h_918] = DEAD;
+		grid_918 = DEAD;
 	}
 }
 var grid_919 = DEAD;
@@ -13963,6 +14881,7 @@ function _919() {
 	 else{ 
 		document.getElementById("919").style.background = "#0f99e3";
 		custom[0][w_919][h_919] = DEAD;
+		grid_919 = DEAD;
 	}
 }
 var grid_920 = DEAD;
@@ -13977,6 +14896,7 @@ function _920() {
 	 else{ 
 		document.getElementById("920").style.background = "#0f99e3";
 		custom[0][w_920][h_920] = DEAD;
+		grid_920 = DEAD;
 	}
 }
 var grid_921 = DEAD;
@@ -13991,6 +14911,7 @@ function _921() {
 	 else{ 
 		document.getElementById("921").style.background = "#0f99e3";
 		custom[0][w_921][h_921] = DEAD;
+		grid_921 = DEAD;
 	}
 }
 var grid_922 = DEAD;
@@ -14005,6 +14926,7 @@ function _922() {
 	 else{ 
 		document.getElementById("922").style.background = "#0f99e3";
 		custom[0][w_922][h_922] = DEAD;
+		grid_922 = DEAD;
 	}
 }
 var grid_923 = DEAD;
@@ -14019,6 +14941,7 @@ function _923() {
 	 else{ 
 		document.getElementById("923").style.background = "#0f99e3";
 		custom[0][w_923][h_923] = DEAD;
+		grid_923 = DEAD;
 	}
 }
 var grid_924 = DEAD;
@@ -14033,6 +14956,7 @@ function _924() {
 	 else{ 
 		document.getElementById("924").style.background = "#0f99e3";
 		custom[0][w_924][h_924] = DEAD;
+		grid_924 = DEAD;
 	}
 }
 var grid_925 = DEAD;
@@ -14047,6 +14971,7 @@ function _925() {
 	 else{ 
 		document.getElementById("925").style.background = "#0f99e3";
 		custom[0][w_925][h_925] = DEAD;
+		grid_925 = DEAD;
 	}
 }
 var grid_926 = DEAD;
@@ -14061,6 +14986,7 @@ function _926() {
 	 else{ 
 		document.getElementById("926").style.background = "#0f99e3";
 		custom[0][w_926][h_926] = DEAD;
+		grid_926 = DEAD;
 	}
 }
 var grid_927 = DEAD;
@@ -14075,6 +15001,7 @@ function _927() {
 	 else{ 
 		document.getElementById("927").style.background = "#0f99e3";
 		custom[0][w_927][h_927] = DEAD;
+		grid_927 = DEAD;
 	}
 }
 var grid_928 = DEAD;
@@ -14089,6 +15016,7 @@ function _928() {
 	 else{ 
 		document.getElementById("928").style.background = "#0f99e3";
 		custom[0][w_928][h_928] = DEAD;
+		grid_928 = DEAD;
 	}
 }
 var grid_929 = DEAD;
@@ -14103,6 +15031,7 @@ function _929() {
 	 else{ 
 		document.getElementById("929").style.background = "#0f99e3";
 		custom[0][w_929][h_929] = DEAD;
+		grid_929 = DEAD;
 	}
 }
 var grid_930 = DEAD;
@@ -14117,6 +15046,7 @@ function _930() {
 	 else{ 
 		document.getElementById("930").style.background = "#0f99e3";
 		custom[0][w_930][h_930] = DEAD;
+		grid_930 = DEAD;
 	}
 }
 var grid_931 = DEAD;
@@ -14131,6 +15061,7 @@ function _931() {
 	 else{ 
 		document.getElementById("931").style.background = "#0f99e3";
 		custom[0][w_931][h_931] = DEAD;
+		grid_931 = DEAD;
 	}
 }
 var grid_932 = DEAD;
@@ -14145,6 +15076,7 @@ function _932() {
 	 else{ 
 		document.getElementById("932").style.background = "#0f99e3";
 		custom[0][w_932][h_932] = DEAD;
+		grid_932 = DEAD;
 	}
 }
 var grid_933 = DEAD;
@@ -14159,6 +15091,7 @@ function _933() {
 	 else{ 
 		document.getElementById("933").style.background = "#0f99e3";
 		custom[0][w_933][h_933] = DEAD;
+		grid_933 = DEAD;
 	}
 }
 var grid_934 = DEAD;
@@ -14173,6 +15106,7 @@ function _934() {
 	 else{ 
 		document.getElementById("934").style.background = "#0f99e3";
 		custom[0][w_934][h_934] = DEAD;
+		grid_934 = DEAD;
 	}
 }
 var grid_935 = DEAD;
@@ -14187,6 +15121,7 @@ function _935() {
 	 else{ 
 		document.getElementById("935").style.background = "#0f99e3";
 		custom[0][w_935][h_935] = DEAD;
+		grid_935 = DEAD;
 	}
 }
 var grid_936 = DEAD;
@@ -14201,6 +15136,7 @@ function _936() {
 	 else{ 
 		document.getElementById("936").style.background = "#0f99e3";
 		custom[0][w_936][h_936] = DEAD;
+		grid_936 = DEAD;
 	}
 }
 var grid_937 = DEAD;
@@ -14215,6 +15151,7 @@ function _937() {
 	 else{ 
 		document.getElementById("937").style.background = "#0f99e3";
 		custom[0][w_937][h_937] = DEAD;
+		grid_937 = DEAD;
 	}
 }
 var grid_938 = DEAD;
@@ -14229,6 +15166,7 @@ function _938() {
 	 else{ 
 		document.getElementById("938").style.background = "#0f99e3";
 		custom[0][w_938][h_938] = DEAD;
+		grid_938 = DEAD;
 	}
 }
 var grid_939 = DEAD;
@@ -14243,6 +15181,7 @@ function _939() {
 	 else{ 
 		document.getElementById("939").style.background = "#0f99e3";
 		custom[0][w_939][h_939] = DEAD;
+		grid_939 = DEAD;
 	}
 }
 var grid_940 = DEAD;
@@ -14257,6 +15196,7 @@ function _940() {
 	 else{ 
 		document.getElementById("940").style.background = "#0f99e3";
 		custom[0][w_940][h_940] = DEAD;
+		grid_940 = DEAD;
 	}
 }
 var grid_941 = DEAD;
@@ -14271,6 +15211,7 @@ function _941() {
 	 else{ 
 		document.getElementById("941").style.background = "#0f99e3";
 		custom[0][w_941][h_941] = DEAD;
+		grid_941 = DEAD;
 	}
 }
 var grid_942 = DEAD;
@@ -14285,6 +15226,7 @@ function _942() {
 	 else{ 
 		document.getElementById("942").style.background = "#0f99e3";
 		custom[0][w_942][h_942] = DEAD;
+		grid_942 = DEAD;
 	}
 }
 var grid_943 = DEAD;
@@ -14299,6 +15241,7 @@ function _943() {
 	 else{ 
 		document.getElementById("943").style.background = "#0f99e3";
 		custom[0][w_943][h_943] = DEAD;
+		grid_943 = DEAD;
 	}
 }
 var grid_944 = DEAD;
@@ -14313,6 +15256,7 @@ function _944() {
 	 else{ 
 		document.getElementById("944").style.background = "#0f99e3";
 		custom[0][w_944][h_944] = DEAD;
+		grid_944 = DEAD;
 	}
 }
 var grid_945 = DEAD;
@@ -14327,6 +15271,7 @@ function _945() {
 	 else{ 
 		document.getElementById("945").style.background = "#0f99e3";
 		custom[0][w_945][h_945] = DEAD;
+		grid_945 = DEAD;
 	}
 }
 var grid_946 = DEAD;
@@ -14341,6 +15286,7 @@ function _946() {
 	 else{ 
 		document.getElementById("946").style.background = "#0f99e3";
 		custom[0][w_946][h_946] = DEAD;
+		grid_946 = DEAD;
 	}
 }
 var grid_947 = DEAD;
@@ -14355,6 +15301,7 @@ function _947() {
 	 else{ 
 		document.getElementById("947").style.background = "#0f99e3";
 		custom[0][w_947][h_947] = DEAD;
+		grid_947 = DEAD;
 	}
 }
 var grid_948 = DEAD;
@@ -14369,6 +15316,7 @@ function _948() {
 	 else{ 
 		document.getElementById("948").style.background = "#0f99e3";
 		custom[0][w_948][h_948] = DEAD;
+		grid_948 = DEAD;
 	}
 }
 var grid_949 = DEAD;
@@ -14383,6 +15331,7 @@ function _949() {
 	 else{ 
 		document.getElementById("949").style.background = "#0f99e3";
 		custom[0][w_949][h_949] = DEAD;
+		grid_949 = DEAD;
 	}
 }
 var grid_950 = DEAD;
@@ -14397,6 +15346,7 @@ function _950() {
 	 else{ 
 		document.getElementById("950").style.background = "#0f99e3";
 		custom[0][w_950][h_950] = DEAD;
+		grid_950 = DEAD;
 	}
 }
 var grid_951 = DEAD;
@@ -14411,6 +15361,7 @@ function _951() {
 	 else{ 
 		document.getElementById("951").style.background = "#0f99e3";
 		custom[0][w_951][h_951] = DEAD;
+		grid_951 = DEAD;
 	}
 }
 var grid_952 = DEAD;
@@ -14425,6 +15376,7 @@ function _952() {
 	 else{ 
 		document.getElementById("952").style.background = "#0f99e3";
 		custom[0][w_952][h_952] = DEAD;
+		grid_952 = DEAD;
 	}
 }
 var grid_953 = DEAD;
@@ -14439,6 +15391,7 @@ function _953() {
 	 else{ 
 		document.getElementById("953").style.background = "#0f99e3";
 		custom[0][w_953][h_953] = DEAD;
+		grid_953 = DEAD;
 	}
 }
 var grid_954 = DEAD;
@@ -14453,6 +15406,7 @@ function _954() {
 	 else{ 
 		document.getElementById("954").style.background = "#0f99e3";
 		custom[0][w_954][h_954] = DEAD;
+		grid_954 = DEAD;
 	}
 }
 var grid_955 = DEAD;
@@ -14467,6 +15421,7 @@ function _955() {
 	 else{ 
 		document.getElementById("955").style.background = "#0f99e3";
 		custom[0][w_955][h_955] = DEAD;
+		grid_955 = DEAD;
 	}
 }
 var grid_956 = DEAD;
@@ -14481,6 +15436,7 @@ function _956() {
 	 else{ 
 		document.getElementById("956").style.background = "#0f99e3";
 		custom[0][w_956][h_956] = DEAD;
+		grid_956 = DEAD;
 	}
 }
 var grid_957 = DEAD;
@@ -14495,6 +15451,7 @@ function _957() {
 	 else{ 
 		document.getElementById("957").style.background = "#0f99e3";
 		custom[0][w_957][h_957] = DEAD;
+		grid_957 = DEAD;
 	}
 }
 var grid_958 = DEAD;
@@ -14509,6 +15466,7 @@ function _958() {
 	 else{ 
 		document.getElementById("958").style.background = "#0f99e3";
 		custom[0][w_958][h_958] = DEAD;
+		grid_958 = DEAD;
 	}
 }
 var grid_959 = DEAD;
@@ -14523,6 +15481,7 @@ function _959() {
 	 else{ 
 		document.getElementById("959").style.background = "#0f99e3";
 		custom[0][w_959][h_959] = DEAD;
+		grid_959 = DEAD;
 	}
 }
 var grid_960 = DEAD;
@@ -14537,6 +15496,7 @@ function _960() {
 	 else{ 
 		document.getElementById("960").style.background = "#0f99e3";
 		custom[0][w_960][h_960] = DEAD;
+		grid_960 = DEAD;
 	}
 }
 var grid_961 = DEAD;
@@ -14551,6 +15511,7 @@ function _961() {
 	 else{ 
 		document.getElementById("961").style.background = "#0f99e3";
 		custom[0][w_961][h_961] = DEAD;
+		grid_961 = DEAD;
 	}
 }
 var grid_962 = DEAD;
@@ -14565,6 +15526,7 @@ function _962() {
 	 else{ 
 		document.getElementById("962").style.background = "#0f99e3";
 		custom[0][w_962][h_962] = DEAD;
+		grid_962 = DEAD;
 	}
 }
 var grid_963 = DEAD;
@@ -14579,6 +15541,7 @@ function _963() {
 	 else{ 
 		document.getElementById("963").style.background = "#0f99e3";
 		custom[0][w_963][h_963] = DEAD;
+		grid_963 = DEAD;
 	}
 }
 var grid_964 = DEAD;
@@ -14593,6 +15556,7 @@ function _964() {
 	 else{ 
 		document.getElementById("964").style.background = "#0f99e3";
 		custom[0][w_964][h_964] = DEAD;
+		grid_964 = DEAD;
 	}
 }
 var grid_965 = DEAD;
@@ -14607,6 +15571,7 @@ function _965() {
 	 else{ 
 		document.getElementById("965").style.background = "#0f99e3";
 		custom[0][w_965][h_965] = DEAD;
+		grid_965 = DEAD;
 	}
 }
 var grid_966 = DEAD;
@@ -14621,6 +15586,7 @@ function _966() {
 	 else{ 
 		document.getElementById("966").style.background = "#0f99e3";
 		custom[0][w_966][h_966] = DEAD;
+		grid_966 = DEAD;
 	}
 }
 var grid_967 = DEAD;
@@ -14635,6 +15601,7 @@ function _967() {
 	 else{ 
 		document.getElementById("967").style.background = "#0f99e3";
 		custom[0][w_967][h_967] = DEAD;
+		grid_967 = DEAD;
 	}
 }
 var grid_968 = DEAD;
@@ -14649,6 +15616,7 @@ function _968() {
 	 else{ 
 		document.getElementById("968").style.background = "#0f99e3";
 		custom[0][w_968][h_968] = DEAD;
+		grid_968 = DEAD;
 	}
 }
 var grid_969 = DEAD;
@@ -14663,6 +15631,7 @@ function _969() {
 	 else{ 
 		document.getElementById("969").style.background = "#0f99e3";
 		custom[0][w_969][h_969] = DEAD;
+		grid_969 = DEAD;
 	}
 }
 var grid_970 = DEAD;
@@ -14677,6 +15646,7 @@ function _970() {
 	 else{ 
 		document.getElementById("970").style.background = "#0f99e3";
 		custom[0][w_970][h_970] = DEAD;
+		grid_970 = DEAD;
 	}
 }
 var grid_971 = DEAD;
@@ -14691,6 +15661,7 @@ function _971() {
 	 else{ 
 		document.getElementById("971").style.background = "#0f99e3";
 		custom[0][w_971][h_971] = DEAD;
+		grid_971 = DEAD;
 	}
 }
 var grid_972 = DEAD;
@@ -14705,6 +15676,7 @@ function _972() {
 	 else{ 
 		document.getElementById("972").style.background = "#0f99e3";
 		custom[0][w_972][h_972] = DEAD;
+		grid_972 = DEAD;
 	}
 }
 var grid_973 = DEAD;
@@ -14719,6 +15691,7 @@ function _973() {
 	 else{ 
 		document.getElementById("973").style.background = "#0f99e3";
 		custom[0][w_973][h_973] = DEAD;
+		grid_973 = DEAD;
 	}
 }
 var grid_974 = DEAD;
@@ -14733,6 +15706,7 @@ function _974() {
 	 else{ 
 		document.getElementById("974").style.background = "#0f99e3";
 		custom[0][w_974][h_974] = DEAD;
+		grid_974 = DEAD;
 	}
 }
 var grid_975 = DEAD;
@@ -14747,6 +15721,7 @@ function _975() {
 	 else{ 
 		document.getElementById("975").style.background = "#0f99e3";
 		custom[0][w_975][h_975] = DEAD;
+		grid_975 = DEAD;
 	}
 }
 var grid_976 = DEAD;
@@ -14761,6 +15736,7 @@ function _976() {
 	 else{ 
 		document.getElementById("976").style.background = "#0f99e3";
 		custom[0][w_976][h_976] = DEAD;
+		grid_976 = DEAD;
 	}
 }
 var grid_977 = DEAD;
@@ -14775,6 +15751,7 @@ function _977() {
 	 else{ 
 		document.getElementById("977").style.background = "#0f99e3";
 		custom[0][w_977][h_977] = DEAD;
+		grid_977 = DEAD;
 	}
 }
 var grid_978 = DEAD;
@@ -14789,6 +15766,7 @@ function _978() {
 	 else{ 
 		document.getElementById("978").style.background = "#0f99e3";
 		custom[0][w_978][h_978] = DEAD;
+		grid_978 = DEAD;
 	}
 }
 var grid_979 = DEAD;
@@ -14803,6 +15781,7 @@ function _979() {
 	 else{ 
 		document.getElementById("979").style.background = "#0f99e3";
 		custom[0][w_979][h_979] = DEAD;
+		grid_979 = DEAD;
 	}
 }
 var grid_980 = DEAD;
@@ -14817,6 +15796,7 @@ function _980() {
 	 else{ 
 		document.getElementById("980").style.background = "#0f99e3";
 		custom[0][w_980][h_980] = DEAD;
+		grid_980 = DEAD;
 	}
 }
 var grid_981 = DEAD;
@@ -14831,6 +15811,7 @@ function _981() {
 	 else{ 
 		document.getElementById("981").style.background = "#0f99e3";
 		custom[0][w_981][h_981] = DEAD;
+		grid_981 = DEAD;
 	}
 }
 var grid_982 = DEAD;
@@ -14845,6 +15826,7 @@ function _982() {
 	 else{ 
 		document.getElementById("982").style.background = "#0f99e3";
 		custom[0][w_982][h_982] = DEAD;
+		grid_982 = DEAD;
 	}
 }
 var grid_983 = DEAD;
@@ -14859,6 +15841,7 @@ function _983() {
 	 else{ 
 		document.getElementById("983").style.background = "#0f99e3";
 		custom[0][w_983][h_983] = DEAD;
+		grid_983 = DEAD;
 	}
 }
 var grid_984 = DEAD;
@@ -14873,6 +15856,7 @@ function _984() {
 	 else{ 
 		document.getElementById("984").style.background = "#0f99e3";
 		custom[0][w_984][h_984] = DEAD;
+		grid_984 = DEAD;
 	}
 }
 var grid_985 = DEAD;
@@ -14887,6 +15871,7 @@ function _985() {
 	 else{ 
 		document.getElementById("985").style.background = "#0f99e3";
 		custom[0][w_985][h_985] = DEAD;
+		grid_985 = DEAD;
 	}
 }
 var grid_986 = DEAD;
@@ -14901,6 +15886,7 @@ function _986() {
 	 else{ 
 		document.getElementById("986").style.background = "#0f99e3";
 		custom[0][w_986][h_986] = DEAD;
+		grid_986 = DEAD;
 	}
 }
 var grid_987 = DEAD;
@@ -14915,6 +15901,7 @@ function _987() {
 	 else{ 
 		document.getElementById("987").style.background = "#0f99e3";
 		custom[0][w_987][h_987] = DEAD;
+		grid_987 = DEAD;
 	}
 }
 var grid_988 = DEAD;
@@ -14929,6 +15916,7 @@ function _988() {
 	 else{ 
 		document.getElementById("988").style.background = "#0f99e3";
 		custom[0][w_988][h_988] = DEAD;
+		grid_988 = DEAD;
 	}
 }
 var grid_989 = DEAD;
@@ -14943,6 +15931,7 @@ function _989() {
 	 else{ 
 		document.getElementById("989").style.background = "#0f99e3";
 		custom[0][w_989][h_989] = DEAD;
+		grid_989 = DEAD;
 	}
 }
 var grid_990 = DEAD;
@@ -14957,6 +15946,7 @@ function _990() {
 	 else{ 
 		document.getElementById("990").style.background = "#0f99e3";
 		custom[0][w_990][h_990] = DEAD;
+		grid_990 = DEAD;
 	}
 }
 var grid_991 = DEAD;
@@ -14971,6 +15961,7 @@ function _991() {
 	 else{ 
 		document.getElementById("991").style.background = "#0f99e3";
 		custom[0][w_991][h_991] = DEAD;
+		grid_991 = DEAD;
 	}
 }
 var grid_992 = DEAD;
@@ -14985,6 +15976,7 @@ function _992() {
 	 else{ 
 		document.getElementById("992").style.background = "#0f99e3";
 		custom[0][w_992][h_992] = DEAD;
+		grid_992 = DEAD;
 	}
 }
 var grid_993 = DEAD;
@@ -14999,6 +15991,7 @@ function _993() {
 	 else{ 
 		document.getElementById("993").style.background = "#0f99e3";
 		custom[0][w_993][h_993] = DEAD;
+		grid_993 = DEAD;
 	}
 }
 var grid_994 = DEAD;
@@ -15013,6 +16006,7 @@ function _994() {
 	 else{ 
 		document.getElementById("994").style.background = "#0f99e3";
 		custom[0][w_994][h_994] = DEAD;
+		grid_994 = DEAD;
 	}
 }
 var grid_995 = DEAD;
@@ -15027,6 +16021,7 @@ function _995() {
 	 else{ 
 		document.getElementById("995").style.background = "#0f99e3";
 		custom[0][w_995][h_995] = DEAD;
+		grid_995 = DEAD;
 	}
 }
 var grid_996 = DEAD;
@@ -15041,6 +16036,7 @@ function _996() {
 	 else{ 
 		document.getElementById("996").style.background = "#0f99e3";
 		custom[0][w_996][h_996] = DEAD;
+		grid_996 = DEAD;
 	}
 }
 var grid_997 = DEAD;
@@ -15055,6 +16051,7 @@ function _997() {
 	 else{ 
 		document.getElementById("997").style.background = "#0f99e3";
 		custom[0][w_997][h_997] = DEAD;
+		grid_997 = DEAD;
 	}
 }
 var grid_998 = DEAD;
@@ -15069,6 +16066,7 @@ function _998() {
 	 else{ 
 		document.getElementById("998").style.background = "#0f99e3";
 		custom[0][w_998][h_998] = DEAD;
+		grid_998 = DEAD;
 	}
 }
 var grid_999 = DEAD;
@@ -15083,6 +16081,7 @@ function _999() {
 	 else{ 
 		document.getElementById("999").style.background = "#0f99e3";
 		custom[0][w_999][h_999] = DEAD;
+		grid_999 = DEAD;
 	}
 }
 var grid_1000 = DEAD;
@@ -15097,6 +16096,7 @@ function _1000() {
 	 else{ 
 		document.getElementById("1000").style.background = "#0f99e3";
 		custom[0][w_1000][h_1000] = DEAD;
+		grid_1000 = DEAD;
 	}
 }
 var grid_1001 = DEAD;
@@ -15111,6 +16111,7 @@ function _1001() {
 	 else{ 
 		document.getElementById("1001").style.background = "#0f99e3";
 		custom[0][w_1001][h_1001] = DEAD;
+		grid_1001 = DEAD;
 	}
 }
 var grid_1002 = DEAD;
@@ -15125,6 +16126,7 @@ function _1002() {
 	 else{ 
 		document.getElementById("1002").style.background = "#0f99e3";
 		custom[0][w_1002][h_1002] = DEAD;
+		grid_1002 = DEAD;
 	}
 }
 var grid_1003 = DEAD;
@@ -15139,6 +16141,7 @@ function _1003() {
 	 else{ 
 		document.getElementById("1003").style.background = "#0f99e3";
 		custom[0][w_1003][h_1003] = DEAD;
+		grid_1003 = DEAD;
 	}
 }
 var grid_1004 = DEAD;
@@ -15153,6 +16156,7 @@ function _1004() {
 	 else{ 
 		document.getElementById("1004").style.background = "#0f99e3";
 		custom[0][w_1004][h_1004] = DEAD;
+		grid_1004 = DEAD;
 	}
 }
 var grid_1005 = DEAD;
@@ -15167,6 +16171,7 @@ function _1005() {
 	 else{ 
 		document.getElementById("1005").style.background = "#0f99e3";
 		custom[0][w_1005][h_1005] = DEAD;
+		grid_1005 = DEAD;
 	}
 }
 var grid_1006 = DEAD;
@@ -15181,6 +16186,7 @@ function _1006() {
 	 else{ 
 		document.getElementById("1006").style.background = "#0f99e3";
 		custom[0][w_1006][h_1006] = DEAD;
+		grid_1006 = DEAD;
 	}
 }
 var grid_1007 = DEAD;
@@ -15195,6 +16201,7 @@ function _1007() {
 	 else{ 
 		document.getElementById("1007").style.background = "#0f99e3";
 		custom[0][w_1007][h_1007] = DEAD;
+		grid_1007 = DEAD;
 	}
 }
 var grid_1008 = DEAD;
@@ -15209,6 +16216,7 @@ function _1008() {
 	 else{ 
 		document.getElementById("1008").style.background = "#0f99e3";
 		custom[0][w_1008][h_1008] = DEAD;
+		grid_1008 = DEAD;
 	}
 }
 var grid_1009 = DEAD;
@@ -15223,6 +16231,7 @@ function _1009() {
 	 else{ 
 		document.getElementById("1009").style.background = "#0f99e3";
 		custom[0][w_1009][h_1009] = DEAD;
+		grid_1009 = DEAD;
 	}
 }
 var grid_1010 = DEAD;
@@ -15237,6 +16246,7 @@ function _1010() {
 	 else{ 
 		document.getElementById("1010").style.background = "#0f99e3";
 		custom[0][w_1010][h_1010] = DEAD;
+		grid_1010 = DEAD;
 	}
 }
 var grid_1011 = DEAD;
@@ -15251,6 +16261,7 @@ function _1011() {
 	 else{ 
 		document.getElementById("1011").style.background = "#0f99e3";
 		custom[0][w_1011][h_1011] = DEAD;
+		grid_1011 = DEAD;
 	}
 }
 var grid_1012 = DEAD;
@@ -15265,6 +16276,7 @@ function _1012() {
 	 else{ 
 		document.getElementById("1012").style.background = "#0f99e3";
 		custom[0][w_1012][h_1012] = DEAD;
+		grid_1012 = DEAD;
 	}
 }
 var grid_1013 = DEAD;
@@ -15279,6 +16291,7 @@ function _1013() {
 	 else{ 
 		document.getElementById("1013").style.background = "#0f99e3";
 		custom[0][w_1013][h_1013] = DEAD;
+		grid_1013 = DEAD;
 	}
 }
 var grid_1014 = DEAD;
@@ -15293,6 +16306,7 @@ function _1014() {
 	 else{ 
 		document.getElementById("1014").style.background = "#0f99e3";
 		custom[0][w_1014][h_1014] = DEAD;
+		grid_1014 = DEAD;
 	}
 }
 var grid_1015 = DEAD;
@@ -15307,6 +16321,7 @@ function _1015() {
 	 else{ 
 		document.getElementById("1015").style.background = "#0f99e3";
 		custom[0][w_1015][h_1015] = DEAD;
+		grid_1015 = DEAD;
 	}
 }
 var grid_1016 = DEAD;
@@ -15321,6 +16336,7 @@ function _1016() {
 	 else{ 
 		document.getElementById("1016").style.background = "#0f99e3";
 		custom[0][w_1016][h_1016] = DEAD;
+		grid_1016 = DEAD;
 	}
 }
 var grid_1017 = DEAD;
@@ -15335,6 +16351,7 @@ function _1017() {
 	 else{ 
 		document.getElementById("1017").style.background = "#0f99e3";
 		custom[0][w_1017][h_1017] = DEAD;
+		grid_1017 = DEAD;
 	}
 }
 var grid_1018 = DEAD;
@@ -15349,6 +16366,7 @@ function _1018() {
 	 else{ 
 		document.getElementById("1018").style.background = "#0f99e3";
 		custom[0][w_1018][h_1018] = DEAD;
+		grid_1018 = DEAD;
 	}
 }
 var grid_1019 = DEAD;
@@ -15363,6 +16381,7 @@ function _1019() {
 	 else{ 
 		document.getElementById("1019").style.background = "#0f99e3";
 		custom[0][w_1019][h_1019] = DEAD;
+		grid_1019 = DEAD;
 	}
 }
 var grid_1020 = DEAD;
@@ -15377,6 +16396,7 @@ function _1020() {
 	 else{ 
 		document.getElementById("1020").style.background = "#0f99e3";
 		custom[0][w_1020][h_1020] = DEAD;
+		grid_1020 = DEAD;
 	}
 }
 var grid_1021 = DEAD;
@@ -15391,6 +16411,7 @@ function _1021() {
 	 else{ 
 		document.getElementById("1021").style.background = "#0f99e3";
 		custom[0][w_1021][h_1021] = DEAD;
+		grid_1021 = DEAD;
 	}
 }
 var grid_1022 = DEAD;
@@ -15405,6 +16426,7 @@ function _1022() {
 	 else{ 
 		document.getElementById("1022").style.background = "#0f99e3";
 		custom[0][w_1022][h_1022] = DEAD;
+		grid_1022 = DEAD;
 	}
 }
 var grid_1023 = DEAD;
@@ -15419,6 +16441,7 @@ function _1023() {
 	 else{ 
 		document.getElementById("1023").style.background = "#0f99e3";
 		custom[0][w_1023][h_1023] = DEAD;
+		grid_1023 = DEAD;
 	}
 }
 var grid_1024 = DEAD;
@@ -15433,6 +16456,7 @@ function _1024() {
 	 else{ 
 		document.getElementById("1024").style.background = "#0f99e3";
 		custom[0][w_1024][h_1024] = DEAD;
+		grid_1024 = DEAD;
 	}
 }
 var grid_1025 = DEAD;
@@ -15447,6 +16471,7 @@ function _1025() {
 	 else{ 
 		document.getElementById("1025").style.background = "#0f99e3";
 		custom[0][w_1025][h_1025] = DEAD;
+		grid_1025 = DEAD;
 	}
 }
 var grid_1026 = DEAD;
@@ -15461,6 +16486,7 @@ function _1026() {
 	 else{ 
 		document.getElementById("1026").style.background = "#0f99e3";
 		custom[0][w_1026][h_1026] = DEAD;
+		grid_1026 = DEAD;
 	}
 }
 var grid_1027 = DEAD;
@@ -15475,6 +16501,7 @@ function _1027() {
 	 else{ 
 		document.getElementById("1027").style.background = "#0f99e3";
 		custom[0][w_1027][h_1027] = DEAD;
+		grid_1027 = DEAD;
 	}
 }
 var grid_1028 = DEAD;
@@ -15489,6 +16516,7 @@ function _1028() {
 	 else{ 
 		document.getElementById("1028").style.background = "#0f99e3";
 		custom[0][w_1028][h_1028] = DEAD;
+		grid_1028 = DEAD;
 	}
 }
 var grid_1029 = DEAD;
@@ -15503,6 +16531,7 @@ function _1029() {
 	 else{ 
 		document.getElementById("1029").style.background = "#0f99e3";
 		custom[0][w_1029][h_1029] = DEAD;
+		grid_1029 = DEAD;
 	}
 }
 var grid_1030 = DEAD;
@@ -15517,6 +16546,7 @@ function _1030() {
 	 else{ 
 		document.getElementById("1030").style.background = "#0f99e3";
 		custom[0][w_1030][h_1030] = DEAD;
+		grid_1030 = DEAD;
 	}
 }
 var grid_1031 = DEAD;
@@ -15531,6 +16561,7 @@ function _1031() {
 	 else{ 
 		document.getElementById("1031").style.background = "#0f99e3";
 		custom[0][w_1031][h_1031] = DEAD;
+		grid_1031 = DEAD;
 	}
 }
 var grid_1032 = DEAD;
@@ -15545,6 +16576,7 @@ function _1032() {
 	 else{ 
 		document.getElementById("1032").style.background = "#0f99e3";
 		custom[0][w_1032][h_1032] = DEAD;
+		grid_1032 = DEAD;
 	}
 }
 var grid_1033 = DEAD;
@@ -15559,6 +16591,7 @@ function _1033() {
 	 else{ 
 		document.getElementById("1033").style.background = "#0f99e3";
 		custom[0][w_1033][h_1033] = DEAD;
+		grid_1033 = DEAD;
 	}
 }
 var grid_1034 = DEAD;
@@ -15573,6 +16606,7 @@ function _1034() {
 	 else{ 
 		document.getElementById("1034").style.background = "#0f99e3";
 		custom[0][w_1034][h_1034] = DEAD;
+		grid_1034 = DEAD;
 	}
 }
 var grid_1035 = DEAD;
@@ -15587,6 +16621,7 @@ function _1035() {
 	 else{ 
 		document.getElementById("1035").style.background = "#0f99e3";
 		custom[0][w_1035][h_1035] = DEAD;
+		grid_1035 = DEAD;
 	}
 }
 var grid_1036 = DEAD;
@@ -15601,6 +16636,7 @@ function _1036() {
 	 else{ 
 		document.getElementById("1036").style.background = "#0f99e3";
 		custom[0][w_1036][h_1036] = DEAD;
+		grid_1036 = DEAD;
 	}
 }
 var grid_1037 = DEAD;
@@ -15615,6 +16651,7 @@ function _1037() {
 	 else{ 
 		document.getElementById("1037").style.background = "#0f99e3";
 		custom[0][w_1037][h_1037] = DEAD;
+		grid_1037 = DEAD;
 	}
 }
 var grid_1038 = DEAD;
@@ -15629,6 +16666,7 @@ function _1038() {
 	 else{ 
 		document.getElementById("1038").style.background = "#0f99e3";
 		custom[0][w_1038][h_1038] = DEAD;
+		grid_1038 = DEAD;
 	}
 }
 var grid_1039 = DEAD;
@@ -15643,6 +16681,7 @@ function _1039() {
 	 else{ 
 		document.getElementById("1039").style.background = "#0f99e3";
 		custom[0][w_1039][h_1039] = DEAD;
+		grid_1039 = DEAD;
 	}
 }
 var grid_1040 = DEAD;
@@ -15657,6 +16696,7 @@ function _1040() {
 	 else{ 
 		document.getElementById("1040").style.background = "#0f99e3";
 		custom[0][w_1040][h_1040] = DEAD;
+		grid_1040 = DEAD;
 	}
 }
 var grid_1041 = DEAD;
@@ -15671,6 +16711,7 @@ function _1041() {
 	 else{ 
 		document.getElementById("1041").style.background = "#0f99e3";
 		custom[0][w_1041][h_1041] = DEAD;
+		grid_1041 = DEAD;
 	}
 }
 var grid_1042 = DEAD;
@@ -15685,6 +16726,7 @@ function _1042() {
 	 else{ 
 		document.getElementById("1042").style.background = "#0f99e3";
 		custom[0][w_1042][h_1042] = DEAD;
+		grid_1042 = DEAD;
 	}
 }
 var grid_1043 = DEAD;
@@ -15699,6 +16741,7 @@ function _1043() {
 	 else{ 
 		document.getElementById("1043").style.background = "#0f99e3";
 		custom[0][w_1043][h_1043] = DEAD;
+		grid_1043 = DEAD;
 	}
 }
 var grid_1044 = DEAD;
@@ -15713,6 +16756,7 @@ function _1044() {
 	 else{ 
 		document.getElementById("1044").style.background = "#0f99e3";
 		custom[0][w_1044][h_1044] = DEAD;
+		grid_1044 = DEAD;
 	}
 }
 var grid_1045 = DEAD;
@@ -15727,6 +16771,7 @@ function _1045() {
 	 else{ 
 		document.getElementById("1045").style.background = "#0f99e3";
 		custom[0][w_1045][h_1045] = DEAD;
+		grid_1045 = DEAD;
 	}
 }
 var grid_1046 = DEAD;
@@ -15741,6 +16786,7 @@ function _1046() {
 	 else{ 
 		document.getElementById("1046").style.background = "#0f99e3";
 		custom[0][w_1046][h_1046] = DEAD;
+		grid_1046 = DEAD;
 	}
 }
 var grid_1047 = DEAD;
@@ -15755,6 +16801,7 @@ function _1047() {
 	 else{ 
 		document.getElementById("1047").style.background = "#0f99e3";
 		custom[0][w_1047][h_1047] = DEAD;
+		grid_1047 = DEAD;
 	}
 }
 var grid_1048 = DEAD;
@@ -15769,6 +16816,7 @@ function _1048() {
 	 else{ 
 		document.getElementById("1048").style.background = "#0f99e3";
 		custom[0][w_1048][h_1048] = DEAD;
+		grid_1048 = DEAD;
 	}
 }
 var grid_1049 = DEAD;
@@ -15783,6 +16831,7 @@ function _1049() {
 	 else{ 
 		document.getElementById("1049").style.background = "#0f99e3";
 		custom[0][w_1049][h_1049] = DEAD;
+		grid_1049 = DEAD;
 	}
 }
 var grid_1050 = DEAD;
@@ -15797,6 +16846,7 @@ function _1050() {
 	 else{ 
 		document.getElementById("1050").style.background = "#0f99e3";
 		custom[0][w_1050][h_1050] = DEAD;
+		grid_1050 = DEAD;
 	}
 }
 var grid_1051 = DEAD;
@@ -15811,6 +16861,7 @@ function _1051() {
 	 else{ 
 		document.getElementById("1051").style.background = "#0f99e3";
 		custom[0][w_1051][h_1051] = DEAD;
+		grid_1051 = DEAD;
 	}
 }
 var grid_1052 = DEAD;
@@ -15825,6 +16876,7 @@ function _1052() {
 	 else{ 
 		document.getElementById("1052").style.background = "#0f99e3";
 		custom[0][w_1052][h_1052] = DEAD;
+		grid_1052 = DEAD;
 	}
 }
 var grid_1053 = DEAD;
@@ -15839,6 +16891,7 @@ function _1053() {
 	 else{ 
 		document.getElementById("1053").style.background = "#0f99e3";
 		custom[0][w_1053][h_1053] = DEAD;
+		grid_1053 = DEAD;
 	}
 }
 var grid_1054 = DEAD;
@@ -15853,6 +16906,7 @@ function _1054() {
 	 else{ 
 		document.getElementById("1054").style.background = "#0f99e3";
 		custom[0][w_1054][h_1054] = DEAD;
+		grid_1054 = DEAD;
 	}
 }
 var grid_1055 = DEAD;
@@ -15867,6 +16921,7 @@ function _1055() {
 	 else{ 
 		document.getElementById("1055").style.background = "#0f99e3";
 		custom[0][w_1055][h_1055] = DEAD;
+		grid_1055 = DEAD;
 	}
 }
 var grid_1056 = DEAD;
@@ -15881,6 +16936,7 @@ function _1056() {
 	 else{ 
 		document.getElementById("1056").style.background = "#0f99e3";
 		custom[0][w_1056][h_1056] = DEAD;
+		grid_1056 = DEAD;
 	}
 }
 var grid_1057 = DEAD;
@@ -15895,6 +16951,7 @@ function _1057() {
 	 else{ 
 		document.getElementById("1057").style.background = "#0f99e3";
 		custom[0][w_1057][h_1057] = DEAD;
+		grid_1057 = DEAD;
 	}
 }
 var grid_1058 = DEAD;
@@ -15909,6 +16966,7 @@ function _1058() {
 	 else{ 
 		document.getElementById("1058").style.background = "#0f99e3";
 		custom[0][w_1058][h_1058] = DEAD;
+		grid_1058 = DEAD;
 	}
 }
 var grid_1059 = DEAD;
@@ -15923,6 +16981,7 @@ function _1059() {
 	 else{ 
 		document.getElementById("1059").style.background = "#0f99e3";
 		custom[0][w_1059][h_1059] = DEAD;
+		grid_1059 = DEAD;
 	}
 }
 var grid_1060 = DEAD;
@@ -15937,6 +16996,7 @@ function _1060() {
 	 else{ 
 		document.getElementById("1060").style.background = "#0f99e3";
 		custom[0][w_1060][h_1060] = DEAD;
+		grid_1060 = DEAD;
 	}
 }
 var grid_1061 = DEAD;
@@ -15951,6 +17011,7 @@ function _1061() {
 	 else{ 
 		document.getElementById("1061").style.background = "#0f99e3";
 		custom[0][w_1061][h_1061] = DEAD;
+		grid_1061 = DEAD;
 	}
 }
 var grid_1062 = DEAD;
@@ -15965,6 +17026,7 @@ function _1062() {
 	 else{ 
 		document.getElementById("1062").style.background = "#0f99e3";
 		custom[0][w_1062][h_1062] = DEAD;
+		grid_1062 = DEAD;
 	}
 }
 var grid_1063 = DEAD;
@@ -15979,6 +17041,7 @@ function _1063() {
 	 else{ 
 		document.getElementById("1063").style.background = "#0f99e3";
 		custom[0][w_1063][h_1063] = DEAD;
+		grid_1063 = DEAD;
 	}
 }
 var grid_1064 = DEAD;
@@ -15993,6 +17056,7 @@ function _1064() {
 	 else{ 
 		document.getElementById("1064").style.background = "#0f99e3";
 		custom[0][w_1064][h_1064] = DEAD;
+		grid_1064 = DEAD;
 	}
 }
 var grid_1065 = DEAD;
@@ -16007,6 +17071,7 @@ function _1065() {
 	 else{ 
 		document.getElementById("1065").style.background = "#0f99e3";
 		custom[0][w_1065][h_1065] = DEAD;
+		grid_1065 = DEAD;
 	}
 }
 var grid_1066 = DEAD;
@@ -16021,6 +17086,7 @@ function _1066() {
 	 else{ 
 		document.getElementById("1066").style.background = "#0f99e3";
 		custom[0][w_1066][h_1066] = DEAD;
+		grid_1066 = DEAD;
 	}
 }
 var grid_1067 = DEAD;
@@ -16035,6 +17101,7 @@ function _1067() {
 	 else{ 
 		document.getElementById("1067").style.background = "#0f99e3";
 		custom[0][w_1067][h_1067] = DEAD;
+		grid_1067 = DEAD;
 	}
 }
 var grid_1068 = DEAD;
@@ -16049,6 +17116,7 @@ function _1068() {
 	 else{ 
 		document.getElementById("1068").style.background = "#0f99e3";
 		custom[0][w_1068][h_1068] = DEAD;
+		grid_1068 = DEAD;
 	}
 }
 var grid_1069 = DEAD;
@@ -16063,6 +17131,7 @@ function _1069() {
 	 else{ 
 		document.getElementById("1069").style.background = "#0f99e3";
 		custom[0][w_1069][h_1069] = DEAD;
+		grid_1069 = DEAD;
 	}
 }
 var grid_1070 = DEAD;
@@ -16077,6 +17146,7 @@ function _1070() {
 	 else{ 
 		document.getElementById("1070").style.background = "#0f99e3";
 		custom[0][w_1070][h_1070] = DEAD;
+		grid_1070 = DEAD;
 	}
 }
 var grid_1071 = DEAD;
@@ -16091,6 +17161,7 @@ function _1071() {
 	 else{ 
 		document.getElementById("1071").style.background = "#0f99e3";
 		custom[0][w_1071][h_1071] = DEAD;
+		grid_1071 = DEAD;
 	}
 }
 var grid_1072 = DEAD;
@@ -16105,6 +17176,7 @@ function _1072() {
 	 else{ 
 		document.getElementById("1072").style.background = "#0f99e3";
 		custom[0][w_1072][h_1072] = DEAD;
+		grid_1072 = DEAD;
 	}
 }
 var grid_1073 = DEAD;
@@ -16119,6 +17191,7 @@ function _1073() {
 	 else{ 
 		document.getElementById("1073").style.background = "#0f99e3";
 		custom[0][w_1073][h_1073] = DEAD;
+		grid_1073 = DEAD;
 	}
 }
 var grid_1074 = DEAD;
@@ -16133,6 +17206,7 @@ function _1074() {
 	 else{ 
 		document.getElementById("1074").style.background = "#0f99e3";
 		custom[0][w_1074][h_1074] = DEAD;
+		grid_1074 = DEAD;
 	}
 }
 var grid_1075 = DEAD;
@@ -16147,6 +17221,7 @@ function _1075() {
 	 else{ 
 		document.getElementById("1075").style.background = "#0f99e3";
 		custom[0][w_1075][h_1075] = DEAD;
+		grid_1075 = DEAD;
 	}
 }
 var grid_1076 = DEAD;
@@ -16161,6 +17236,7 @@ function _1076() {
 	 else{ 
 		document.getElementById("1076").style.background = "#0f99e3";
 		custom[0][w_1076][h_1076] = DEAD;
+		grid_1076 = DEAD;
 	}
 }
 var grid_1077 = DEAD;
@@ -16175,6 +17251,7 @@ function _1077() {
 	 else{ 
 		document.getElementById("1077").style.background = "#0f99e3";
 		custom[0][w_1077][h_1077] = DEAD;
+		grid_1077 = DEAD;
 	}
 }
 var grid_1078 = DEAD;
@@ -16189,6 +17266,7 @@ function _1078() {
 	 else{ 
 		document.getElementById("1078").style.background = "#0f99e3";
 		custom[0][w_1078][h_1078] = DEAD;
+		grid_1078 = DEAD;
 	}
 }
 var grid_1079 = DEAD;
@@ -16203,6 +17281,7 @@ function _1079() {
 	 else{ 
 		document.getElementById("1079").style.background = "#0f99e3";
 		custom[0][w_1079][h_1079] = DEAD;
+		grid_1079 = DEAD;
 	}
 }
 var grid_1080 = DEAD;
@@ -16217,6 +17296,7 @@ function _1080() {
 	 else{ 
 		document.getElementById("1080").style.background = "#0f99e3";
 		custom[0][w_1080][h_1080] = DEAD;
+		grid_1080 = DEAD;
 	}
 }
 var grid_1081 = DEAD;
@@ -16231,6 +17311,7 @@ function _1081() {
 	 else{ 
 		document.getElementById("1081").style.background = "#0f99e3";
 		custom[0][w_1081][h_1081] = DEAD;
+		grid_1081 = DEAD;
 	}
 }
 var grid_1082 = DEAD;
@@ -16245,6 +17326,7 @@ function _1082() {
 	 else{ 
 		document.getElementById("1082").style.background = "#0f99e3";
 		custom[0][w_1082][h_1082] = DEAD;
+		grid_1082 = DEAD;
 	}
 }
 var grid_1083 = DEAD;
@@ -16259,6 +17341,7 @@ function _1083() {
 	 else{ 
 		document.getElementById("1083").style.background = "#0f99e3";
 		custom[0][w_1083][h_1083] = DEAD;
+		grid_1083 = DEAD;
 	}
 }
 var grid_1084 = DEAD;
@@ -16273,6 +17356,7 @@ function _1084() {
 	 else{ 
 		document.getElementById("1084").style.background = "#0f99e3";
 		custom[0][w_1084][h_1084] = DEAD;
+		grid_1084 = DEAD;
 	}
 }
 var grid_1085 = DEAD;
@@ -16287,6 +17371,7 @@ function _1085() {
 	 else{ 
 		document.getElementById("1085").style.background = "#0f99e3";
 		custom[0][w_1085][h_1085] = DEAD;
+		grid_1085 = DEAD;
 	}
 }
 var grid_1086 = DEAD;
@@ -16301,6 +17386,7 @@ function _1086() {
 	 else{ 
 		document.getElementById("1086").style.background = "#0f99e3";
 		custom[0][w_1086][h_1086] = DEAD;
+		grid_1086 = DEAD;
 	}
 }
 var grid_1087 = DEAD;
@@ -16315,6 +17401,7 @@ function _1087() {
 	 else{ 
 		document.getElementById("1087").style.background = "#0f99e3";
 		custom[0][w_1087][h_1087] = DEAD;
+		grid_1087 = DEAD;
 	}
 }
 var grid_1088 = DEAD;
@@ -16329,6 +17416,7 @@ function _1088() {
 	 else{ 
 		document.getElementById("1088").style.background = "#0f99e3";
 		custom[0][w_1088][h_1088] = DEAD;
+		grid_1088 = DEAD;
 	}
 }
 var grid_1089 = DEAD;
@@ -16343,6 +17431,7 @@ function _1089() {
 	 else{ 
 		document.getElementById("1089").style.background = "#0f99e3";
 		custom[0][w_1089][h_1089] = DEAD;
+		grid_1089 = DEAD;
 	}
 }
 var grid_1090 = DEAD;
@@ -16357,6 +17446,7 @@ function _1090() {
 	 else{ 
 		document.getElementById("1090").style.background = "#0f99e3";
 		custom[0][w_1090][h_1090] = DEAD;
+		grid_1090 = DEAD;
 	}
 }
 var grid_1091 = DEAD;
@@ -16371,6 +17461,7 @@ function _1091() {
 	 else{ 
 		document.getElementById("1091").style.background = "#0f99e3";
 		custom[0][w_1091][h_1091] = DEAD;
+		grid_1091 = DEAD;
 	}
 }
 var grid_1092 = DEAD;
@@ -16385,6 +17476,7 @@ function _1092() {
 	 else{ 
 		document.getElementById("1092").style.background = "#0f99e3";
 		custom[0][w_1092][h_1092] = DEAD;
+		grid_1092 = DEAD;
 	}
 }
 var grid_1093 = DEAD;
@@ -16399,6 +17491,7 @@ function _1093() {
 	 else{ 
 		document.getElementById("1093").style.background = "#0f99e3";
 		custom[0][w_1093][h_1093] = DEAD;
+		grid_1093 = DEAD;
 	}
 }
 var grid_1094 = DEAD;
@@ -16413,6 +17506,7 @@ function _1094() {
 	 else{ 
 		document.getElementById("1094").style.background = "#0f99e3";
 		custom[0][w_1094][h_1094] = DEAD;
+		grid_1094 = DEAD;
 	}
 }
 var grid_1095 = DEAD;
@@ -16427,6 +17521,7 @@ function _1095() {
 	 else{ 
 		document.getElementById("1095").style.background = "#0f99e3";
 		custom[0][w_1095][h_1095] = DEAD;
+		grid_1095 = DEAD;
 	}
 }
 var grid_1096 = DEAD;
@@ -16441,6 +17536,7 @@ function _1096() {
 	 else{ 
 		document.getElementById("1096").style.background = "#0f99e3";
 		custom[0][w_1096][h_1096] = DEAD;
+		grid_1096 = DEAD;
 	}
 }
 var grid_1097 = DEAD;
@@ -16455,6 +17551,7 @@ function _1097() {
 	 else{ 
 		document.getElementById("1097").style.background = "#0f99e3";
 		custom[0][w_1097][h_1097] = DEAD;
+		grid_1097 = DEAD;
 	}
 }
 var grid_1098 = DEAD;
@@ -16469,6 +17566,7 @@ function _1098() {
 	 else{ 
 		document.getElementById("1098").style.background = "#0f99e3";
 		custom[0][w_1098][h_1098] = DEAD;
+		grid_1098 = DEAD;
 	}
 }
 var grid_1099 = DEAD;
@@ -16483,6 +17581,7 @@ function _1099() {
 	 else{ 
 		document.getElementById("1099").style.background = "#0f99e3";
 		custom[0][w_1099][h_1099] = DEAD;
+		grid_1099 = DEAD;
 	}
 }
 var grid_1100 = DEAD;
@@ -16497,6 +17596,7 @@ function _1100() {
 	 else{ 
 		document.getElementById("1100").style.background = "#0f99e3";
 		custom[0][w_1100][h_1100] = DEAD;
+		grid_1100 = DEAD;
 	}
 }
 var grid_1101 = DEAD;
@@ -16511,6 +17611,7 @@ function _1101() {
 	 else{ 
 		document.getElementById("1101").style.background = "#0f99e3";
 		custom[0][w_1101][h_1101] = DEAD;
+		grid_1101 = DEAD;
 	}
 }
 var grid_1102 = DEAD;
@@ -16525,6 +17626,7 @@ function _1102() {
 	 else{ 
 		document.getElementById("1102").style.background = "#0f99e3";
 		custom[0][w_1102][h_1102] = DEAD;
+		grid_1102 = DEAD;
 	}
 }
 var grid_1103 = DEAD;
@@ -16539,6 +17641,7 @@ function _1103() {
 	 else{ 
 		document.getElementById("1103").style.background = "#0f99e3";
 		custom[0][w_1103][h_1103] = DEAD;
+		grid_1103 = DEAD;
 	}
 }
 var grid_1104 = DEAD;
@@ -16553,6 +17656,7 @@ function _1104() {
 	 else{ 
 		document.getElementById("1104").style.background = "#0f99e3";
 		custom[0][w_1104][h_1104] = DEAD;
+		grid_1104 = DEAD;
 	}
 }
 var grid_1105 = DEAD;
@@ -16567,6 +17671,7 @@ function _1105() {
 	 else{ 
 		document.getElementById("1105").style.background = "#0f99e3";
 		custom[0][w_1105][h_1105] = DEAD;
+		grid_1105 = DEAD;
 	}
 }
 var grid_1106 = DEAD;
@@ -16581,6 +17686,7 @@ function _1106() {
 	 else{ 
 		document.getElementById("1106").style.background = "#0f99e3";
 		custom[0][w_1106][h_1106] = DEAD;
+		grid_1106 = DEAD;
 	}
 }
 var grid_1107 = DEAD;
@@ -16595,6 +17701,7 @@ function _1107() {
 	 else{ 
 		document.getElementById("1107").style.background = "#0f99e3";
 		custom[0][w_1107][h_1107] = DEAD;
+		grid_1107 = DEAD;
 	}
 }
 var grid_1108 = DEAD;
@@ -16609,6 +17716,7 @@ function _1108() {
 	 else{ 
 		document.getElementById("1108").style.background = "#0f99e3";
 		custom[0][w_1108][h_1108] = DEAD;
+		grid_1108 = DEAD;
 	}
 }
 var grid_1109 = DEAD;
@@ -16623,6 +17731,7 @@ function _1109() {
 	 else{ 
 		document.getElementById("1109").style.background = "#0f99e3";
 		custom[0][w_1109][h_1109] = DEAD;
+		grid_1109 = DEAD;
 	}
 }
 var grid_1110 = DEAD;
@@ -16637,6 +17746,7 @@ function _1110() {
 	 else{ 
 		document.getElementById("1110").style.background = "#0f99e3";
 		custom[0][w_1110][h_1110] = DEAD;
+		grid_1110 = DEAD;
 	}
 }
 var grid_1111 = DEAD;
@@ -16651,6 +17761,7 @@ function _1111() {
 	 else{ 
 		document.getElementById("1111").style.background = "#0f99e3";
 		custom[0][w_1111][h_1111] = DEAD;
+		grid_1111 = DEAD;
 	}
 }
 var grid_1112 = DEAD;
@@ -16665,6 +17776,7 @@ function _1112() {
 	 else{ 
 		document.getElementById("1112").style.background = "#0f99e3";
 		custom[0][w_1112][h_1112] = DEAD;
+		grid_1112 = DEAD;
 	}
 }
 var grid_1113 = DEAD;
@@ -16679,6 +17791,7 @@ function _1113() {
 	 else{ 
 		document.getElementById("1113").style.background = "#0f99e3";
 		custom[0][w_1113][h_1113] = DEAD;
+		grid_1113 = DEAD;
 	}
 }
 var grid_1114 = DEAD;
@@ -16693,6 +17806,7 @@ function _1114() {
 	 else{ 
 		document.getElementById("1114").style.background = "#0f99e3";
 		custom[0][w_1114][h_1114] = DEAD;
+		grid_1114 = DEAD;
 	}
 }
 var grid_1115 = DEAD;
@@ -16707,6 +17821,7 @@ function _1115() {
 	 else{ 
 		document.getElementById("1115").style.background = "#0f99e3";
 		custom[0][w_1115][h_1115] = DEAD;
+		grid_1115 = DEAD;
 	}
 }
 var grid_1116 = DEAD;
@@ -16721,6 +17836,7 @@ function _1116() {
 	 else{ 
 		document.getElementById("1116").style.background = "#0f99e3";
 		custom[0][w_1116][h_1116] = DEAD;
+		grid_1116 = DEAD;
 	}
 }
 var grid_1117 = DEAD;
@@ -16735,6 +17851,7 @@ function _1117() {
 	 else{ 
 		document.getElementById("1117").style.background = "#0f99e3";
 		custom[0][w_1117][h_1117] = DEAD;
+		grid_1117 = DEAD;
 	}
 }
 var grid_1118 = DEAD;
@@ -16749,6 +17866,7 @@ function _1118() {
 	 else{ 
 		document.getElementById("1118").style.background = "#0f99e3";
 		custom[0][w_1118][h_1118] = DEAD;
+		grid_1118 = DEAD;
 	}
 }
 var grid_1119 = DEAD;
@@ -16763,6 +17881,7 @@ function _1119() {
 	 else{ 
 		document.getElementById("1119").style.background = "#0f99e3";
 		custom[0][w_1119][h_1119] = DEAD;
+		grid_1119 = DEAD;
 	}
 }
 var grid_1120 = DEAD;
@@ -16777,6 +17896,7 @@ function _1120() {
 	 else{ 
 		document.getElementById("1120").style.background = "#0f99e3";
 		custom[0][w_1120][h_1120] = DEAD;
+		grid_1120 = DEAD;
 	}
 }
 var grid_1121 = DEAD;
@@ -16791,6 +17911,7 @@ function _1121() {
 	 else{ 
 		document.getElementById("1121").style.background = "#0f99e3";
 		custom[0][w_1121][h_1121] = DEAD;
+		grid_1121 = DEAD;
 	}
 }
 var grid_1122 = DEAD;
@@ -16805,6 +17926,7 @@ function _1122() {
 	 else{ 
 		document.getElementById("1122").style.background = "#0f99e3";
 		custom[0][w_1122][h_1122] = DEAD;
+		grid_1122 = DEAD;
 	}
 }
 var grid_1123 = DEAD;
@@ -16819,6 +17941,7 @@ function _1123() {
 	 else{ 
 		document.getElementById("1123").style.background = "#0f99e3";
 		custom[0][w_1123][h_1123] = DEAD;
+		grid_1123 = DEAD;
 	}
 }
 var grid_1124 = DEAD;
@@ -16833,6 +17956,7 @@ function _1124() {
 	 else{ 
 		document.getElementById("1124").style.background = "#0f99e3";
 		custom[0][w_1124][h_1124] = DEAD;
+		grid_1124 = DEAD;
 	}
 }
 var grid_1125 = DEAD;
@@ -16847,6 +17971,7 @@ function _1125() {
 	 else{ 
 		document.getElementById("1125").style.background = "#0f99e3";
 		custom[0][w_1125][h_1125] = DEAD;
+		grid_1125 = DEAD;
 	}
 }
 var grid_1126 = DEAD;
@@ -16861,6 +17986,7 @@ function _1126() {
 	 else{ 
 		document.getElementById("1126").style.background = "#0f99e3";
 		custom[0][w_1126][h_1126] = DEAD;
+		grid_1126 = DEAD;
 	}
 }
 var grid_1127 = DEAD;
@@ -16875,6 +18001,7 @@ function _1127() {
 	 else{ 
 		document.getElementById("1127").style.background = "#0f99e3";
 		custom[0][w_1127][h_1127] = DEAD;
+		grid_1127 = DEAD;
 	}
 }
 var grid_1128 = DEAD;
@@ -16889,6 +18016,7 @@ function _1128() {
 	 else{ 
 		document.getElementById("1128").style.background = "#0f99e3";
 		custom[0][w_1128][h_1128] = DEAD;
+		grid_1128 = DEAD;
 	}
 }
 var grid_1129 = DEAD;
@@ -16903,6 +18031,7 @@ function _1129() {
 	 else{ 
 		document.getElementById("1129").style.background = "#0f99e3";
 		custom[0][w_1129][h_1129] = DEAD;
+		grid_1129 = DEAD;
 	}
 }
 var grid_1130 = DEAD;
@@ -16917,6 +18046,7 @@ function _1130() {
 	 else{ 
 		document.getElementById("1130").style.background = "#0f99e3";
 		custom[0][w_1130][h_1130] = DEAD;
+		grid_1130 = DEAD;
 	}
 }
 var grid_1131 = DEAD;
@@ -16931,6 +18061,7 @@ function _1131() {
 	 else{ 
 		document.getElementById("1131").style.background = "#0f99e3";
 		custom[0][w_1131][h_1131] = DEAD;
+		grid_1131 = DEAD;
 	}
 }
 var grid_1132 = DEAD;
@@ -16945,6 +18076,7 @@ function _1132() {
 	 else{ 
 		document.getElementById("1132").style.background = "#0f99e3";
 		custom[0][w_1132][h_1132] = DEAD;
+		grid_1132 = DEAD;
 	}
 }
 var grid_1133 = DEAD;
@@ -16959,6 +18091,7 @@ function _1133() {
 	 else{ 
 		document.getElementById("1133").style.background = "#0f99e3";
 		custom[0][w_1133][h_1133] = DEAD;
+		grid_1133 = DEAD;
 	}
 }
 var grid_1134 = DEAD;
@@ -16973,6 +18106,7 @@ function _1134() {
 	 else{ 
 		document.getElementById("1134").style.background = "#0f99e3";
 		custom[0][w_1134][h_1134] = DEAD;
+		grid_1134 = DEAD;
 	}
 }
 var grid_1135 = DEAD;
@@ -16987,6 +18121,7 @@ function _1135() {
 	 else{ 
 		document.getElementById("1135").style.background = "#0f99e3";
 		custom[0][w_1135][h_1135] = DEAD;
+		grid_1135 = DEAD;
 	}
 }
 var grid_1136 = DEAD;
@@ -17001,6 +18136,7 @@ function _1136() {
 	 else{ 
 		document.getElementById("1136").style.background = "#0f99e3";
 		custom[0][w_1136][h_1136] = DEAD;
+		grid_1136 = DEAD;
 	}
 }
 var grid_1137 = DEAD;
@@ -17015,6 +18151,7 @@ function _1137() {
 	 else{ 
 		document.getElementById("1137").style.background = "#0f99e3";
 		custom[0][w_1137][h_1137] = DEAD;
+		grid_1137 = DEAD;
 	}
 }
 var grid_1138 = DEAD;
@@ -17029,6 +18166,7 @@ function _1138() {
 	 else{ 
 		document.getElementById("1138").style.background = "#0f99e3";
 		custom[0][w_1138][h_1138] = DEAD;
+		grid_1138 = DEAD;
 	}
 }
 var grid_1139 = DEAD;
@@ -17043,6 +18181,7 @@ function _1139() {
 	 else{ 
 		document.getElementById("1139").style.background = "#0f99e3";
 		custom[0][w_1139][h_1139] = DEAD;
+		grid_1139 = DEAD;
 	}
 }
 var grid_1140 = DEAD;
@@ -17057,6 +18196,7 @@ function _1140() {
 	 else{ 
 		document.getElementById("1140").style.background = "#0f99e3";
 		custom[0][w_1140][h_1140] = DEAD;
+		grid_1140 = DEAD;
 	}
 }
 var grid_1141 = DEAD;
@@ -17071,6 +18211,7 @@ function _1141() {
 	 else{ 
 		document.getElementById("1141").style.background = "#0f99e3";
 		custom[0][w_1141][h_1141] = DEAD;
+		grid_1141 = DEAD;
 	}
 }
 var grid_1142 = DEAD;
@@ -17085,6 +18226,7 @@ function _1142() {
 	 else{ 
 		document.getElementById("1142").style.background = "#0f99e3";
 		custom[0][w_1142][h_1142] = DEAD;
+		grid_1142 = DEAD;
 	}
 }
 var grid_1143 = DEAD;
@@ -17099,6 +18241,7 @@ function _1143() {
 	 else{ 
 		document.getElementById("1143").style.background = "#0f99e3";
 		custom[0][w_1143][h_1143] = DEAD;
+		grid_1143 = DEAD;
 	}
 }
 var grid_1144 = DEAD;
@@ -17113,6 +18256,7 @@ function _1144() {
 	 else{ 
 		document.getElementById("1144").style.background = "#0f99e3";
 		custom[0][w_1144][h_1144] = DEAD;
+		grid_1144 = DEAD;
 	}
 }
 var grid_1145 = DEAD;
@@ -17127,6 +18271,7 @@ function _1145() {
 	 else{ 
 		document.getElementById("1145").style.background = "#0f99e3";
 		custom[0][w_1145][h_1145] = DEAD;
+		grid_1145 = DEAD;
 	}
 }
 var grid_1146 = DEAD;
@@ -17141,6 +18286,7 @@ function _1146() {
 	 else{ 
 		document.getElementById("1146").style.background = "#0f99e3";
 		custom[0][w_1146][h_1146] = DEAD;
+		grid_1146 = DEAD;
 	}
 }
 var grid_1147 = DEAD;
@@ -17155,6 +18301,7 @@ function _1147() {
 	 else{ 
 		document.getElementById("1147").style.background = "#0f99e3";
 		custom[0][w_1147][h_1147] = DEAD;
+		grid_1147 = DEAD;
 	}
 }
 var grid_1148 = DEAD;
@@ -17169,6 +18316,7 @@ function _1148() {
 	 else{ 
 		document.getElementById("1148").style.background = "#0f99e3";
 		custom[0][w_1148][h_1148] = DEAD;
+		grid_1148 = DEAD;
 	}
 }
 var grid_1149 = DEAD;
@@ -17183,6 +18331,7 @@ function _1149() {
 	 else{ 
 		document.getElementById("1149").style.background = "#0f99e3";
 		custom[0][w_1149][h_1149] = DEAD;
+		grid_1149 = DEAD;
 	}
 }
 var grid_1150 = DEAD;
@@ -17197,6 +18346,7 @@ function _1150() {
 	 else{ 
 		document.getElementById("1150").style.background = "#0f99e3";
 		custom[0][w_1150][h_1150] = DEAD;
+		grid_1150 = DEAD;
 	}
 }
 var grid_1151 = DEAD;
@@ -17211,6 +18361,7 @@ function _1151() {
 	 else{ 
 		document.getElementById("1151").style.background = "#0f99e3";
 		custom[0][w_1151][h_1151] = DEAD;
+		grid_1151 = DEAD;
 	}
 }
 var grid_1152 = DEAD;
@@ -17225,6 +18376,7 @@ function _1152() {
 	 else{ 
 		document.getElementById("1152").style.background = "#0f99e3";
 		custom[0][w_1152][h_1152] = DEAD;
+		grid_1152 = DEAD;
 	}
 }
 var grid_1153 = DEAD;
@@ -17239,6 +18391,7 @@ function _1153() {
 	 else{ 
 		document.getElementById("1153").style.background = "#0f99e3";
 		custom[0][w_1153][h_1153] = DEAD;
+		grid_1153 = DEAD;
 	}
 }
 var grid_1154 = DEAD;
@@ -17253,6 +18406,7 @@ function _1154() {
 	 else{ 
 		document.getElementById("1154").style.background = "#0f99e3";
 		custom[0][w_1154][h_1154] = DEAD;
+		grid_1154 = DEAD;
 	}
 }
 var grid_1155 = DEAD;
@@ -17267,6 +18421,7 @@ function _1155() {
 	 else{ 
 		document.getElementById("1155").style.background = "#0f99e3";
 		custom[0][w_1155][h_1155] = DEAD;
+		grid_1155 = DEAD;
 	}
 }
 var grid_1156 = DEAD;
@@ -17281,6 +18436,7 @@ function _1156() {
 	 else{ 
 		document.getElementById("1156").style.background = "#0f99e3";
 		custom[0][w_1156][h_1156] = DEAD;
+		grid_1156 = DEAD;
 	}
 }
 var grid_1157 = DEAD;
@@ -17295,6 +18451,7 @@ function _1157() {
 	 else{ 
 		document.getElementById("1157").style.background = "#0f99e3";
 		custom[0][w_1157][h_1157] = DEAD;
+		grid_1157 = DEAD;
 	}
 }
 var grid_1158 = DEAD;
@@ -17309,6 +18466,7 @@ function _1158() {
 	 else{ 
 		document.getElementById("1158").style.background = "#0f99e3";
 		custom[0][w_1158][h_1158] = DEAD;
+		grid_1158 = DEAD;
 	}
 }
 var grid_1159 = DEAD;
@@ -17323,6 +18481,7 @@ function _1159() {
 	 else{ 
 		document.getElementById("1159").style.background = "#0f99e3";
 		custom[0][w_1159][h_1159] = DEAD;
+		grid_1159 = DEAD;
 	}
 }
 var grid_1160 = DEAD;
@@ -17337,6 +18496,7 @@ function _1160() {
 	 else{ 
 		document.getElementById("1160").style.background = "#0f99e3";
 		custom[0][w_1160][h_1160] = DEAD;
+		grid_1160 = DEAD;
 	}
 }
 var grid_1161 = DEAD;
@@ -17351,6 +18511,7 @@ function _1161() {
 	 else{ 
 		document.getElementById("1161").style.background = "#0f99e3";
 		custom[0][w_1161][h_1161] = DEAD;
+		grid_1161 = DEAD;
 	}
 }
 var grid_1162 = DEAD;
@@ -17365,6 +18526,7 @@ function _1162() {
 	 else{ 
 		document.getElementById("1162").style.background = "#0f99e3";
 		custom[0][w_1162][h_1162] = DEAD;
+		grid_1162 = DEAD;
 	}
 }
 var grid_1163 = DEAD;
@@ -17379,6 +18541,7 @@ function _1163() {
 	 else{ 
 		document.getElementById("1163").style.background = "#0f99e3";
 		custom[0][w_1163][h_1163] = DEAD;
+		grid_1163 = DEAD;
 	}
 }
 var grid_1164 = DEAD;
@@ -17393,6 +18556,7 @@ function _1164() {
 	 else{ 
 		document.getElementById("1164").style.background = "#0f99e3";
 		custom[0][w_1164][h_1164] = DEAD;
+		grid_1164 = DEAD;
 	}
 }
 var grid_1165 = DEAD;
@@ -17407,6 +18571,7 @@ function _1165() {
 	 else{ 
 		document.getElementById("1165").style.background = "#0f99e3";
 		custom[0][w_1165][h_1165] = DEAD;
+		grid_1165 = DEAD;
 	}
 }
 var grid_1166 = DEAD;
@@ -17421,6 +18586,7 @@ function _1166() {
 	 else{ 
 		document.getElementById("1166").style.background = "#0f99e3";
 		custom[0][w_1166][h_1166] = DEAD;
+		grid_1166 = DEAD;
 	}
 }
 var grid_1167 = DEAD;
@@ -17435,6 +18601,7 @@ function _1167() {
 	 else{ 
 		document.getElementById("1167").style.background = "#0f99e3";
 		custom[0][w_1167][h_1167] = DEAD;
+		grid_1167 = DEAD;
 	}
 }
 var grid_1168 = DEAD;
@@ -17449,6 +18616,7 @@ function _1168() {
 	 else{ 
 		document.getElementById("1168").style.background = "#0f99e3";
 		custom[0][w_1168][h_1168] = DEAD;
+		grid_1168 = DEAD;
 	}
 }
 var grid_1169 = DEAD;
@@ -17463,6 +18631,7 @@ function _1169() {
 	 else{ 
 		document.getElementById("1169").style.background = "#0f99e3";
 		custom[0][w_1169][h_1169] = DEAD;
+		grid_1169 = DEAD;
 	}
 }
 var grid_1170 = DEAD;
@@ -17477,6 +18646,7 @@ function _1170() {
 	 else{ 
 		document.getElementById("1170").style.background = "#0f99e3";
 		custom[0][w_1170][h_1170] = DEAD;
+		grid_1170 = DEAD;
 	}
 }
 var grid_1171 = DEAD;
@@ -17491,6 +18661,7 @@ function _1171() {
 	 else{ 
 		document.getElementById("1171").style.background = "#0f99e3";
 		custom[0][w_1171][h_1171] = DEAD;
+		grid_1171 = DEAD;
 	}
 }
 var grid_1172 = DEAD;
@@ -17505,6 +18676,7 @@ function _1172() {
 	 else{ 
 		document.getElementById("1172").style.background = "#0f99e3";
 		custom[0][w_1172][h_1172] = DEAD;
+		grid_1172 = DEAD;
 	}
 }
 var grid_1173 = DEAD;
@@ -17519,6 +18691,7 @@ function _1173() {
 	 else{ 
 		document.getElementById("1173").style.background = "#0f99e3";
 		custom[0][w_1173][h_1173] = DEAD;
+		grid_1173 = DEAD;
 	}
 }
 var grid_1174 = DEAD;
@@ -17533,6 +18706,7 @@ function _1174() {
 	 else{ 
 		document.getElementById("1174").style.background = "#0f99e3";
 		custom[0][w_1174][h_1174] = DEAD;
+		grid_1174 = DEAD;
 	}
 }
 var grid_1175 = DEAD;
@@ -17547,6 +18721,7 @@ function _1175() {
 	 else{ 
 		document.getElementById("1175").style.background = "#0f99e3";
 		custom[0][w_1175][h_1175] = DEAD;
+		grid_1175 = DEAD;
 	}
 }
 var grid_1176 = DEAD;
@@ -17561,6 +18736,7 @@ function _1176() {
 	 else{ 
 		document.getElementById("1176").style.background = "#0f99e3";
 		custom[0][w_1176][h_1176] = DEAD;
+		grid_1176 = DEAD;
 	}
 }
 var grid_1177 = DEAD;
@@ -17575,6 +18751,7 @@ function _1177() {
 	 else{ 
 		document.getElementById("1177").style.background = "#0f99e3";
 		custom[0][w_1177][h_1177] = DEAD;
+		grid_1177 = DEAD;
 	}
 }
 var grid_1178 = DEAD;
@@ -17589,6 +18766,7 @@ function _1178() {
 	 else{ 
 		document.getElementById("1178").style.background = "#0f99e3";
 		custom[0][w_1178][h_1178] = DEAD;
+		grid_1178 = DEAD;
 	}
 }
 var grid_1179 = DEAD;
@@ -17603,6 +18781,7 @@ function _1179() {
 	 else{ 
 		document.getElementById("1179").style.background = "#0f99e3";
 		custom[0][w_1179][h_1179] = DEAD;
+		grid_1179 = DEAD;
 	}
 }
 var grid_1180 = DEAD;
@@ -17617,6 +18796,7 @@ function _1180() {
 	 else{ 
 		document.getElementById("1180").style.background = "#0f99e3";
 		custom[0][w_1180][h_1180] = DEAD;
+		grid_1180 = DEAD;
 	}
 }
 var grid_1181 = DEAD;
@@ -17631,6 +18811,7 @@ function _1181() {
 	 else{ 
 		document.getElementById("1181").style.background = "#0f99e3";
 		custom[0][w_1181][h_1181] = DEAD;
+		grid_1181 = DEAD;
 	}
 }
 var grid_1182 = DEAD;
@@ -17645,6 +18826,7 @@ function _1182() {
 	 else{ 
 		document.getElementById("1182").style.background = "#0f99e3";
 		custom[0][w_1182][h_1182] = DEAD;
+		grid_1182 = DEAD;
 	}
 }
 var grid_1183 = DEAD;
@@ -17659,6 +18841,7 @@ function _1183() {
 	 else{ 
 		document.getElementById("1183").style.background = "#0f99e3";
 		custom[0][w_1183][h_1183] = DEAD;
+		grid_1183 = DEAD;
 	}
 }
 var grid_1184 = DEAD;
@@ -17673,6 +18856,7 @@ function _1184() {
 	 else{ 
 		document.getElementById("1184").style.background = "#0f99e3";
 		custom[0][w_1184][h_1184] = DEAD;
+		grid_1184 = DEAD;
 	}
 }
 var grid_1185 = DEAD;
@@ -17687,6 +18871,7 @@ function _1185() {
 	 else{ 
 		document.getElementById("1185").style.background = "#0f99e3";
 		custom[0][w_1185][h_1185] = DEAD;
+		grid_1185 = DEAD;
 	}
 }
 var grid_1186 = DEAD;
@@ -17701,6 +18886,7 @@ function _1186() {
 	 else{ 
 		document.getElementById("1186").style.background = "#0f99e3";
 		custom[0][w_1186][h_1186] = DEAD;
+		grid_1186 = DEAD;
 	}
 }
 var grid_1187 = DEAD;
@@ -17715,6 +18901,7 @@ function _1187() {
 	 else{ 
 		document.getElementById("1187").style.background = "#0f99e3";
 		custom[0][w_1187][h_1187] = DEAD;
+		grid_1187 = DEAD;
 	}
 }
 var grid_1188 = DEAD;
@@ -17729,6 +18916,7 @@ function _1188() {
 	 else{ 
 		document.getElementById("1188").style.background = "#0f99e3";
 		custom[0][w_1188][h_1188] = DEAD;
+		grid_1188 = DEAD;
 	}
 }
 var grid_1189 = DEAD;
@@ -17743,6 +18931,7 @@ function _1189() {
 	 else{ 
 		document.getElementById("1189").style.background = "#0f99e3";
 		custom[0][w_1189][h_1189] = DEAD;
+		grid_1189 = DEAD;
 	}
 }
 var grid_1190 = DEAD;
@@ -17757,6 +18946,7 @@ function _1190() {
 	 else{ 
 		document.getElementById("1190").style.background = "#0f99e3";
 		custom[0][w_1190][h_1190] = DEAD;
+		grid_1190 = DEAD;
 	}
 }
 var grid_1191 = DEAD;
@@ -17771,6 +18961,7 @@ function _1191() {
 	 else{ 
 		document.getElementById("1191").style.background = "#0f99e3";
 		custom[0][w_1191][h_1191] = DEAD;
+		grid_1191 = DEAD;
 	}
 }
 var grid_1192 = DEAD;
@@ -17785,6 +18976,7 @@ function _1192() {
 	 else{ 
 		document.getElementById("1192").style.background = "#0f99e3";
 		custom[0][w_1192][h_1192] = DEAD;
+		grid_1192 = DEAD;
 	}
 }
 var grid_1193 = DEAD;
@@ -17799,6 +18991,7 @@ function _1193() {
 	 else{ 
 		document.getElementById("1193").style.background = "#0f99e3";
 		custom[0][w_1193][h_1193] = DEAD;
+		grid_1193 = DEAD;
 	}
 }
 var grid_1194 = DEAD;
@@ -17813,6 +19006,7 @@ function _1194() {
 	 else{ 
 		document.getElementById("1194").style.background = "#0f99e3";
 		custom[0][w_1194][h_1194] = DEAD;
+		grid_1194 = DEAD;
 	}
 }
 var grid_1195 = DEAD;
@@ -17827,6 +19021,7 @@ function _1195() {
 	 else{ 
 		document.getElementById("1195").style.background = "#0f99e3";
 		custom[0][w_1195][h_1195] = DEAD;
+		grid_1195 = DEAD;
 	}
 }
 var grid_1196 = DEAD;
@@ -17841,6 +19036,7 @@ function _1196() {
 	 else{ 
 		document.getElementById("1196").style.background = "#0f99e3";
 		custom[0][w_1196][h_1196] = DEAD;
+		grid_1196 = DEAD;
 	}
 }
 var grid_1197 = DEAD;
@@ -17855,6 +19051,7 @@ function _1197() {
 	 else{ 
 		document.getElementById("1197").style.background = "#0f99e3";
 		custom[0][w_1197][h_1197] = DEAD;
+		grid_1197 = DEAD;
 	}
 }
 var grid_1198 = DEAD;
@@ -17869,6 +19066,7 @@ function _1198() {
 	 else{ 
 		document.getElementById("1198").style.background = "#0f99e3";
 		custom[0][w_1198][h_1198] = DEAD;
+		grid_1198 = DEAD;
 	}
 }
 var grid_1199 = DEAD;
@@ -17883,6 +19081,7 @@ function _1199() {
 	 else{ 
 		document.getElementById("1199").style.background = "#0f99e3";
 		custom[0][w_1199][h_1199] = DEAD;
+		grid_1199 = DEAD;
 	}
 }
 var grid_1200 = DEAD;
@@ -17897,6 +19096,7 @@ function _1200() {
 	 else{ 
 		document.getElementById("1200").style.background = "#0f99e3";
 		custom[0][w_1200][h_1200] = DEAD;
+		grid_1200 = DEAD;
 	}
 }
 var grid_1201 = DEAD;
@@ -17911,6 +19111,7 @@ function _1201() {
 	 else{ 
 		document.getElementById("1201").style.background = "#0f99e3";
 		custom[0][w_1201][h_1201] = DEAD;
+		grid_1201 = DEAD;
 	}
 }
 var grid_1202 = DEAD;
@@ -17925,6 +19126,7 @@ function _1202() {
 	 else{ 
 		document.getElementById("1202").style.background = "#0f99e3";
 		custom[0][w_1202][h_1202] = DEAD;
+		grid_1202 = DEAD;
 	}
 }
 var grid_1203 = DEAD;
@@ -17939,6 +19141,7 @@ function _1203() {
 	 else{ 
 		document.getElementById("1203").style.background = "#0f99e3";
 		custom[0][w_1203][h_1203] = DEAD;
+		grid_1203 = DEAD;
 	}
 }
 var grid_1204 = DEAD;
@@ -17953,6 +19156,7 @@ function _1204() {
 	 else{ 
 		document.getElementById("1204").style.background = "#0f99e3";
 		custom[0][w_1204][h_1204] = DEAD;
+		grid_1204 = DEAD;
 	}
 }
 var grid_1205 = DEAD;
@@ -17967,6 +19171,7 @@ function _1205() {
 	 else{ 
 		document.getElementById("1205").style.background = "#0f99e3";
 		custom[0][w_1205][h_1205] = DEAD;
+		grid_1205 = DEAD;
 	}
 }
 var grid_1206 = DEAD;
@@ -17981,6 +19186,7 @@ function _1206() {
 	 else{ 
 		document.getElementById("1206").style.background = "#0f99e3";
 		custom[0][w_1206][h_1206] = DEAD;
+		grid_1206 = DEAD;
 	}
 }
 var grid_1207 = DEAD;
@@ -17995,6 +19201,7 @@ function _1207() {
 	 else{ 
 		document.getElementById("1207").style.background = "#0f99e3";
 		custom[0][w_1207][h_1207] = DEAD;
+		grid_1207 = DEAD;
 	}
 }
 var grid_1208 = DEAD;
@@ -18009,6 +19216,7 @@ function _1208() {
 	 else{ 
 		document.getElementById("1208").style.background = "#0f99e3";
 		custom[0][w_1208][h_1208] = DEAD;
+		grid_1208 = DEAD;
 	}
 }
 var grid_1209 = DEAD;
@@ -18023,6 +19231,7 @@ function _1209() {
 	 else{ 
 		document.getElementById("1209").style.background = "#0f99e3";
 		custom[0][w_1209][h_1209] = DEAD;
+		grid_1209 = DEAD;
 	}
 }
 var grid_1210 = DEAD;
@@ -18037,6 +19246,7 @@ function _1210() {
 	 else{ 
 		document.getElementById("1210").style.background = "#0f99e3";
 		custom[0][w_1210][h_1210] = DEAD;
+		grid_1210 = DEAD;
 	}
 }
 var grid_1211 = DEAD;
@@ -18051,6 +19261,7 @@ function _1211() {
 	 else{ 
 		document.getElementById("1211").style.background = "#0f99e3";
 		custom[0][w_1211][h_1211] = DEAD;
+		grid_1211 = DEAD;
 	}
 }
 var grid_1212 = DEAD;
@@ -18065,6 +19276,7 @@ function _1212() {
 	 else{ 
 		document.getElementById("1212").style.background = "#0f99e3";
 		custom[0][w_1212][h_1212] = DEAD;
+		grid_1212 = DEAD;
 	}
 }
 var grid_1213 = DEAD;
@@ -18079,6 +19291,7 @@ function _1213() {
 	 else{ 
 		document.getElementById("1213").style.background = "#0f99e3";
 		custom[0][w_1213][h_1213] = DEAD;
+		grid_1213 = DEAD;
 	}
 }
 var grid_1214 = DEAD;
@@ -18093,6 +19306,7 @@ function _1214() {
 	 else{ 
 		document.getElementById("1214").style.background = "#0f99e3";
 		custom[0][w_1214][h_1214] = DEAD;
+		grid_1214 = DEAD;
 	}
 }
 var grid_1215 = DEAD;
@@ -18107,6 +19321,7 @@ function _1215() {
 	 else{ 
 		document.getElementById("1215").style.background = "#0f99e3";
 		custom[0][w_1215][h_1215] = DEAD;
+		grid_1215 = DEAD;
 	}
 }
 var grid_1216 = DEAD;
@@ -18121,6 +19336,7 @@ function _1216() {
 	 else{ 
 		document.getElementById("1216").style.background = "#0f99e3";
 		custom[0][w_1216][h_1216] = DEAD;
+		grid_1216 = DEAD;
 	}
 }
 var grid_1217 = DEAD;
@@ -18135,6 +19351,7 @@ function _1217() {
 	 else{ 
 		document.getElementById("1217").style.background = "#0f99e3";
 		custom[0][w_1217][h_1217] = DEAD;
+		grid_1217 = DEAD;
 	}
 }
 var grid_1218 = DEAD;
@@ -18149,6 +19366,7 @@ function _1218() {
 	 else{ 
 		document.getElementById("1218").style.background = "#0f99e3";
 		custom[0][w_1218][h_1218] = DEAD;
+		grid_1218 = DEAD;
 	}
 }
 var grid_1219 = DEAD;
@@ -18163,6 +19381,7 @@ function _1219() {
 	 else{ 
 		document.getElementById("1219").style.background = "#0f99e3";
 		custom[0][w_1219][h_1219] = DEAD;
+		grid_1219 = DEAD;
 	}
 }
 var grid_1220 = DEAD;
@@ -18177,6 +19396,7 @@ function _1220() {
 	 else{ 
 		document.getElementById("1220").style.background = "#0f99e3";
 		custom[0][w_1220][h_1220] = DEAD;
+		grid_1220 = DEAD;
 	}
 }
 var grid_1221 = DEAD;
@@ -18191,6 +19411,7 @@ function _1221() {
 	 else{ 
 		document.getElementById("1221").style.background = "#0f99e3";
 		custom[0][w_1221][h_1221] = DEAD;
+		grid_1221 = DEAD;
 	}
 }
 var grid_1222 = DEAD;
@@ -18205,6 +19426,7 @@ function _1222() {
 	 else{ 
 		document.getElementById("1222").style.background = "#0f99e3";
 		custom[0][w_1222][h_1222] = DEAD;
+		grid_1222 = DEAD;
 	}
 }
 var grid_1223 = DEAD;
@@ -18219,6 +19441,7 @@ function _1223() {
 	 else{ 
 		document.getElementById("1223").style.background = "#0f99e3";
 		custom[0][w_1223][h_1223] = DEAD;
+		grid_1223 = DEAD;
 	}
 }
 var grid_1224 = DEAD;
@@ -18233,6 +19456,7 @@ function _1224() {
 	 else{ 
 		document.getElementById("1224").style.background = "#0f99e3";
 		custom[0][w_1224][h_1224] = DEAD;
+		grid_1224 = DEAD;
 	}
 }
 var grid_1225 = DEAD;
@@ -18247,6 +19471,7 @@ function _1225() {
 	 else{ 
 		document.getElementById("1225").style.background = "#0f99e3";
 		custom[0][w_1225][h_1225] = DEAD;
+		grid_1225 = DEAD;
 	}
 }
 var grid_1226 = DEAD;
@@ -18261,6 +19486,7 @@ function _1226() {
 	 else{ 
 		document.getElementById("1226").style.background = "#0f99e3";
 		custom[0][w_1226][h_1226] = DEAD;
+		grid_1226 = DEAD;
 	}
 }
 var grid_1227 = DEAD;
@@ -18275,6 +19501,7 @@ function _1227() {
 	 else{ 
 		document.getElementById("1227").style.background = "#0f99e3";
 		custom[0][w_1227][h_1227] = DEAD;
+		grid_1227 = DEAD;
 	}
 }
 var grid_1228 = DEAD;
@@ -18289,6 +19516,7 @@ function _1228() {
 	 else{ 
 		document.getElementById("1228").style.background = "#0f99e3";
 		custom[0][w_1228][h_1228] = DEAD;
+		grid_1228 = DEAD;
 	}
 }
 var grid_1229 = DEAD;
@@ -18303,6 +19531,7 @@ function _1229() {
 	 else{ 
 		document.getElementById("1229").style.background = "#0f99e3";
 		custom[0][w_1229][h_1229] = DEAD;
+		grid_1229 = DEAD;
 	}
 }
 var grid_1230 = DEAD;
@@ -18317,6 +19546,7 @@ function _1230() {
 	 else{ 
 		document.getElementById("1230").style.background = "#0f99e3";
 		custom[0][w_1230][h_1230] = DEAD;
+		grid_1230 = DEAD;
 	}
 }
 var grid_1231 = DEAD;
@@ -18331,6 +19561,7 @@ function _1231() {
 	 else{ 
 		document.getElementById("1231").style.background = "#0f99e3";
 		custom[0][w_1231][h_1231] = DEAD;
+		grid_1231 = DEAD;
 	}
 }
 var grid_1232 = DEAD;
@@ -18345,6 +19576,7 @@ function _1232() {
 	 else{ 
 		document.getElementById("1232").style.background = "#0f99e3";
 		custom[0][w_1232][h_1232] = DEAD;
+		grid_1232 = DEAD;
 	}
 }
 var grid_1233 = DEAD;
@@ -18359,6 +19591,7 @@ function _1233() {
 	 else{ 
 		document.getElementById("1233").style.background = "#0f99e3";
 		custom[0][w_1233][h_1233] = DEAD;
+		grid_1233 = DEAD;
 	}
 }
 var grid_1234 = DEAD;
@@ -18373,6 +19606,7 @@ function _1234() {
 	 else{ 
 		document.getElementById("1234").style.background = "#0f99e3";
 		custom[0][w_1234][h_1234] = DEAD;
+		grid_1234 = DEAD;
 	}
 }
 var grid_1235 = DEAD;
@@ -18387,6 +19621,7 @@ function _1235() {
 	 else{ 
 		document.getElementById("1235").style.background = "#0f99e3";
 		custom[0][w_1235][h_1235] = DEAD;
+		grid_1235 = DEAD;
 	}
 }
 var grid_1236 = DEAD;
@@ -18401,6 +19636,7 @@ function _1236() {
 	 else{ 
 		document.getElementById("1236").style.background = "#0f99e3";
 		custom[0][w_1236][h_1236] = DEAD;
+		grid_1236 = DEAD;
 	}
 }
 var grid_1237 = DEAD;
@@ -18415,6 +19651,7 @@ function _1237() {
 	 else{ 
 		document.getElementById("1237").style.background = "#0f99e3";
 		custom[0][w_1237][h_1237] = DEAD;
+		grid_1237 = DEAD;
 	}
 }
 var grid_1238 = DEAD;
@@ -18429,6 +19666,7 @@ function _1238() {
 	 else{ 
 		document.getElementById("1238").style.background = "#0f99e3";
 		custom[0][w_1238][h_1238] = DEAD;
+		grid_1238 = DEAD;
 	}
 }
 var grid_1239 = DEAD;
@@ -18443,6 +19681,7 @@ function _1239() {
 	 else{ 
 		document.getElementById("1239").style.background = "#0f99e3";
 		custom[0][w_1239][h_1239] = DEAD;
+		grid_1239 = DEAD;
 	}
 }
 var grid_1240 = DEAD;
@@ -18457,6 +19696,7 @@ function _1240() {
 	 else{ 
 		document.getElementById("1240").style.background = "#0f99e3";
 		custom[0][w_1240][h_1240] = DEAD;
+		grid_1240 = DEAD;
 	}
 }
 var grid_1241 = DEAD;
@@ -18471,6 +19711,7 @@ function _1241() {
 	 else{ 
 		document.getElementById("1241").style.background = "#0f99e3";
 		custom[0][w_1241][h_1241] = DEAD;
+		grid_1241 = DEAD;
 	}
 }
 var grid_1242 = DEAD;
@@ -18485,6 +19726,7 @@ function _1242() {
 	 else{ 
 		document.getElementById("1242").style.background = "#0f99e3";
 		custom[0][w_1242][h_1242] = DEAD;
+		grid_1242 = DEAD;
 	}
 }
 var grid_1243 = DEAD;
@@ -18499,6 +19741,7 @@ function _1243() {
 	 else{ 
 		document.getElementById("1243").style.background = "#0f99e3";
 		custom[0][w_1243][h_1243] = DEAD;
+		grid_1243 = DEAD;
 	}
 }
 var grid_1244 = DEAD;
@@ -18513,6 +19756,7 @@ function _1244() {
 	 else{ 
 		document.getElementById("1244").style.background = "#0f99e3";
 		custom[0][w_1244][h_1244] = DEAD;
+		grid_1244 = DEAD;
 	}
 }
 var grid_1245 = DEAD;
@@ -18527,6 +19771,7 @@ function _1245() {
 	 else{ 
 		document.getElementById("1245").style.background = "#0f99e3";
 		custom[0][w_1245][h_1245] = DEAD;
+		grid_1245 = DEAD;
 	}
 }
 var grid_1246 = DEAD;
@@ -18541,6 +19786,7 @@ function _1246() {
 	 else{ 
 		document.getElementById("1246").style.background = "#0f99e3";
 		custom[0][w_1246][h_1246] = DEAD;
+		grid_1246 = DEAD;
 	}
 }
 var grid_1247 = DEAD;
@@ -18555,6 +19801,7 @@ function _1247() {
 	 else{ 
 		document.getElementById("1247").style.background = "#0f99e3";
 		custom[0][w_1247][h_1247] = DEAD;
+		grid_1247 = DEAD;
 	}
 }
 var grid_1248 = DEAD;
@@ -18569,6 +19816,7 @@ function _1248() {
 	 else{ 
 		document.getElementById("1248").style.background = "#0f99e3";
 		custom[0][w_1248][h_1248] = DEAD;
+		grid_1248 = DEAD;
 	}
 }
 var grid_1249 = DEAD;
@@ -18583,6 +19831,7 @@ function _1249() {
 	 else{ 
 		document.getElementById("1249").style.background = "#0f99e3";
 		custom[0][w_1249][h_1249] = DEAD;
+		grid_1249 = DEAD;
 	}
 }
 var grid_1250 = DEAD;
@@ -18597,6 +19846,7 @@ function _1250() {
 	 else{ 
 		document.getElementById("1250").style.background = "#0f99e3";
 		custom[0][w_1250][h_1250] = DEAD;
+		grid_1250 = DEAD;
 	}
 }
 var grid_1251 = DEAD;
@@ -18611,6 +19861,7 @@ function _1251() {
 	 else{ 
 		document.getElementById("1251").style.background = "#0f99e3";
 		custom[0][w_1251][h_1251] = DEAD;
+		grid_1251 = DEAD;
 	}
 }
 var grid_1252 = DEAD;
@@ -18625,6 +19876,7 @@ function _1252() {
 	 else{ 
 		document.getElementById("1252").style.background = "#0f99e3";
 		custom[0][w_1252][h_1252] = DEAD;
+		grid_1252 = DEAD;
 	}
 }
 var grid_1253 = DEAD;
@@ -18639,6 +19891,7 @@ function _1253() {
 	 else{ 
 		document.getElementById("1253").style.background = "#0f99e3";
 		custom[0][w_1253][h_1253] = DEAD;
+		grid_1253 = DEAD;
 	}
 }
 var grid_1254 = DEAD;
@@ -18653,6 +19906,7 @@ function _1254() {
 	 else{ 
 		document.getElementById("1254").style.background = "#0f99e3";
 		custom[0][w_1254][h_1254] = DEAD;
+		grid_1254 = DEAD;
 	}
 }
 var grid_1255 = DEAD;
@@ -18667,6 +19921,7 @@ function _1255() {
 	 else{ 
 		document.getElementById("1255").style.background = "#0f99e3";
 		custom[0][w_1255][h_1255] = DEAD;
+		grid_1255 = DEAD;
 	}
 }
 var grid_1256 = DEAD;
@@ -18681,6 +19936,7 @@ function _1256() {
 	 else{ 
 		document.getElementById("1256").style.background = "#0f99e3";
 		custom[0][w_1256][h_1256] = DEAD;
+		grid_1256 = DEAD;
 	}
 }
 var grid_1257 = DEAD;
@@ -18695,6 +19951,7 @@ function _1257() {
 	 else{ 
 		document.getElementById("1257").style.background = "#0f99e3";
 		custom[0][w_1257][h_1257] = DEAD;
+		grid_1257 = DEAD;
 	}
 }
 var grid_1258 = DEAD;
@@ -18709,6 +19966,7 @@ function _1258() {
 	 else{ 
 		document.getElementById("1258").style.background = "#0f99e3";
 		custom[0][w_1258][h_1258] = DEAD;
+		grid_1258 = DEAD;
 	}
 }
 var grid_1259 = DEAD;
@@ -18723,6 +19981,7 @@ function _1259() {
 	 else{ 
 		document.getElementById("1259").style.background = "#0f99e3";
 		custom[0][w_1259][h_1259] = DEAD;
+		grid_1259 = DEAD;
 	}
 }
 var grid_1260 = DEAD;
@@ -18737,6 +19996,7 @@ function _1260() {
 	 else{ 
 		document.getElementById("1260").style.background = "#0f99e3";
 		custom[0][w_1260][h_1260] = DEAD;
+		grid_1260 = DEAD;
 	}
 }
 var grid_1261 = DEAD;
@@ -18751,6 +20011,7 @@ function _1261() {
 	 else{ 
 		document.getElementById("1261").style.background = "#0f99e3";
 		custom[0][w_1261][h_1261] = DEAD;
+		grid_1261 = DEAD;
 	}
 }
 var grid_1262 = DEAD;
@@ -18765,6 +20026,7 @@ function _1262() {
 	 else{ 
 		document.getElementById("1262").style.background = "#0f99e3";
 		custom[0][w_1262][h_1262] = DEAD;
+		grid_1262 = DEAD;
 	}
 }
 var grid_1263 = DEAD;
@@ -18779,6 +20041,7 @@ function _1263() {
 	 else{ 
 		document.getElementById("1263").style.background = "#0f99e3";
 		custom[0][w_1263][h_1263] = DEAD;
+		grid_1263 = DEAD;
 	}
 }
 var grid_1264 = DEAD;
@@ -18793,6 +20056,7 @@ function _1264() {
 	 else{ 
 		document.getElementById("1264").style.background = "#0f99e3";
 		custom[0][w_1264][h_1264] = DEAD;
+		grid_1264 = DEAD;
 	}
 }
 var grid_1265 = DEAD;
@@ -18807,6 +20071,7 @@ function _1265() {
 	 else{ 
 		document.getElementById("1265").style.background = "#0f99e3";
 		custom[0][w_1265][h_1265] = DEAD;
+		grid_1265 = DEAD;
 	}
 }
 var grid_1266 = DEAD;
@@ -18821,6 +20086,7 @@ function _1266() {
 	 else{ 
 		document.getElementById("1266").style.background = "#0f99e3";
 		custom[0][w_1266][h_1266] = DEAD;
+		grid_1266 = DEAD;
 	}
 }
 var grid_1267 = DEAD;
@@ -18835,6 +20101,7 @@ function _1267() {
 	 else{ 
 		document.getElementById("1267").style.background = "#0f99e3";
 		custom[0][w_1267][h_1267] = DEAD;
+		grid_1267 = DEAD;
 	}
 }
 var grid_1268 = DEAD;
@@ -18849,6 +20116,7 @@ function _1268() {
 	 else{ 
 		document.getElementById("1268").style.background = "#0f99e3";
 		custom[0][w_1268][h_1268] = DEAD;
+		grid_1268 = DEAD;
 	}
 }
 var grid_1269 = DEAD;
@@ -18863,6 +20131,7 @@ function _1269() {
 	 else{ 
 		document.getElementById("1269").style.background = "#0f99e3";
 		custom[0][w_1269][h_1269] = DEAD;
+		grid_1269 = DEAD;
 	}
 }
 var grid_1270 = DEAD;
@@ -18877,6 +20146,7 @@ function _1270() {
 	 else{ 
 		document.getElementById("1270").style.background = "#0f99e3";
 		custom[0][w_1270][h_1270] = DEAD;
+		grid_1270 = DEAD;
 	}
 }
 var grid_1271 = DEAD;
@@ -18891,6 +20161,7 @@ function _1271() {
 	 else{ 
 		document.getElementById("1271").style.background = "#0f99e3";
 		custom[0][w_1271][h_1271] = DEAD;
+		grid_1271 = DEAD;
 	}
 }
 var grid_1272 = DEAD;
@@ -18905,6 +20176,7 @@ function _1272() {
 	 else{ 
 		document.getElementById("1272").style.background = "#0f99e3";
 		custom[0][w_1272][h_1272] = DEAD;
+		grid_1272 = DEAD;
 	}
 }
 var grid_1273 = DEAD;
@@ -18919,6 +20191,7 @@ function _1273() {
 	 else{ 
 		document.getElementById("1273").style.background = "#0f99e3";
 		custom[0][w_1273][h_1273] = DEAD;
+		grid_1273 = DEAD;
 	}
 }
 var grid_1274 = DEAD;
@@ -18933,6 +20206,7 @@ function _1274() {
 	 else{ 
 		document.getElementById("1274").style.background = "#0f99e3";
 		custom[0][w_1274][h_1274] = DEAD;
+		grid_1274 = DEAD;
 	}
 }
 var grid_1275 = DEAD;
@@ -18947,6 +20221,7 @@ function _1275() {
 	 else{ 
 		document.getElementById("1275").style.background = "#0f99e3";
 		custom[0][w_1275][h_1275] = DEAD;
+		grid_1275 = DEAD;
 	}
 }
 var grid_1276 = DEAD;
@@ -18961,6 +20236,7 @@ function _1276() {
 	 else{ 
 		document.getElementById("1276").style.background = "#0f99e3";
 		custom[0][w_1276][h_1276] = DEAD;
+		grid_1276 = DEAD;
 	}
 }
 var grid_1277 = DEAD;
@@ -18975,6 +20251,7 @@ function _1277() {
 	 else{ 
 		document.getElementById("1277").style.background = "#0f99e3";
 		custom[0][w_1277][h_1277] = DEAD;
+		grid_1277 = DEAD;
 	}
 }
 var grid_1278 = DEAD;
@@ -18989,6 +20266,7 @@ function _1278() {
 	 else{ 
 		document.getElementById("1278").style.background = "#0f99e3";
 		custom[0][w_1278][h_1278] = DEAD;
+		grid_1278 = DEAD;
 	}
 }
 var grid_1279 = DEAD;
@@ -19003,6 +20281,7 @@ function _1279() {
 	 else{ 
 		document.getElementById("1279").style.background = "#0f99e3";
 		custom[0][w_1279][h_1279] = DEAD;
+		grid_1279 = DEAD;
 	}
 }
 var grid_1280 = DEAD;
@@ -19017,6 +20296,7 @@ function _1280() {
 	 else{ 
 		document.getElementById("1280").style.background = "#0f99e3";
 		custom[0][w_1280][h_1280] = DEAD;
+		grid_1280 = DEAD;
 	}
 }
 var grid_1281 = DEAD;
@@ -19031,6 +20311,7 @@ function _1281() {
 	 else{ 
 		document.getElementById("1281").style.background = "#0f99e3";
 		custom[0][w_1281][h_1281] = DEAD;
+		grid_1281 = DEAD;
 	}
 }
 var grid_1282 = DEAD;
@@ -19045,6 +20326,7 @@ function _1282() {
 	 else{ 
 		document.getElementById("1282").style.background = "#0f99e3";
 		custom[0][w_1282][h_1282] = DEAD;
+		grid_1282 = DEAD;
 	}
 }
 var grid_1283 = DEAD;
@@ -19059,6 +20341,7 @@ function _1283() {
 	 else{ 
 		document.getElementById("1283").style.background = "#0f99e3";
 		custom[0][w_1283][h_1283] = DEAD;
+		grid_1283 = DEAD;
 	}
 }
 var grid_1284 = DEAD;
@@ -19073,6 +20356,7 @@ function _1284() {
 	 else{ 
 		document.getElementById("1284").style.background = "#0f99e3";
 		custom[0][w_1284][h_1284] = DEAD;
+		grid_1284 = DEAD;
 	}
 }
 var grid_1285 = DEAD;
@@ -19087,6 +20371,7 @@ function _1285() {
 	 else{ 
 		document.getElementById("1285").style.background = "#0f99e3";
 		custom[0][w_1285][h_1285] = DEAD;
+		grid_1285 = DEAD;
 	}
 }
 var grid_1286 = DEAD;
@@ -19101,6 +20386,7 @@ function _1286() {
 	 else{ 
 		document.getElementById("1286").style.background = "#0f99e3";
 		custom[0][w_1286][h_1286] = DEAD;
+		grid_1286 = DEAD;
 	}
 }
 var grid_1287 = DEAD;
@@ -19115,6 +20401,7 @@ function _1287() {
 	 else{ 
 		document.getElementById("1287").style.background = "#0f99e3";
 		custom[0][w_1287][h_1287] = DEAD;
+		grid_1287 = DEAD;
 	}
 }
 var grid_1288 = DEAD;
@@ -19129,6 +20416,7 @@ function _1288() {
 	 else{ 
 		document.getElementById("1288").style.background = "#0f99e3";
 		custom[0][w_1288][h_1288] = DEAD;
+		grid_1288 = DEAD;
 	}
 }
 var grid_1289 = DEAD;
@@ -19143,6 +20431,7 @@ function _1289() {
 	 else{ 
 		document.getElementById("1289").style.background = "#0f99e3";
 		custom[0][w_1289][h_1289] = DEAD;
+		grid_1289 = DEAD;
 	}
 }
 var grid_1290 = DEAD;
@@ -19157,6 +20446,7 @@ function _1290() {
 	 else{ 
 		document.getElementById("1290").style.background = "#0f99e3";
 		custom[0][w_1290][h_1290] = DEAD;
+		grid_1290 = DEAD;
 	}
 }
 var grid_1291 = DEAD;
@@ -19171,6 +20461,7 @@ function _1291() {
 	 else{ 
 		document.getElementById("1291").style.background = "#0f99e3";
 		custom[0][w_1291][h_1291] = DEAD;
+		grid_1291 = DEAD;
 	}
 }
 var grid_1292 = DEAD;
@@ -19185,6 +20476,7 @@ function _1292() {
 	 else{ 
 		document.getElementById("1292").style.background = "#0f99e3";
 		custom[0][w_1292][h_1292] = DEAD;
+		grid_1292 = DEAD;
 	}
 }
 var grid_1293 = DEAD;
@@ -19199,6 +20491,7 @@ function _1293() {
 	 else{ 
 		document.getElementById("1293").style.background = "#0f99e3";
 		custom[0][w_1293][h_1293] = DEAD;
+		grid_1293 = DEAD;
 	}
 }
 var grid_1294 = DEAD;
@@ -19213,6 +20506,7 @@ function _1294() {
 	 else{ 
 		document.getElementById("1294").style.background = "#0f99e3";
 		custom[0][w_1294][h_1294] = DEAD;
+		grid_1294 = DEAD;
 	}
 }
 var grid_1295 = DEAD;
@@ -19227,6 +20521,7 @@ function _1295() {
 	 else{ 
 		document.getElementById("1295").style.background = "#0f99e3";
 		custom[0][w_1295][h_1295] = DEAD;
+		grid_1295 = DEAD;
 	}
 }
 var grid_1296 = DEAD;
@@ -19241,6 +20536,7 @@ function _1296() {
 	 else{ 
 		document.getElementById("1296").style.background = "#0f99e3";
 		custom[0][w_1296][h_1296] = DEAD;
+		grid_1296 = DEAD;
 	}
 }
 var grid_1297 = DEAD;
@@ -19255,6 +20551,7 @@ function _1297() {
 	 else{ 
 		document.getElementById("1297").style.background = "#0f99e3";
 		custom[0][w_1297][h_1297] = DEAD;
+		grid_1297 = DEAD;
 	}
 }
 var grid_1298 = DEAD;
@@ -19269,6 +20566,7 @@ function _1298() {
 	 else{ 
 		document.getElementById("1298").style.background = "#0f99e3";
 		custom[0][w_1298][h_1298] = DEAD;
+		grid_1298 = DEAD;
 	}
 }
 var grid_1299 = DEAD;
@@ -19283,6 +20581,7 @@ function _1299() {
 	 else{ 
 		document.getElementById("1299").style.background = "#0f99e3";
 		custom[0][w_1299][h_1299] = DEAD;
+		grid_1299 = DEAD;
 	}
 }
 var grid_1300 = DEAD;
@@ -19297,6 +20596,7 @@ function _1300() {
 	 else{ 
 		document.getElementById("1300").style.background = "#0f99e3";
 		custom[0][w_1300][h_1300] = DEAD;
+		grid_1300 = DEAD;
 	}
 }
 var grid_1301 = DEAD;
@@ -19311,6 +20611,7 @@ function _1301() {
 	 else{ 
 		document.getElementById("1301").style.background = "#0f99e3";
 		custom[0][w_1301][h_1301] = DEAD;
+		grid_1301 = DEAD;
 	}
 }
 var grid_1302 = DEAD;
@@ -19325,6 +20626,7 @@ function _1302() {
 	 else{ 
 		document.getElementById("1302").style.background = "#0f99e3";
 		custom[0][w_1302][h_1302] = DEAD;
+		grid_1302 = DEAD;
 	}
 }
 var grid_1303 = DEAD;
@@ -19339,6 +20641,7 @@ function _1303() {
 	 else{ 
 		document.getElementById("1303").style.background = "#0f99e3";
 		custom[0][w_1303][h_1303] = DEAD;
+		grid_1303 = DEAD;
 	}
 }
 var grid_1304 = DEAD;
@@ -19353,6 +20656,7 @@ function _1304() {
 	 else{ 
 		document.getElementById("1304").style.background = "#0f99e3";
 		custom[0][w_1304][h_1304] = DEAD;
+		grid_1304 = DEAD;
 	}
 }
 var grid_1305 = DEAD;
@@ -19367,6 +20671,7 @@ function _1305() {
 	 else{ 
 		document.getElementById("1305").style.background = "#0f99e3";
 		custom[0][w_1305][h_1305] = DEAD;
+		grid_1305 = DEAD;
 	}
 }
 var grid_1306 = DEAD;
@@ -19381,6 +20686,7 @@ function _1306() {
 	 else{ 
 		document.getElementById("1306").style.background = "#0f99e3";
 		custom[0][w_1306][h_1306] = DEAD;
+		grid_1306 = DEAD;
 	}
 }
 var grid_1307 = DEAD;
@@ -19395,6 +20701,7 @@ function _1307() {
 	 else{ 
 		document.getElementById("1307").style.background = "#0f99e3";
 		custom[0][w_1307][h_1307] = DEAD;
+		grid_1307 = DEAD;
 	}
 }
 var grid_1308 = DEAD;
@@ -19409,6 +20716,7 @@ function _1308() {
 	 else{ 
 		document.getElementById("1308").style.background = "#0f99e3";
 		custom[0][w_1308][h_1308] = DEAD;
+		grid_1308 = DEAD;
 	}
 }
 var grid_1309 = DEAD;
@@ -19423,6 +20731,7 @@ function _1309() {
 	 else{ 
 		document.getElementById("1309").style.background = "#0f99e3";
 		custom[0][w_1309][h_1309] = DEAD;
+		grid_1309 = DEAD;
 	}
 }
 var grid_1310 = DEAD;
@@ -19437,6 +20746,7 @@ function _1310() {
 	 else{ 
 		document.getElementById("1310").style.background = "#0f99e3";
 		custom[0][w_1310][h_1310] = DEAD;
+		grid_1310 = DEAD;
 	}
 }
 var grid_1311 = DEAD;
@@ -19451,6 +20761,7 @@ function _1311() {
 	 else{ 
 		document.getElementById("1311").style.background = "#0f99e3";
 		custom[0][w_1311][h_1311] = DEAD;
+		grid_1311 = DEAD;
 	}
 }
 var grid_1312 = DEAD;
@@ -19465,6 +20776,7 @@ function _1312() {
 	 else{ 
 		document.getElementById("1312").style.background = "#0f99e3";
 		custom[0][w_1312][h_1312] = DEAD;
+		grid_1312 = DEAD;
 	}
 }
 var grid_1313 = DEAD;
@@ -19479,6 +20791,7 @@ function _1313() {
 	 else{ 
 		document.getElementById("1313").style.background = "#0f99e3";
 		custom[0][w_1313][h_1313] = DEAD;
+		grid_1313 = DEAD;
 	}
 }
 var grid_1314 = DEAD;
@@ -19493,6 +20806,7 @@ function _1314() {
 	 else{ 
 		document.getElementById("1314").style.background = "#0f99e3";
 		custom[0][w_1314][h_1314] = DEAD;
+		grid_1314 = DEAD;
 	}
 }
 var grid_1315 = DEAD;
@@ -19507,6 +20821,7 @@ function _1315() {
 	 else{ 
 		document.getElementById("1315").style.background = "#0f99e3";
 		custom[0][w_1315][h_1315] = DEAD;
+		grid_1315 = DEAD;
 	}
 }
 var grid_1316 = DEAD;
@@ -19521,6 +20836,7 @@ function _1316() {
 	 else{ 
 		document.getElementById("1316").style.background = "#0f99e3";
 		custom[0][w_1316][h_1316] = DEAD;
+		grid_1316 = DEAD;
 	}
 }
 var grid_1317 = DEAD;
@@ -19535,6 +20851,7 @@ function _1317() {
 	 else{ 
 		document.getElementById("1317").style.background = "#0f99e3";
 		custom[0][w_1317][h_1317] = DEAD;
+		grid_1317 = DEAD;
 	}
 }
 var grid_1318 = DEAD;
@@ -19549,6 +20866,7 @@ function _1318() {
 	 else{ 
 		document.getElementById("1318").style.background = "#0f99e3";
 		custom[0][w_1318][h_1318] = DEAD;
+		grid_1318 = DEAD;
 	}
 }
 var grid_1319 = DEAD;
@@ -19563,6 +20881,7 @@ function _1319() {
 	 else{ 
 		document.getElementById("1319").style.background = "#0f99e3";
 		custom[0][w_1319][h_1319] = DEAD;
+		grid_1319 = DEAD;
 	}
 }
 var grid_1320 = DEAD;
@@ -19577,6 +20896,7 @@ function _1320() {
 	 else{ 
 		document.getElementById("1320").style.background = "#0f99e3";
 		custom[0][w_1320][h_1320] = DEAD;
+		grid_1320 = DEAD;
 	}
 }
 var grid_1321 = DEAD;
@@ -19591,6 +20911,7 @@ function _1321() {
 	 else{ 
 		document.getElementById("1321").style.background = "#0f99e3";
 		custom[0][w_1321][h_1321] = DEAD;
+		grid_1321 = DEAD;
 	}
 }
 var grid_1322 = DEAD;
@@ -19605,6 +20926,7 @@ function _1322() {
 	 else{ 
 		document.getElementById("1322").style.background = "#0f99e3";
 		custom[0][w_1322][h_1322] = DEAD;
+		grid_1322 = DEAD;
 	}
 }
 var grid_1323 = DEAD;
@@ -19619,6 +20941,7 @@ function _1323() {
 	 else{ 
 		document.getElementById("1323").style.background = "#0f99e3";
 		custom[0][w_1323][h_1323] = DEAD;
+		grid_1323 = DEAD;
 	}
 }
 var grid_1324 = DEAD;
@@ -19633,6 +20956,7 @@ function _1324() {
 	 else{ 
 		document.getElementById("1324").style.background = "#0f99e3";
 		custom[0][w_1324][h_1324] = DEAD;
+		grid_1324 = DEAD;
 	}
 }
 var grid_1325 = DEAD;
@@ -19647,6 +20971,7 @@ function _1325() {
 	 else{ 
 		document.getElementById("1325").style.background = "#0f99e3";
 		custom[0][w_1325][h_1325] = DEAD;
+		grid_1325 = DEAD;
 	}
 }
 var grid_1326 = DEAD;
@@ -19661,6 +20986,7 @@ function _1326() {
 	 else{ 
 		document.getElementById("1326").style.background = "#0f99e3";
 		custom[0][w_1326][h_1326] = DEAD;
+		grid_1326 = DEAD;
 	}
 }
 var grid_1327 = DEAD;
@@ -19675,6 +21001,7 @@ function _1327() {
 	 else{ 
 		document.getElementById("1327").style.background = "#0f99e3";
 		custom[0][w_1327][h_1327] = DEAD;
+		grid_1327 = DEAD;
 	}
 }
 var grid_1328 = DEAD;
@@ -19689,6 +21016,7 @@ function _1328() {
 	 else{ 
 		document.getElementById("1328").style.background = "#0f99e3";
 		custom[0][w_1328][h_1328] = DEAD;
+		grid_1328 = DEAD;
 	}
 }
 var grid_1329 = DEAD;
@@ -19703,6 +21031,7 @@ function _1329() {
 	 else{ 
 		document.getElementById("1329").style.background = "#0f99e3";
 		custom[0][w_1329][h_1329] = DEAD;
+		grid_1329 = DEAD;
 	}
 }
 var grid_1330 = DEAD;
@@ -19717,6 +21046,7 @@ function _1330() {
 	 else{ 
 		document.getElementById("1330").style.background = "#0f99e3";
 		custom[0][w_1330][h_1330] = DEAD;
+		grid_1330 = DEAD;
 	}
 }
 var grid_1331 = DEAD;
@@ -19731,6 +21061,7 @@ function _1331() {
 	 else{ 
 		document.getElementById("1331").style.background = "#0f99e3";
 		custom[0][w_1331][h_1331] = DEAD;
+		grid_1331 = DEAD;
 	}
 }
 var grid_1332 = DEAD;
@@ -19745,6 +21076,7 @@ function _1332() {
 	 else{ 
 		document.getElementById("1332").style.background = "#0f99e3";
 		custom[0][w_1332][h_1332] = DEAD;
+		grid_1332 = DEAD;
 	}
 }
 var grid_1333 = DEAD;
@@ -19759,6 +21091,7 @@ function _1333() {
 	 else{ 
 		document.getElementById("1333").style.background = "#0f99e3";
 		custom[0][w_1333][h_1333] = DEAD;
+		grid_1333 = DEAD;
 	}
 }
 var grid_1334 = DEAD;
@@ -19773,6 +21106,7 @@ function _1334() {
 	 else{ 
 		document.getElementById("1334").style.background = "#0f99e3";
 		custom[0][w_1334][h_1334] = DEAD;
+		grid_1334 = DEAD;
 	}
 }
 var grid_1335 = DEAD;
@@ -19787,6 +21121,7 @@ function _1335() {
 	 else{ 
 		document.getElementById("1335").style.background = "#0f99e3";
 		custom[0][w_1335][h_1335] = DEAD;
+		grid_1335 = DEAD;
 	}
 }
 var grid_1336 = DEAD;
@@ -19801,6 +21136,7 @@ function _1336() {
 	 else{ 
 		document.getElementById("1336").style.background = "#0f99e3";
 		custom[0][w_1336][h_1336] = DEAD;
+		grid_1336 = DEAD;
 	}
 }
 var grid_1337 = DEAD;
@@ -19815,6 +21151,7 @@ function _1337() {
 	 else{ 
 		document.getElementById("1337").style.background = "#0f99e3";
 		custom[0][w_1337][h_1337] = DEAD;
+		grid_1337 = DEAD;
 	}
 }
 var grid_1338 = DEAD;
@@ -19829,6 +21166,7 @@ function _1338() {
 	 else{ 
 		document.getElementById("1338").style.background = "#0f99e3";
 		custom[0][w_1338][h_1338] = DEAD;
+		grid_1338 = DEAD;
 	}
 }
 var grid_1339 = DEAD;
@@ -19843,6 +21181,7 @@ function _1339() {
 	 else{ 
 		document.getElementById("1339").style.background = "#0f99e3";
 		custom[0][w_1339][h_1339] = DEAD;
+		grid_1339 = DEAD;
 	}
 }
 var grid_1340 = DEAD;
@@ -19857,6 +21196,7 @@ function _1340() {
 	 else{ 
 		document.getElementById("1340").style.background = "#0f99e3";
 		custom[0][w_1340][h_1340] = DEAD;
+		grid_1340 = DEAD;
 	}
 }
 var grid_1341 = DEAD;
@@ -19871,6 +21211,7 @@ function _1341() {
 	 else{ 
 		document.getElementById("1341").style.background = "#0f99e3";
 		custom[0][w_1341][h_1341] = DEAD;
+		grid_1341 = DEAD;
 	}
 }
 var grid_1342 = DEAD;
@@ -19885,6 +21226,7 @@ function _1342() {
 	 else{ 
 		document.getElementById("1342").style.background = "#0f99e3";
 		custom[0][w_1342][h_1342] = DEAD;
+		grid_1342 = DEAD;
 	}
 }
 var grid_1343 = DEAD;
@@ -19899,6 +21241,7 @@ function _1343() {
 	 else{ 
 		document.getElementById("1343").style.background = "#0f99e3";
 		custom[0][w_1343][h_1343] = DEAD;
+		grid_1343 = DEAD;
 	}
 }
 var grid_1344 = DEAD;
@@ -19913,6 +21256,7 @@ function _1344() {
 	 else{ 
 		document.getElementById("1344").style.background = "#0f99e3";
 		custom[0][w_1344][h_1344] = DEAD;
+		grid_1344 = DEAD;
 	}
 }
 var grid_1345 = DEAD;
@@ -19927,6 +21271,7 @@ function _1345() {
 	 else{ 
 		document.getElementById("1345").style.background = "#0f99e3";
 		custom[0][w_1345][h_1345] = DEAD;
+		grid_1345 = DEAD;
 	}
 }
 var grid_1346 = DEAD;
@@ -19941,6 +21286,7 @@ function _1346() {
 	 else{ 
 		document.getElementById("1346").style.background = "#0f99e3";
 		custom[0][w_1346][h_1346] = DEAD;
+		grid_1346 = DEAD;
 	}
 }
 var grid_1347 = DEAD;
@@ -19955,6 +21301,7 @@ function _1347() {
 	 else{ 
 		document.getElementById("1347").style.background = "#0f99e3";
 		custom[0][w_1347][h_1347] = DEAD;
+		grid_1347 = DEAD;
 	}
 }
 var grid_1348 = DEAD;
@@ -19969,6 +21316,7 @@ function _1348() {
 	 else{ 
 		document.getElementById("1348").style.background = "#0f99e3";
 		custom[0][w_1348][h_1348] = DEAD;
+		grid_1348 = DEAD;
 	}
 }
 var grid_1349 = DEAD;
@@ -19983,6 +21331,7 @@ function _1349() {
 	 else{ 
 		document.getElementById("1349").style.background = "#0f99e3";
 		custom[0][w_1349][h_1349] = DEAD;
+		grid_1349 = DEAD;
 	}
 }
 var grid_1350 = DEAD;
@@ -19997,6 +21346,7 @@ function _1350() {
 	 else{ 
 		document.getElementById("1350").style.background = "#0f99e3";
 		custom[0][w_1350][h_1350] = DEAD;
+		grid_1350 = DEAD;
 	}
 }
 var grid_1351 = DEAD;
@@ -20011,6 +21361,7 @@ function _1351() {
 	 else{ 
 		document.getElementById("1351").style.background = "#0f99e3";
 		custom[0][w_1351][h_1351] = DEAD;
+		grid_1351 = DEAD;
 	}
 }
 var grid_1352 = DEAD;
@@ -20025,6 +21376,7 @@ function _1352() {
 	 else{ 
 		document.getElementById("1352").style.background = "#0f99e3";
 		custom[0][w_1352][h_1352] = DEAD;
+		grid_1352 = DEAD;
 	}
 }
 var grid_1353 = DEAD;
@@ -20039,6 +21391,7 @@ function _1353() {
 	 else{ 
 		document.getElementById("1353").style.background = "#0f99e3";
 		custom[0][w_1353][h_1353] = DEAD;
+		grid_1353 = DEAD;
 	}
 }
 var grid_1354 = DEAD;
@@ -20053,6 +21406,7 @@ function _1354() {
 	 else{ 
 		document.getElementById("1354").style.background = "#0f99e3";
 		custom[0][w_1354][h_1354] = DEAD;
+		grid_1354 = DEAD;
 	}
 }
 var grid_1355 = DEAD;
@@ -20067,6 +21421,7 @@ function _1355() {
 	 else{ 
 		document.getElementById("1355").style.background = "#0f99e3";
 		custom[0][w_1355][h_1355] = DEAD;
+		grid_1355 = DEAD;
 	}
 }
 var grid_1356 = DEAD;
@@ -20081,6 +21436,7 @@ function _1356() {
 	 else{ 
 		document.getElementById("1356").style.background = "#0f99e3";
 		custom[0][w_1356][h_1356] = DEAD;
+		grid_1356 = DEAD;
 	}
 }
 var grid_1357 = DEAD;
@@ -20095,6 +21451,7 @@ function _1357() {
 	 else{ 
 		document.getElementById("1357").style.background = "#0f99e3";
 		custom[0][w_1357][h_1357] = DEAD;
+		grid_1357 = DEAD;
 	}
 }
 var grid_1358 = DEAD;
@@ -20109,6 +21466,7 @@ function _1358() {
 	 else{ 
 		document.getElementById("1358").style.background = "#0f99e3";
 		custom[0][w_1358][h_1358] = DEAD;
+		grid_1358 = DEAD;
 	}
 }
 var grid_1359 = DEAD;
@@ -20123,6 +21481,7 @@ function _1359() {
 	 else{ 
 		document.getElementById("1359").style.background = "#0f99e3";
 		custom[0][w_1359][h_1359] = DEAD;
+		grid_1359 = DEAD;
 	}
 }
 var grid_1360 = DEAD;
@@ -20137,6 +21496,7 @@ function _1360() {
 	 else{ 
 		document.getElementById("1360").style.background = "#0f99e3";
 		custom[0][w_1360][h_1360] = DEAD;
+		grid_1360 = DEAD;
 	}
 }
 var grid_1361 = DEAD;
@@ -20151,6 +21511,7 @@ function _1361() {
 	 else{ 
 		document.getElementById("1361").style.background = "#0f99e3";
 		custom[0][w_1361][h_1361] = DEAD;
+		grid_1361 = DEAD;
 	}
 }
 var grid_1362 = DEAD;
@@ -20165,6 +21526,7 @@ function _1362() {
 	 else{ 
 		document.getElementById("1362").style.background = "#0f99e3";
 		custom[0][w_1362][h_1362] = DEAD;
+		grid_1362 = DEAD;
 	}
 }
 var grid_1363 = DEAD;
@@ -20179,6 +21541,7 @@ function _1363() {
 	 else{ 
 		document.getElementById("1363").style.background = "#0f99e3";
 		custom[0][w_1363][h_1363] = DEAD;
+		grid_1363 = DEAD;
 	}
 }
 var grid_1364 = DEAD;
@@ -20193,6 +21556,7 @@ function _1364() {
 	 else{ 
 		document.getElementById("1364").style.background = "#0f99e3";
 		custom[0][w_1364][h_1364] = DEAD;
+		grid_1364 = DEAD;
 	}
 }
 var grid_1365 = DEAD;
@@ -20207,6 +21571,7 @@ function _1365() {
 	 else{ 
 		document.getElementById("1365").style.background = "#0f99e3";
 		custom[0][w_1365][h_1365] = DEAD;
+		grid_1365 = DEAD;
 	}
 }
 var grid_1366 = DEAD;
@@ -20221,6 +21586,7 @@ function _1366() {
 	 else{ 
 		document.getElementById("1366").style.background = "#0f99e3";
 		custom[0][w_1366][h_1366] = DEAD;
+		grid_1366 = DEAD;
 	}
 }
 var grid_1367 = DEAD;
@@ -20235,6 +21601,7 @@ function _1367() {
 	 else{ 
 		document.getElementById("1367").style.background = "#0f99e3";
 		custom[0][w_1367][h_1367] = DEAD;
+		grid_1367 = DEAD;
 	}
 }
 var grid_1368 = DEAD;
@@ -20249,6 +21616,7 @@ function _1368() {
 	 else{ 
 		document.getElementById("1368").style.background = "#0f99e3";
 		custom[0][w_1368][h_1368] = DEAD;
+		grid_1368 = DEAD;
 	}
 }
 var grid_1369 = DEAD;
@@ -20263,6 +21631,7 @@ function _1369() {
 	 else{ 
 		document.getElementById("1369").style.background = "#0f99e3";
 		custom[0][w_1369][h_1369] = DEAD;
+		grid_1369 = DEAD;
 	}
 }
 var grid_1370 = DEAD;
@@ -20277,6 +21646,7 @@ function _1370() {
 	 else{ 
 		document.getElementById("1370").style.background = "#0f99e3";
 		custom[0][w_1370][h_1370] = DEAD;
+		grid_1370 = DEAD;
 	}
 }
 var grid_1371 = DEAD;
@@ -20291,6 +21661,7 @@ function _1371() {
 	 else{ 
 		document.getElementById("1371").style.background = "#0f99e3";
 		custom[0][w_1371][h_1371] = DEAD;
+		grid_1371 = DEAD;
 	}
 }
 var grid_1372 = DEAD;
@@ -20305,6 +21676,7 @@ function _1372() {
 	 else{ 
 		document.getElementById("1372").style.background = "#0f99e3";
 		custom[0][w_1372][h_1372] = DEAD;
+		grid_1372 = DEAD;
 	}
 }
 var grid_1373 = DEAD;
@@ -20319,6 +21691,7 @@ function _1373() {
 	 else{ 
 		document.getElementById("1373").style.background = "#0f99e3";
 		custom[0][w_1373][h_1373] = DEAD;
+		grid_1373 = DEAD;
 	}
 }
 var grid_1374 = DEAD;
@@ -20333,6 +21706,7 @@ function _1374() {
 	 else{ 
 		document.getElementById("1374").style.background = "#0f99e3";
 		custom[0][w_1374][h_1374] = DEAD;
+		grid_1374 = DEAD;
 	}
 }
 var grid_1375 = DEAD;
@@ -20347,6 +21721,7 @@ function _1375() {
 	 else{ 
 		document.getElementById("1375").style.background = "#0f99e3";
 		custom[0][w_1375][h_1375] = DEAD;
+		grid_1375 = DEAD;
 	}
 }
 var grid_1376 = DEAD;
@@ -20361,6 +21736,7 @@ function _1376() {
 	 else{ 
 		document.getElementById("1376").style.background = "#0f99e3";
 		custom[0][w_1376][h_1376] = DEAD;
+		grid_1376 = DEAD;
 	}
 }
 var grid_1377 = DEAD;
@@ -20375,6 +21751,7 @@ function _1377() {
 	 else{ 
 		document.getElementById("1377").style.background = "#0f99e3";
 		custom[0][w_1377][h_1377] = DEAD;
+		grid_1377 = DEAD;
 	}
 }
 var grid_1378 = DEAD;
@@ -20389,6 +21766,7 @@ function _1378() {
 	 else{ 
 		document.getElementById("1378").style.background = "#0f99e3";
 		custom[0][w_1378][h_1378] = DEAD;
+		grid_1378 = DEAD;
 	}
 }
 var grid_1379 = DEAD;
@@ -20403,6 +21781,7 @@ function _1379() {
 	 else{ 
 		document.getElementById("1379").style.background = "#0f99e3";
 		custom[0][w_1379][h_1379] = DEAD;
+		grid_1379 = DEAD;
 	}
 }
 var grid_1380 = DEAD;
@@ -20417,6 +21796,7 @@ function _1380() {
 	 else{ 
 		document.getElementById("1380").style.background = "#0f99e3";
 		custom[0][w_1380][h_1380] = DEAD;
+		grid_1380 = DEAD;
 	}
 }
 var grid_1381 = DEAD;
@@ -20431,6 +21811,7 @@ function _1381() {
 	 else{ 
 		document.getElementById("1381").style.background = "#0f99e3";
 		custom[0][w_1381][h_1381] = DEAD;
+		grid_1381 = DEAD;
 	}
 }
 var grid_1382 = DEAD;
@@ -20445,6 +21826,7 @@ function _1382() {
 	 else{ 
 		document.getElementById("1382").style.background = "#0f99e3";
 		custom[0][w_1382][h_1382] = DEAD;
+		grid_1382 = DEAD;
 	}
 }
 var grid_1383 = DEAD;
@@ -20459,6 +21841,7 @@ function _1383() {
 	 else{ 
 		document.getElementById("1383").style.background = "#0f99e3";
 		custom[0][w_1383][h_1383] = DEAD;
+		grid_1383 = DEAD;
 	}
 }
 var grid_1384 = DEAD;
@@ -20473,6 +21856,7 @@ function _1384() {
 	 else{ 
 		document.getElementById("1384").style.background = "#0f99e3";
 		custom[0][w_1384][h_1384] = DEAD;
+		grid_1384 = DEAD;
 	}
 }
 var grid_1385 = DEAD;
@@ -20487,6 +21871,7 @@ function _1385() {
 	 else{ 
 		document.getElementById("1385").style.background = "#0f99e3";
 		custom[0][w_1385][h_1385] = DEAD;
+		grid_1385 = DEAD;
 	}
 }
 var grid_1386 = DEAD;
@@ -20501,6 +21886,7 @@ function _1386() {
 	 else{ 
 		document.getElementById("1386").style.background = "#0f99e3";
 		custom[0][w_1386][h_1386] = DEAD;
+		grid_1386 = DEAD;
 	}
 }
 var grid_1387 = DEAD;
@@ -20515,6 +21901,7 @@ function _1387() {
 	 else{ 
 		document.getElementById("1387").style.background = "#0f99e3";
 		custom[0][w_1387][h_1387] = DEAD;
+		grid_1387 = DEAD;
 	}
 }
 var grid_1388 = DEAD;
@@ -20529,6 +21916,7 @@ function _1388() {
 	 else{ 
 		document.getElementById("1388").style.background = "#0f99e3";
 		custom[0][w_1388][h_1388] = DEAD;
+		grid_1388 = DEAD;
 	}
 }
 var grid_1389 = DEAD;
@@ -20543,6 +21931,7 @@ function _1389() {
 	 else{ 
 		document.getElementById("1389").style.background = "#0f99e3";
 		custom[0][w_1389][h_1389] = DEAD;
+		grid_1389 = DEAD;
 	}
 }
 var grid_1390 = DEAD;
@@ -20557,6 +21946,7 @@ function _1390() {
 	 else{ 
 		document.getElementById("1390").style.background = "#0f99e3";
 		custom[0][w_1390][h_1390] = DEAD;
+		grid_1390 = DEAD;
 	}
 }
 var grid_1391 = DEAD;
@@ -20571,6 +21961,7 @@ function _1391() {
 	 else{ 
 		document.getElementById("1391").style.background = "#0f99e3";
 		custom[0][w_1391][h_1391] = DEAD;
+		grid_1391 = DEAD;
 	}
 }
 var grid_1392 = DEAD;
@@ -20585,6 +21976,7 @@ function _1392() {
 	 else{ 
 		document.getElementById("1392").style.background = "#0f99e3";
 		custom[0][w_1392][h_1392] = DEAD;
+		grid_1392 = DEAD;
 	}
 }
 var grid_1393 = DEAD;
@@ -20599,6 +21991,7 @@ function _1393() {
 	 else{ 
 		document.getElementById("1393").style.background = "#0f99e3";
 		custom[0][w_1393][h_1393] = DEAD;
+		grid_1393 = DEAD;
 	}
 }
 var grid_1394 = DEAD;
@@ -20613,6 +22006,7 @@ function _1394() {
 	 else{ 
 		document.getElementById("1394").style.background = "#0f99e3";
 		custom[0][w_1394][h_1394] = DEAD;
+		grid_1394 = DEAD;
 	}
 }
 var grid_1395 = DEAD;
@@ -20627,6 +22021,7 @@ function _1395() {
 	 else{ 
 		document.getElementById("1395").style.background = "#0f99e3";
 		custom[0][w_1395][h_1395] = DEAD;
+		grid_1395 = DEAD;
 	}
 }
 var grid_1396 = DEAD;
@@ -20641,6 +22036,7 @@ function _1396() {
 	 else{ 
 		document.getElementById("1396").style.background = "#0f99e3";
 		custom[0][w_1396][h_1396] = DEAD;
+		grid_1396 = DEAD;
 	}
 }
 var grid_1397 = DEAD;
@@ -20655,6 +22051,7 @@ function _1397() {
 	 else{ 
 		document.getElementById("1397").style.background = "#0f99e3";
 		custom[0][w_1397][h_1397] = DEAD;
+		grid_1397 = DEAD;
 	}
 }
 var grid_1398 = DEAD;
@@ -20669,6 +22066,7 @@ function _1398() {
 	 else{ 
 		document.getElementById("1398").style.background = "#0f99e3";
 		custom[0][w_1398][h_1398] = DEAD;
+		grid_1398 = DEAD;
 	}
 }
 var grid_1399 = DEAD;
@@ -20683,6 +22081,7 @@ function _1399() {
 	 else{ 
 		document.getElementById("1399").style.background = "#0f99e3";
 		custom[0][w_1399][h_1399] = DEAD;
+		grid_1399 = DEAD;
 	}
 }
 var grid_1400 = DEAD;
@@ -20697,6 +22096,7 @@ function _1400() {
 	 else{ 
 		document.getElementById("1400").style.background = "#0f99e3";
 		custom[0][w_1400][h_1400] = DEAD;
+		grid_1400 = DEAD;
 	}
 }
 var grid_1401 = DEAD;
@@ -20711,6 +22111,7 @@ function _1401() {
 	 else{ 
 		document.getElementById("1401").style.background = "#0f99e3";
 		custom[0][w_1401][h_1401] = DEAD;
+		grid_1401 = DEAD;
 	}
 }
 var grid_1402 = DEAD;
@@ -20725,6 +22126,7 @@ function _1402() {
 	 else{ 
 		document.getElementById("1402").style.background = "#0f99e3";
 		custom[0][w_1402][h_1402] = DEAD;
+		grid_1402 = DEAD;
 	}
 }
 var grid_1403 = DEAD;
@@ -20739,6 +22141,7 @@ function _1403() {
 	 else{ 
 		document.getElementById("1403").style.background = "#0f99e3";
 		custom[0][w_1403][h_1403] = DEAD;
+		grid_1403 = DEAD;
 	}
 }
 var grid_1404 = DEAD;
@@ -20753,6 +22156,7 @@ function _1404() {
 	 else{ 
 		document.getElementById("1404").style.background = "#0f99e3";
 		custom[0][w_1404][h_1404] = DEAD;
+		grid_1404 = DEAD;
 	}
 }
 var grid_1405 = DEAD;
@@ -20767,6 +22171,7 @@ function _1405() {
 	 else{ 
 		document.getElementById("1405").style.background = "#0f99e3";
 		custom[0][w_1405][h_1405] = DEAD;
+		grid_1405 = DEAD;
 	}
 }
 var grid_1406 = DEAD;
@@ -20781,6 +22186,7 @@ function _1406() {
 	 else{ 
 		document.getElementById("1406").style.background = "#0f99e3";
 		custom[0][w_1406][h_1406] = DEAD;
+		grid_1406 = DEAD;
 	}
 }
 var grid_1407 = DEAD;
@@ -20795,6 +22201,7 @@ function _1407() {
 	 else{ 
 		document.getElementById("1407").style.background = "#0f99e3";
 		custom[0][w_1407][h_1407] = DEAD;
+		grid_1407 = DEAD;
 	}
 }
 var grid_1408 = DEAD;
@@ -20809,6 +22216,7 @@ function _1408() {
 	 else{ 
 		document.getElementById("1408").style.background = "#0f99e3";
 		custom[0][w_1408][h_1408] = DEAD;
+		grid_1408 = DEAD;
 	}
 }
 var grid_1409 = DEAD;
@@ -20823,6 +22231,7 @@ function _1409() {
 	 else{ 
 		document.getElementById("1409").style.background = "#0f99e3";
 		custom[0][w_1409][h_1409] = DEAD;
+		grid_1409 = DEAD;
 	}
 }
 var grid_1410 = DEAD;
@@ -20837,6 +22246,7 @@ function _1410() {
 	 else{ 
 		document.getElementById("1410").style.background = "#0f99e3";
 		custom[0][w_1410][h_1410] = DEAD;
+		grid_1410 = DEAD;
 	}
 }
 var grid_1411 = DEAD;
@@ -20851,6 +22261,7 @@ function _1411() {
 	 else{ 
 		document.getElementById("1411").style.background = "#0f99e3";
 		custom[0][w_1411][h_1411] = DEAD;
+		grid_1411 = DEAD;
 	}
 }
 var grid_1412 = DEAD;
@@ -20865,6 +22276,7 @@ function _1412() {
 	 else{ 
 		document.getElementById("1412").style.background = "#0f99e3";
 		custom[0][w_1412][h_1412] = DEAD;
+		grid_1412 = DEAD;
 	}
 }
 var grid_1413 = DEAD;
@@ -20879,6 +22291,7 @@ function _1413() {
 	 else{ 
 		document.getElementById("1413").style.background = "#0f99e3";
 		custom[0][w_1413][h_1413] = DEAD;
+		grid_1413 = DEAD;
 	}
 }
 var grid_1414 = DEAD;
@@ -20893,6 +22306,7 @@ function _1414() {
 	 else{ 
 		document.getElementById("1414").style.background = "#0f99e3";
 		custom[0][w_1414][h_1414] = DEAD;
+		grid_1414 = DEAD;
 	}
 }
 var grid_1415 = DEAD;
@@ -20907,6 +22321,7 @@ function _1415() {
 	 else{ 
 		document.getElementById("1415").style.background = "#0f99e3";
 		custom[0][w_1415][h_1415] = DEAD;
+		grid_1415 = DEAD;
 	}
 }
 var grid_1416 = DEAD;
@@ -20921,6 +22336,7 @@ function _1416() {
 	 else{ 
 		document.getElementById("1416").style.background = "#0f99e3";
 		custom[0][w_1416][h_1416] = DEAD;
+		grid_1416 = DEAD;
 	}
 }
 var grid_1417 = DEAD;
@@ -20935,6 +22351,7 @@ function _1417() {
 	 else{ 
 		document.getElementById("1417").style.background = "#0f99e3";
 		custom[0][w_1417][h_1417] = DEAD;
+		grid_1417 = DEAD;
 	}
 }
 var grid_1418 = DEAD;
@@ -20949,6 +22366,7 @@ function _1418() {
 	 else{ 
 		document.getElementById("1418").style.background = "#0f99e3";
 		custom[0][w_1418][h_1418] = DEAD;
+		grid_1418 = DEAD;
 	}
 }
 var grid_1419 = DEAD;
@@ -20963,6 +22381,7 @@ function _1419() {
 	 else{ 
 		document.getElementById("1419").style.background = "#0f99e3";
 		custom[0][w_1419][h_1419] = DEAD;
+		grid_1419 = DEAD;
 	}
 }
 var grid_1420 = DEAD;
@@ -20977,6 +22396,7 @@ function _1420() {
 	 else{ 
 		document.getElementById("1420").style.background = "#0f99e3";
 		custom[0][w_1420][h_1420] = DEAD;
+		grid_1420 = DEAD;
 	}
 }
 var grid_1421 = DEAD;
@@ -20991,6 +22411,7 @@ function _1421() {
 	 else{ 
 		document.getElementById("1421").style.background = "#0f99e3";
 		custom[0][w_1421][h_1421] = DEAD;
+		grid_1421 = DEAD;
 	}
 }
 var grid_1422 = DEAD;
@@ -21005,6 +22426,7 @@ function _1422() {
 	 else{ 
 		document.getElementById("1422").style.background = "#0f99e3";
 		custom[0][w_1422][h_1422] = DEAD;
+		grid_1422 = DEAD;
 	}
 }
 var grid_1423 = DEAD;
@@ -21019,6 +22441,7 @@ function _1423() {
 	 else{ 
 		document.getElementById("1423").style.background = "#0f99e3";
 		custom[0][w_1423][h_1423] = DEAD;
+		grid_1423 = DEAD;
 	}
 }
 var grid_1424 = DEAD;
@@ -21033,6 +22456,7 @@ function _1424() {
 	 else{ 
 		document.getElementById("1424").style.background = "#0f99e3";
 		custom[0][w_1424][h_1424] = DEAD;
+		grid_1424 = DEAD;
 	}
 }
 var grid_1425 = DEAD;
@@ -21047,6 +22471,7 @@ function _1425() {
 	 else{ 
 		document.getElementById("1425").style.background = "#0f99e3";
 		custom[0][w_1425][h_1425] = DEAD;
+		grid_1425 = DEAD;
 	}
 }
 var grid_1426 = DEAD;
@@ -21061,6 +22486,7 @@ function _1426() {
 	 else{ 
 		document.getElementById("1426").style.background = "#0f99e3";
 		custom[0][w_1426][h_1426] = DEAD;
+		grid_1426 = DEAD;
 	}
 }
 var grid_1427 = DEAD;
@@ -21075,6 +22501,7 @@ function _1427() {
 	 else{ 
 		document.getElementById("1427").style.background = "#0f99e3";
 		custom[0][w_1427][h_1427] = DEAD;
+		grid_1427 = DEAD;
 	}
 }
 var grid_1428 = DEAD;
@@ -21089,6 +22516,7 @@ function _1428() {
 	 else{ 
 		document.getElementById("1428").style.background = "#0f99e3";
 		custom[0][w_1428][h_1428] = DEAD;
+		grid_1428 = DEAD;
 	}
 }
 var grid_1429 = DEAD;
@@ -21103,6 +22531,7 @@ function _1429() {
 	 else{ 
 		document.getElementById("1429").style.background = "#0f99e3";
 		custom[0][w_1429][h_1429] = DEAD;
+		grid_1429 = DEAD;
 	}
 }
 var grid_1430 = DEAD;
@@ -21117,6 +22546,7 @@ function _1430() {
 	 else{ 
 		document.getElementById("1430").style.background = "#0f99e3";
 		custom[0][w_1430][h_1430] = DEAD;
+		grid_1430 = DEAD;
 	}
 }
 var grid_1431 = DEAD;
@@ -21131,6 +22561,7 @@ function _1431() {
 	 else{ 
 		document.getElementById("1431").style.background = "#0f99e3";
 		custom[0][w_1431][h_1431] = DEAD;
+		grid_1431 = DEAD;
 	}
 }
 var grid_1432 = DEAD;
@@ -21145,6 +22576,7 @@ function _1432() {
 	 else{ 
 		document.getElementById("1432").style.background = "#0f99e3";
 		custom[0][w_1432][h_1432] = DEAD;
+		grid_1432 = DEAD;
 	}
 }
 var grid_1433 = DEAD;
@@ -21159,6 +22591,7 @@ function _1433() {
 	 else{ 
 		document.getElementById("1433").style.background = "#0f99e3";
 		custom[0][w_1433][h_1433] = DEAD;
+		grid_1433 = DEAD;
 	}
 }
 var grid_1434 = DEAD;
@@ -21173,6 +22606,7 @@ function _1434() {
 	 else{ 
 		document.getElementById("1434").style.background = "#0f99e3";
 		custom[0][w_1434][h_1434] = DEAD;
+		grid_1434 = DEAD;
 	}
 }
 var grid_1435 = DEAD;
@@ -21187,6 +22621,7 @@ function _1435() {
 	 else{ 
 		document.getElementById("1435").style.background = "#0f99e3";
 		custom[0][w_1435][h_1435] = DEAD;
+		grid_1435 = DEAD;
 	}
 }
 var grid_1436 = DEAD;
@@ -21201,6 +22636,7 @@ function _1436() {
 	 else{ 
 		document.getElementById("1436").style.background = "#0f99e3";
 		custom[0][w_1436][h_1436] = DEAD;
+		grid_1436 = DEAD;
 	}
 }
 var grid_1437 = DEAD;
@@ -21215,6 +22651,7 @@ function _1437() {
 	 else{ 
 		document.getElementById("1437").style.background = "#0f99e3";
 		custom[0][w_1437][h_1437] = DEAD;
+		grid_1437 = DEAD;
 	}
 }
 var grid_1438 = DEAD;
@@ -21229,6 +22666,7 @@ function _1438() {
 	 else{ 
 		document.getElementById("1438").style.background = "#0f99e3";
 		custom[0][w_1438][h_1438] = DEAD;
+		grid_1438 = DEAD;
 	}
 }
 var grid_1439 = DEAD;
@@ -21243,6 +22681,7 @@ function _1439() {
 	 else{ 
 		document.getElementById("1439").style.background = "#0f99e3";
 		custom[0][w_1439][h_1439] = DEAD;
+		grid_1439 = DEAD;
 	}
 }
 var grid_1440 = DEAD;
@@ -21257,6 +22696,7 @@ function _1440() {
 	 else{ 
 		document.getElementById("1440").style.background = "#0f99e3";
 		custom[0][w_1440][h_1440] = DEAD;
+		grid_1440 = DEAD;
 	}
 }
 var grid_1441 = DEAD;
@@ -21271,6 +22711,7 @@ function _1441() {
 	 else{ 
 		document.getElementById("1441").style.background = "#0f99e3";
 		custom[0][w_1441][h_1441] = DEAD;
+		grid_1441 = DEAD;
 	}
 }
 var grid_1442 = DEAD;
@@ -21285,6 +22726,7 @@ function _1442() {
 	 else{ 
 		document.getElementById("1442").style.background = "#0f99e3";
 		custom[0][w_1442][h_1442] = DEAD;
+		grid_1442 = DEAD;
 	}
 }
 var grid_1443 = DEAD;
@@ -21299,6 +22741,7 @@ function _1443() {
 	 else{ 
 		document.getElementById("1443").style.background = "#0f99e3";
 		custom[0][w_1443][h_1443] = DEAD;
+		grid_1443 = DEAD;
 	}
 }
 var grid_1444 = DEAD;
@@ -21313,6 +22756,7 @@ function _1444() {
 	 else{ 
 		document.getElementById("1444").style.background = "#0f99e3";
 		custom[0][w_1444][h_1444] = DEAD;
+		grid_1444 = DEAD;
 	}
 }
 var grid_1445 = DEAD;
@@ -21327,6 +22771,7 @@ function _1445() {
 	 else{ 
 		document.getElementById("1445").style.background = "#0f99e3";
 		custom[0][w_1445][h_1445] = DEAD;
+		grid_1445 = DEAD;
 	}
 }
 var grid_1446 = DEAD;
@@ -21341,6 +22786,7 @@ function _1446() {
 	 else{ 
 		document.getElementById("1446").style.background = "#0f99e3";
 		custom[0][w_1446][h_1446] = DEAD;
+		grid_1446 = DEAD;
 	}
 }
 var grid_1447 = DEAD;
@@ -21355,6 +22801,7 @@ function _1447() {
 	 else{ 
 		document.getElementById("1447").style.background = "#0f99e3";
 		custom[0][w_1447][h_1447] = DEAD;
+		grid_1447 = DEAD;
 	}
 }
 var grid_1448 = DEAD;
@@ -21369,6 +22816,7 @@ function _1448() {
 	 else{ 
 		document.getElementById("1448").style.background = "#0f99e3";
 		custom[0][w_1448][h_1448] = DEAD;
+		grid_1448 = DEAD;
 	}
 }
 var grid_1449 = DEAD;
@@ -21383,6 +22831,7 @@ function _1449() {
 	 else{ 
 		document.getElementById("1449").style.background = "#0f99e3";
 		custom[0][w_1449][h_1449] = DEAD;
+		grid_1449 = DEAD;
 	}
 }
 var grid_1450 = DEAD;
@@ -21397,6 +22846,7 @@ function _1450() {
 	 else{ 
 		document.getElementById("1450").style.background = "#0f99e3";
 		custom[0][w_1450][h_1450] = DEAD;
+		grid_1450 = DEAD;
 	}
 }
 var grid_1451 = DEAD;
@@ -21411,6 +22861,7 @@ function _1451() {
 	 else{ 
 		document.getElementById("1451").style.background = "#0f99e3";
 		custom[0][w_1451][h_1451] = DEAD;
+		grid_1451 = DEAD;
 	}
 }
 var grid_1452 = DEAD;
@@ -21425,6 +22876,7 @@ function _1452() {
 	 else{ 
 		document.getElementById("1452").style.background = "#0f99e3";
 		custom[0][w_1452][h_1452] = DEAD;
+		grid_1452 = DEAD;
 	}
 }
 var grid_1453 = DEAD;
@@ -21439,6 +22891,7 @@ function _1453() {
 	 else{ 
 		document.getElementById("1453").style.background = "#0f99e3";
 		custom[0][w_1453][h_1453] = DEAD;
+		grid_1453 = DEAD;
 	}
 }
 var grid_1454 = DEAD;
@@ -21453,6 +22906,7 @@ function _1454() {
 	 else{ 
 		document.getElementById("1454").style.background = "#0f99e3";
 		custom[0][w_1454][h_1454] = DEAD;
+		grid_1454 = DEAD;
 	}
 }
 var grid_1455 = DEAD;
@@ -21467,6 +22921,7 @@ function _1455() {
 	 else{ 
 		document.getElementById("1455").style.background = "#0f99e3";
 		custom[0][w_1455][h_1455] = DEAD;
+		grid_1455 = DEAD;
 	}
 }
 var grid_1456 = DEAD;
@@ -21481,6 +22936,7 @@ function _1456() {
 	 else{ 
 		document.getElementById("1456").style.background = "#0f99e3";
 		custom[0][w_1456][h_1456] = DEAD;
+		grid_1456 = DEAD;
 	}
 }
 var grid_1457 = DEAD;
@@ -21495,6 +22951,7 @@ function _1457() {
 	 else{ 
 		document.getElementById("1457").style.background = "#0f99e3";
 		custom[0][w_1457][h_1457] = DEAD;
+		grid_1457 = DEAD;
 	}
 }
 var grid_1458 = DEAD;
@@ -21509,6 +22966,7 @@ function _1458() {
 	 else{ 
 		document.getElementById("1458").style.background = "#0f99e3";
 		custom[0][w_1458][h_1458] = DEAD;
+		grid_1458 = DEAD;
 	}
 }
 var grid_1459 = DEAD;
@@ -21523,6 +22981,7 @@ function _1459() {
 	 else{ 
 		document.getElementById("1459").style.background = "#0f99e3";
 		custom[0][w_1459][h_1459] = DEAD;
+		grid_1459 = DEAD;
 	}
 }
 var grid_1460 = DEAD;
@@ -21537,6 +22996,7 @@ function _1460() {
 	 else{ 
 		document.getElementById("1460").style.background = "#0f99e3";
 		custom[0][w_1460][h_1460] = DEAD;
+		grid_1460 = DEAD;
 	}
 }
 var grid_1461 = DEAD;
@@ -21551,6 +23011,7 @@ function _1461() {
 	 else{ 
 		document.getElementById("1461").style.background = "#0f99e3";
 		custom[0][w_1461][h_1461] = DEAD;
+		grid_1461 = DEAD;
 	}
 }
 var grid_1462 = DEAD;
@@ -21565,6 +23026,7 @@ function _1462() {
 	 else{ 
 		document.getElementById("1462").style.background = "#0f99e3";
 		custom[0][w_1462][h_1462] = DEAD;
+		grid_1462 = DEAD;
 	}
 }
 var grid_1463 = DEAD;
@@ -21579,6 +23041,7 @@ function _1463() {
 	 else{ 
 		document.getElementById("1463").style.background = "#0f99e3";
 		custom[0][w_1463][h_1463] = DEAD;
+		grid_1463 = DEAD;
 	}
 }
 var grid_1464 = DEAD;
@@ -21593,6 +23056,7 @@ function _1464() {
 	 else{ 
 		document.getElementById("1464").style.background = "#0f99e3";
 		custom[0][w_1464][h_1464] = DEAD;
+		grid_1464 = DEAD;
 	}
 }
 var grid_1465 = DEAD;
@@ -21607,6 +23071,7 @@ function _1465() {
 	 else{ 
 		document.getElementById("1465").style.background = "#0f99e3";
 		custom[0][w_1465][h_1465] = DEAD;
+		grid_1465 = DEAD;
 	}
 }
 var grid_1466 = DEAD;
@@ -21621,6 +23086,7 @@ function _1466() {
 	 else{ 
 		document.getElementById("1466").style.background = "#0f99e3";
 		custom[0][w_1466][h_1466] = DEAD;
+		grid_1466 = DEAD;
 	}
 }
 var grid_1467 = DEAD;
@@ -21635,6 +23101,7 @@ function _1467() {
 	 else{ 
 		document.getElementById("1467").style.background = "#0f99e3";
 		custom[0][w_1467][h_1467] = DEAD;
+		grid_1467 = DEAD;
 	}
 }
 var grid_1468 = DEAD;
@@ -21649,6 +23116,7 @@ function _1468() {
 	 else{ 
 		document.getElementById("1468").style.background = "#0f99e3";
 		custom[0][w_1468][h_1468] = DEAD;
+		grid_1468 = DEAD;
 	}
 }
 var grid_1469 = DEAD;
@@ -21663,6 +23131,7 @@ function _1469() {
 	 else{ 
 		document.getElementById("1469").style.background = "#0f99e3";
 		custom[0][w_1469][h_1469] = DEAD;
+		grid_1469 = DEAD;
 	}
 }
 var grid_1470 = DEAD;
@@ -21677,6 +23146,7 @@ function _1470() {
 	 else{ 
 		document.getElementById("1470").style.background = "#0f99e3";
 		custom[0][w_1470][h_1470] = DEAD;
+		grid_1470 = DEAD;
 	}
 }
 var grid_1471 = DEAD;
@@ -21691,6 +23161,7 @@ function _1471() {
 	 else{ 
 		document.getElementById("1471").style.background = "#0f99e3";
 		custom[0][w_1471][h_1471] = DEAD;
+		grid_1471 = DEAD;
 	}
 }
 var grid_1472 = DEAD;
@@ -21705,6 +23176,7 @@ function _1472() {
 	 else{ 
 		document.getElementById("1472").style.background = "#0f99e3";
 		custom[0][w_1472][h_1472] = DEAD;
+		grid_1472 = DEAD;
 	}
 }
 var grid_1473 = DEAD;
@@ -21719,6 +23191,7 @@ function _1473() {
 	 else{ 
 		document.getElementById("1473").style.background = "#0f99e3";
 		custom[0][w_1473][h_1473] = DEAD;
+		grid_1473 = DEAD;
 	}
 }
 var grid_1474 = DEAD;
@@ -21733,6 +23206,7 @@ function _1474() {
 	 else{ 
 		document.getElementById("1474").style.background = "#0f99e3";
 		custom[0][w_1474][h_1474] = DEAD;
+		grid_1474 = DEAD;
 	}
 }
 var grid_1475 = DEAD;
@@ -21747,6 +23221,7 @@ function _1475() {
 	 else{ 
 		document.getElementById("1475").style.background = "#0f99e3";
 		custom[0][w_1475][h_1475] = DEAD;
+		grid_1475 = DEAD;
 	}
 }
 var grid_1476 = DEAD;
@@ -21761,6 +23236,7 @@ function _1476() {
 	 else{ 
 		document.getElementById("1476").style.background = "#0f99e3";
 		custom[0][w_1476][h_1476] = DEAD;
+		grid_1476 = DEAD;
 	}
 }
 var grid_1477 = DEAD;
@@ -21775,6 +23251,7 @@ function _1477() {
 	 else{ 
 		document.getElementById("1477").style.background = "#0f99e3";
 		custom[0][w_1477][h_1477] = DEAD;
+		grid_1477 = DEAD;
 	}
 }
 var grid_1478 = DEAD;
@@ -21789,6 +23266,7 @@ function _1478() {
 	 else{ 
 		document.getElementById("1478").style.background = "#0f99e3";
 		custom[0][w_1478][h_1478] = DEAD;
+		grid_1478 = DEAD;
 	}
 }
 var grid_1479 = DEAD;
@@ -21803,6 +23281,7 @@ function _1479() {
 	 else{ 
 		document.getElementById("1479").style.background = "#0f99e3";
 		custom[0][w_1479][h_1479] = DEAD;
+		grid_1479 = DEAD;
 	}
 }
 var grid_1480 = DEAD;
@@ -21817,6 +23296,7 @@ function _1480() {
 	 else{ 
 		document.getElementById("1480").style.background = "#0f99e3";
 		custom[0][w_1480][h_1480] = DEAD;
+		grid_1480 = DEAD;
 	}
 }
 var grid_1481 = DEAD;
@@ -21831,6 +23311,7 @@ function _1481() {
 	 else{ 
 		document.getElementById("1481").style.background = "#0f99e3";
 		custom[0][w_1481][h_1481] = DEAD;
+		grid_1481 = DEAD;
 	}
 }
 var grid_1482 = DEAD;
@@ -21845,6 +23326,7 @@ function _1482() {
 	 else{ 
 		document.getElementById("1482").style.background = "#0f99e3";
 		custom[0][w_1482][h_1482] = DEAD;
+		grid_1482 = DEAD;
 	}
 }
 var grid_1483 = DEAD;
@@ -21859,6 +23341,7 @@ function _1483() {
 	 else{ 
 		document.getElementById("1483").style.background = "#0f99e3";
 		custom[0][w_1483][h_1483] = DEAD;
+		grid_1483 = DEAD;
 	}
 }
 var grid_1484 = DEAD;
@@ -21873,6 +23356,7 @@ function _1484() {
 	 else{ 
 		document.getElementById("1484").style.background = "#0f99e3";
 		custom[0][w_1484][h_1484] = DEAD;
+		grid_1484 = DEAD;
 	}
 }
 var grid_1485 = DEAD;
@@ -21887,6 +23371,7 @@ function _1485() {
 	 else{ 
 		document.getElementById("1485").style.background = "#0f99e3";
 		custom[0][w_1485][h_1485] = DEAD;
+		grid_1485 = DEAD;
 	}
 }
 var grid_1486 = DEAD;
@@ -21901,6 +23386,7 @@ function _1486() {
 	 else{ 
 		document.getElementById("1486").style.background = "#0f99e3";
 		custom[0][w_1486][h_1486] = DEAD;
+		grid_1486 = DEAD;
 	}
 }
 var grid_1487 = DEAD;
@@ -21915,6 +23401,7 @@ function _1487() {
 	 else{ 
 		document.getElementById("1487").style.background = "#0f99e3";
 		custom[0][w_1487][h_1487] = DEAD;
+		grid_1487 = DEAD;
 	}
 }
 var grid_1488 = DEAD;
@@ -21929,6 +23416,7 @@ function _1488() {
 	 else{ 
 		document.getElementById("1488").style.background = "#0f99e3";
 		custom[0][w_1488][h_1488] = DEAD;
+		grid_1488 = DEAD;
 	}
 }
 var grid_1489 = DEAD;
@@ -21943,6 +23431,7 @@ function _1489() {
 	 else{ 
 		document.getElementById("1489").style.background = "#0f99e3";
 		custom[0][w_1489][h_1489] = DEAD;
+		grid_1489 = DEAD;
 	}
 }
 var grid_1490 = DEAD;
@@ -21957,6 +23446,7 @@ function _1490() {
 	 else{ 
 		document.getElementById("1490").style.background = "#0f99e3";
 		custom[0][w_1490][h_1490] = DEAD;
+		grid_1490 = DEAD;
 	}
 }
 var grid_1491 = DEAD;
@@ -21971,6 +23461,7 @@ function _1491() {
 	 else{ 
 		document.getElementById("1491").style.background = "#0f99e3";
 		custom[0][w_1491][h_1491] = DEAD;
+		grid_1491 = DEAD;
 	}
 }
 var grid_1492 = DEAD;
@@ -21985,6 +23476,7 @@ function _1492() {
 	 else{ 
 		document.getElementById("1492").style.background = "#0f99e3";
 		custom[0][w_1492][h_1492] = DEAD;
+		grid_1492 = DEAD;
 	}
 }
 var grid_1493 = DEAD;
@@ -21999,6 +23491,7 @@ function _1493() {
 	 else{ 
 		document.getElementById("1493").style.background = "#0f99e3";
 		custom[0][w_1493][h_1493] = DEAD;
+		grid_1493 = DEAD;
 	}
 }
 var grid_1494 = DEAD;
@@ -22013,6 +23506,7 @@ function _1494() {
 	 else{ 
 		document.getElementById("1494").style.background = "#0f99e3";
 		custom[0][w_1494][h_1494] = DEAD;
+		grid_1494 = DEAD;
 	}
 }
 var grid_1495 = DEAD;
@@ -22027,6 +23521,7 @@ function _1495() {
 	 else{ 
 		document.getElementById("1495").style.background = "#0f99e3";
 		custom[0][w_1495][h_1495] = DEAD;
+		grid_1495 = DEAD;
 	}
 }
 var grid_1496 = DEAD;
@@ -22041,6 +23536,7 @@ function _1496() {
 	 else{ 
 		document.getElementById("1496").style.background = "#0f99e3";
 		custom[0][w_1496][h_1496] = DEAD;
+		grid_1496 = DEAD;
 	}
 }
 var grid_1497 = DEAD;
@@ -22055,6 +23551,7 @@ function _1497() {
 	 else{ 
 		document.getElementById("1497").style.background = "#0f99e3";
 		custom[0][w_1497][h_1497] = DEAD;
+		grid_1497 = DEAD;
 	}
 }
 var grid_1498 = DEAD;
@@ -22069,6 +23566,7 @@ function _1498() {
 	 else{ 
 		document.getElementById("1498").style.background = "#0f99e3";
 		custom[0][w_1498][h_1498] = DEAD;
+		grid_1498 = DEAD;
 	}
 }
 var grid_1499 = DEAD;
@@ -22083,6 +23581,7 @@ function _1499() {
 	 else{ 
 		document.getElementById("1499").style.background = "#0f99e3";
 		custom[0][w_1499][h_1499] = DEAD;
+		grid_1499 = DEAD;
 	}
 }
 var grid_1500 = DEAD;
@@ -22097,6 +23596,7 @@ function _1500() {
 	 else{ 
 		document.getElementById("1500").style.background = "#0f99e3";
 		custom[0][w_1500][h_1500] = DEAD;
+		grid_1500 = DEAD;
 	}
 }
 var grid_1501 = DEAD;
@@ -22111,6 +23611,7 @@ function _1501() {
 	 else{ 
 		document.getElementById("1501").style.background = "#0f99e3";
 		custom[0][w_1501][h_1501] = DEAD;
+		grid_1501 = DEAD;
 	}
 }
 var grid_1502 = DEAD;
@@ -22125,6 +23626,7 @@ function _1502() {
 	 else{ 
 		document.getElementById("1502").style.background = "#0f99e3";
 		custom[0][w_1502][h_1502] = DEAD;
+		grid_1502 = DEAD;
 	}
 }
 var grid_1503 = DEAD;
@@ -22139,6 +23641,7 @@ function _1503() {
 	 else{ 
 		document.getElementById("1503").style.background = "#0f99e3";
 		custom[0][w_1503][h_1503] = DEAD;
+		grid_1503 = DEAD;
 	}
 }
 var grid_1504 = DEAD;
@@ -22153,6 +23656,7 @@ function _1504() {
 	 else{ 
 		document.getElementById("1504").style.background = "#0f99e3";
 		custom[0][w_1504][h_1504] = DEAD;
+		grid_1504 = DEAD;
 	}
 }
 var grid_1505 = DEAD;
@@ -22167,6 +23671,7 @@ function _1505() {
 	 else{ 
 		document.getElementById("1505").style.background = "#0f99e3";
 		custom[0][w_1505][h_1505] = DEAD;
+		grid_1505 = DEAD;
 	}
 }
 var grid_1506 = DEAD;
@@ -22181,6 +23686,7 @@ function _1506() {
 	 else{ 
 		document.getElementById("1506").style.background = "#0f99e3";
 		custom[0][w_1506][h_1506] = DEAD;
+		grid_1506 = DEAD;
 	}
 }
 var grid_1507 = DEAD;
@@ -22195,6 +23701,7 @@ function _1507() {
 	 else{ 
 		document.getElementById("1507").style.background = "#0f99e3";
 		custom[0][w_1507][h_1507] = DEAD;
+		grid_1507 = DEAD;
 	}
 }
 var grid_1508 = DEAD;
@@ -22209,6 +23716,7 @@ function _1508() {
 	 else{ 
 		document.getElementById("1508").style.background = "#0f99e3";
 		custom[0][w_1508][h_1508] = DEAD;
+		grid_1508 = DEAD;
 	}
 }
 var grid_1509 = DEAD;
@@ -22223,6 +23731,7 @@ function _1509() {
 	 else{ 
 		document.getElementById("1509").style.background = "#0f99e3";
 		custom[0][w_1509][h_1509] = DEAD;
+		grid_1509 = DEAD;
 	}
 }
 var grid_1510 = DEAD;
@@ -22237,6 +23746,7 @@ function _1510() {
 	 else{ 
 		document.getElementById("1510").style.background = "#0f99e3";
 		custom[0][w_1510][h_1510] = DEAD;
+		grid_1510 = DEAD;
 	}
 }
 var grid_1511 = DEAD;
@@ -22251,6 +23761,7 @@ function _1511() {
 	 else{ 
 		document.getElementById("1511").style.background = "#0f99e3";
 		custom[0][w_1511][h_1511] = DEAD;
+		grid_1511 = DEAD;
 	}
 }
 var grid_1512 = DEAD;
@@ -22265,6 +23776,7 @@ function _1512() {
 	 else{ 
 		document.getElementById("1512").style.background = "#0f99e3";
 		custom[0][w_1512][h_1512] = DEAD;
+		grid_1512 = DEAD;
 	}
 }
 var grid_1513 = DEAD;
@@ -22279,6 +23791,7 @@ function _1513() {
 	 else{ 
 		document.getElementById("1513").style.background = "#0f99e3";
 		custom[0][w_1513][h_1513] = DEAD;
+		grid_1513 = DEAD;
 	}
 }
 var grid_1514 = DEAD;
@@ -22293,6 +23806,7 @@ function _1514() {
 	 else{ 
 		document.getElementById("1514").style.background = "#0f99e3";
 		custom[0][w_1514][h_1514] = DEAD;
+		grid_1514 = DEAD;
 	}
 }
 var grid_1515 = DEAD;
@@ -22307,6 +23821,7 @@ function _1515() {
 	 else{ 
 		document.getElementById("1515").style.background = "#0f99e3";
 		custom[0][w_1515][h_1515] = DEAD;
+		grid_1515 = DEAD;
 	}
 }
 var grid_1516 = DEAD;
@@ -22321,6 +23836,7 @@ function _1516() {
 	 else{ 
 		document.getElementById("1516").style.background = "#0f99e3";
 		custom[0][w_1516][h_1516] = DEAD;
+		grid_1516 = DEAD;
 	}
 }
 var grid_1517 = DEAD;
@@ -22335,6 +23851,7 @@ function _1517() {
 	 else{ 
 		document.getElementById("1517").style.background = "#0f99e3";
 		custom[0][w_1517][h_1517] = DEAD;
+		grid_1517 = DEAD;
 	}
 }
 var grid_1518 = DEAD;
@@ -22349,6 +23866,7 @@ function _1518() {
 	 else{ 
 		document.getElementById("1518").style.background = "#0f99e3";
 		custom[0][w_1518][h_1518] = DEAD;
+		grid_1518 = DEAD;
 	}
 }
 var grid_1519 = DEAD;
@@ -22363,6 +23881,7 @@ function _1519() {
 	 else{ 
 		document.getElementById("1519").style.background = "#0f99e3";
 		custom[0][w_1519][h_1519] = DEAD;
+		grid_1519 = DEAD;
 	}
 }
 var grid_1520 = DEAD;
@@ -22377,6 +23896,7 @@ function _1520() {
 	 else{ 
 		document.getElementById("1520").style.background = "#0f99e3";
 		custom[0][w_1520][h_1520] = DEAD;
+		grid_1520 = DEAD;
 	}
 }
 var grid_1521 = DEAD;
@@ -22391,6 +23911,7 @@ function _1521() {
 	 else{ 
 		document.getElementById("1521").style.background = "#0f99e3";
 		custom[0][w_1521][h_1521] = DEAD;
+		grid_1521 = DEAD;
 	}
 }
 var grid_1522 = DEAD;
@@ -22405,6 +23926,7 @@ function _1522() {
 	 else{ 
 		document.getElementById("1522").style.background = "#0f99e3";
 		custom[0][w_1522][h_1522] = DEAD;
+		grid_1522 = DEAD;
 	}
 }
 var grid_1523 = DEAD;
@@ -22419,6 +23941,7 @@ function _1523() {
 	 else{ 
 		document.getElementById("1523").style.background = "#0f99e3";
 		custom[0][w_1523][h_1523] = DEAD;
+		grid_1523 = DEAD;
 	}
 }
 var grid_1524 = DEAD;
@@ -22433,6 +23956,7 @@ function _1524() {
 	 else{ 
 		document.getElementById("1524").style.background = "#0f99e3";
 		custom[0][w_1524][h_1524] = DEAD;
+		grid_1524 = DEAD;
 	}
 }
 var grid_1525 = DEAD;
@@ -22447,6 +23971,7 @@ function _1525() {
 	 else{ 
 		document.getElementById("1525").style.background = "#0f99e3";
 		custom[0][w_1525][h_1525] = DEAD;
+		grid_1525 = DEAD;
 	}
 }
 var grid_1526 = DEAD;
@@ -22461,6 +23986,7 @@ function _1526() {
 	 else{ 
 		document.getElementById("1526").style.background = "#0f99e3";
 		custom[0][w_1526][h_1526] = DEAD;
+		grid_1526 = DEAD;
 	}
 }
 var grid_1527 = DEAD;
@@ -22475,6 +24001,7 @@ function _1527() {
 	 else{ 
 		document.getElementById("1527").style.background = "#0f99e3";
 		custom[0][w_1527][h_1527] = DEAD;
+		grid_1527 = DEAD;
 	}
 }
 var grid_1528 = DEAD;
@@ -22489,6 +24016,7 @@ function _1528() {
 	 else{ 
 		document.getElementById("1528").style.background = "#0f99e3";
 		custom[0][w_1528][h_1528] = DEAD;
+		grid_1528 = DEAD;
 	}
 }
 var grid_1529 = DEAD;
@@ -22503,6 +24031,7 @@ function _1529() {
 	 else{ 
 		document.getElementById("1529").style.background = "#0f99e3";
 		custom[0][w_1529][h_1529] = DEAD;
+		grid_1529 = DEAD;
 	}
 }
 var grid_1530 = DEAD;
@@ -22517,6 +24046,7 @@ function _1530() {
 	 else{ 
 		document.getElementById("1530").style.background = "#0f99e3";
 		custom[0][w_1530][h_1530] = DEAD;
+		grid_1530 = DEAD;
 	}
 }
 var grid_1531 = DEAD;
@@ -22531,6 +24061,7 @@ function _1531() {
 	 else{ 
 		document.getElementById("1531").style.background = "#0f99e3";
 		custom[0][w_1531][h_1531] = DEAD;
+		grid_1531 = DEAD;
 	}
 }
 var grid_1532 = DEAD;
@@ -22545,6 +24076,7 @@ function _1532() {
 	 else{ 
 		document.getElementById("1532").style.background = "#0f99e3";
 		custom[0][w_1532][h_1532] = DEAD;
+		grid_1532 = DEAD;
 	}
 }
 var grid_1533 = DEAD;
@@ -22559,6 +24091,7 @@ function _1533() {
 	 else{ 
 		document.getElementById("1533").style.background = "#0f99e3";
 		custom[0][w_1533][h_1533] = DEAD;
+		grid_1533 = DEAD;
 	}
 }
 var grid_1534 = DEAD;
@@ -22573,6 +24106,7 @@ function _1534() {
 	 else{ 
 		document.getElementById("1534").style.background = "#0f99e3";
 		custom[0][w_1534][h_1534] = DEAD;
+		grid_1534 = DEAD;
 	}
 }
 var grid_1535 = DEAD;
@@ -22587,6 +24121,7 @@ function _1535() {
 	 else{ 
 		document.getElementById("1535").style.background = "#0f99e3";
 		custom[0][w_1535][h_1535] = DEAD;
+		grid_1535 = DEAD;
 	}
 }
 var grid_1536 = DEAD;
@@ -22601,6 +24136,7 @@ function _1536() {
 	 else{ 
 		document.getElementById("1536").style.background = "#0f99e3";
 		custom[0][w_1536][h_1536] = DEAD;
+		grid_1536 = DEAD;
 	}
 }
 var grid_1537 = DEAD;
@@ -22615,6 +24151,7 @@ function _1537() {
 	 else{ 
 		document.getElementById("1537").style.background = "#0f99e3";
 		custom[0][w_1537][h_1537] = DEAD;
+		grid_1537 = DEAD;
 	}
 }
 var grid_1538 = DEAD;
@@ -22629,6 +24166,7 @@ function _1538() {
 	 else{ 
 		document.getElementById("1538").style.background = "#0f99e3";
 		custom[0][w_1538][h_1538] = DEAD;
+		grid_1538 = DEAD;
 	}
 }
 var grid_1539 = DEAD;
@@ -22643,6 +24181,7 @@ function _1539() {
 	 else{ 
 		document.getElementById("1539").style.background = "#0f99e3";
 		custom[0][w_1539][h_1539] = DEAD;
+		grid_1539 = DEAD;
 	}
 }
 var grid_1540 = DEAD;
@@ -22657,6 +24196,7 @@ function _1540() {
 	 else{ 
 		document.getElementById("1540").style.background = "#0f99e3";
 		custom[0][w_1540][h_1540] = DEAD;
+		grid_1540 = DEAD;
 	}
 }
 var grid_1541 = DEAD;
@@ -22671,6 +24211,7 @@ function _1541() {
 	 else{ 
 		document.getElementById("1541").style.background = "#0f99e3";
 		custom[0][w_1541][h_1541] = DEAD;
+		grid_1541 = DEAD;
 	}
 }
 var grid_1542 = DEAD;
@@ -22685,6 +24226,7 @@ function _1542() {
 	 else{ 
 		document.getElementById("1542").style.background = "#0f99e3";
 		custom[0][w_1542][h_1542] = DEAD;
+		grid_1542 = DEAD;
 	}
 }
 var grid_1543 = DEAD;
@@ -22699,6 +24241,7 @@ function _1543() {
 	 else{ 
 		document.getElementById("1543").style.background = "#0f99e3";
 		custom[0][w_1543][h_1543] = DEAD;
+		grid_1543 = DEAD;
 	}
 }
 var grid_1544 = DEAD;
@@ -22713,6 +24256,7 @@ function _1544() {
 	 else{ 
 		document.getElementById("1544").style.background = "#0f99e3";
 		custom[0][w_1544][h_1544] = DEAD;
+		grid_1544 = DEAD;
 	}
 }
 var grid_1545 = DEAD;
@@ -22727,6 +24271,7 @@ function _1545() {
 	 else{ 
 		document.getElementById("1545").style.background = "#0f99e3";
 		custom[0][w_1545][h_1545] = DEAD;
+		grid_1545 = DEAD;
 	}
 }
 var grid_1546 = DEAD;
@@ -22741,6 +24286,7 @@ function _1546() {
 	 else{ 
 		document.getElementById("1546").style.background = "#0f99e3";
 		custom[0][w_1546][h_1546] = DEAD;
+		grid_1546 = DEAD;
 	}
 }
 var grid_1547 = DEAD;
@@ -22755,6 +24301,7 @@ function _1547() {
 	 else{ 
 		document.getElementById("1547").style.background = "#0f99e3";
 		custom[0][w_1547][h_1547] = DEAD;
+		grid_1547 = DEAD;
 	}
 }
 var grid_1548 = DEAD;
@@ -22769,6 +24316,7 @@ function _1548() {
 	 else{ 
 		document.getElementById("1548").style.background = "#0f99e3";
 		custom[0][w_1548][h_1548] = DEAD;
+		grid_1548 = DEAD;
 	}
 }
 var grid_1549 = DEAD;
@@ -22783,6 +24331,7 @@ function _1549() {
 	 else{ 
 		document.getElementById("1549").style.background = "#0f99e3";
 		custom[0][w_1549][h_1549] = DEAD;
+		grid_1549 = DEAD;
 	}
 }
 var grid_1550 = DEAD;
@@ -22797,6 +24346,7 @@ function _1550() {
 	 else{ 
 		document.getElementById("1550").style.background = "#0f99e3";
 		custom[0][w_1550][h_1550] = DEAD;
+		grid_1550 = DEAD;
 	}
 }
 var grid_1551 = DEAD;
@@ -22811,6 +24361,7 @@ function _1551() {
 	 else{ 
 		document.getElementById("1551").style.background = "#0f99e3";
 		custom[0][w_1551][h_1551] = DEAD;
+		grid_1551 = DEAD;
 	}
 }
 var grid_1552 = DEAD;
@@ -22825,6 +24376,7 @@ function _1552() {
 	 else{ 
 		document.getElementById("1552").style.background = "#0f99e3";
 		custom[0][w_1552][h_1552] = DEAD;
+		grid_1552 = DEAD;
 	}
 }
 var grid_1553 = DEAD;
@@ -22839,6 +24391,7 @@ function _1553() {
 	 else{ 
 		document.getElementById("1553").style.background = "#0f99e3";
 		custom[0][w_1553][h_1553] = DEAD;
+		grid_1553 = DEAD;
 	}
 }
 var grid_1554 = DEAD;
@@ -22853,6 +24406,7 @@ function _1554() {
 	 else{ 
 		document.getElementById("1554").style.background = "#0f99e3";
 		custom[0][w_1554][h_1554] = DEAD;
+		grid_1554 = DEAD;
 	}
 }
 var grid_1555 = DEAD;
@@ -22867,6 +24421,7 @@ function _1555() {
 	 else{ 
 		document.getElementById("1555").style.background = "#0f99e3";
 		custom[0][w_1555][h_1555] = DEAD;
+		grid_1555 = DEAD;
 	}
 }
 var grid_1556 = DEAD;
@@ -22881,6 +24436,7 @@ function _1556() {
 	 else{ 
 		document.getElementById("1556").style.background = "#0f99e3";
 		custom[0][w_1556][h_1556] = DEAD;
+		grid_1556 = DEAD;
 	}
 }
 var grid_1557 = DEAD;
@@ -22895,6 +24451,7 @@ function _1557() {
 	 else{ 
 		document.getElementById("1557").style.background = "#0f99e3";
 		custom[0][w_1557][h_1557] = DEAD;
+		grid_1557 = DEAD;
 	}
 }
 var grid_1558 = DEAD;
@@ -22909,6 +24466,7 @@ function _1558() {
 	 else{ 
 		document.getElementById("1558").style.background = "#0f99e3";
 		custom[0][w_1558][h_1558] = DEAD;
+		grid_1558 = DEAD;
 	}
 }
 var grid_1559 = DEAD;
@@ -22923,6 +24481,7 @@ function _1559() {
 	 else{ 
 		document.getElementById("1559").style.background = "#0f99e3";
 		custom[0][w_1559][h_1559] = DEAD;
+		grid_1559 = DEAD;
 	}
 }
 var grid_1560 = DEAD;
@@ -22937,6 +24496,7 @@ function _1560() {
 	 else{ 
 		document.getElementById("1560").style.background = "#0f99e3";
 		custom[0][w_1560][h_1560] = DEAD;
+		grid_1560 = DEAD;
 	}
 }
 var grid_1561 = DEAD;
@@ -22951,6 +24511,7 @@ function _1561() {
 	 else{ 
 		document.getElementById("1561").style.background = "#0f99e3";
 		custom[0][w_1561][h_1561] = DEAD;
+		grid_1561 = DEAD;
 	}
 }
 var grid_1562 = DEAD;
@@ -22965,6 +24526,7 @@ function _1562() {
 	 else{ 
 		document.getElementById("1562").style.background = "#0f99e3";
 		custom[0][w_1562][h_1562] = DEAD;
+		grid_1562 = DEAD;
 	}
 }
 var grid_1563 = DEAD;
@@ -22979,6 +24541,7 @@ function _1563() {
 	 else{ 
 		document.getElementById("1563").style.background = "#0f99e3";
 		custom[0][w_1563][h_1563] = DEAD;
+		grid_1563 = DEAD;
 	}
 }
 var grid_1564 = DEAD;
@@ -22993,6 +24556,7 @@ function _1564() {
 	 else{ 
 		document.getElementById("1564").style.background = "#0f99e3";
 		custom[0][w_1564][h_1564] = DEAD;
+		grid_1564 = DEAD;
 	}
 }
 var grid_1565 = DEAD;
@@ -23007,6 +24571,7 @@ function _1565() {
 	 else{ 
 		document.getElementById("1565").style.background = "#0f99e3";
 		custom[0][w_1565][h_1565] = DEAD;
+		grid_1565 = DEAD;
 	}
 }
 var grid_1566 = DEAD;
@@ -23021,6 +24586,7 @@ function _1566() {
 	 else{ 
 		document.getElementById("1566").style.background = "#0f99e3";
 		custom[0][w_1566][h_1566] = DEAD;
+		grid_1566 = DEAD;
 	}
 }
 var grid_1567 = DEAD;
@@ -23035,6 +24601,7 @@ function _1567() {
 	 else{ 
 		document.getElementById("1567").style.background = "#0f99e3";
 		custom[0][w_1567][h_1567] = DEAD;
+		grid_1567 = DEAD;
 	}
 }
 var grid_1568 = DEAD;
@@ -23049,6 +24616,7 @@ function _1568() {
 	 else{ 
 		document.getElementById("1568").style.background = "#0f99e3";
 		custom[0][w_1568][h_1568] = DEAD;
+		grid_1568 = DEAD;
 	}
 }
 var grid_1569 = DEAD;
@@ -23063,6 +24631,7 @@ function _1569() {
 	 else{ 
 		document.getElementById("1569").style.background = "#0f99e3";
 		custom[0][w_1569][h_1569] = DEAD;
+		grid_1569 = DEAD;
 	}
 }
 var grid_1570 = DEAD;
@@ -23077,6 +24646,7 @@ function _1570() {
 	 else{ 
 		document.getElementById("1570").style.background = "#0f99e3";
 		custom[0][w_1570][h_1570] = DEAD;
+		grid_1570 = DEAD;
 	}
 }
 var grid_1571 = DEAD;
@@ -23091,6 +24661,7 @@ function _1571() {
 	 else{ 
 		document.getElementById("1571").style.background = "#0f99e3";
 		custom[0][w_1571][h_1571] = DEAD;
+		grid_1571 = DEAD;
 	}
 }
 var grid_1572 = DEAD;
@@ -23105,6 +24676,7 @@ function _1572() {
 	 else{ 
 		document.getElementById("1572").style.background = "#0f99e3";
 		custom[0][w_1572][h_1572] = DEAD;
+		grid_1572 = DEAD;
 	}
 }
 var grid_1573 = DEAD;
@@ -23119,6 +24691,7 @@ function _1573() {
 	 else{ 
 		document.getElementById("1573").style.background = "#0f99e3";
 		custom[0][w_1573][h_1573] = DEAD;
+		grid_1573 = DEAD;
 	}
 }
 var grid_1574 = DEAD;
@@ -23133,6 +24706,7 @@ function _1574() {
 	 else{ 
 		document.getElementById("1574").style.background = "#0f99e3";
 		custom[0][w_1574][h_1574] = DEAD;
+		grid_1574 = DEAD;
 	}
 }
 var grid_1575 = DEAD;
@@ -23147,6 +24721,7 @@ function _1575() {
 	 else{ 
 		document.getElementById("1575").style.background = "#0f99e3";
 		custom[0][w_1575][h_1575] = DEAD;
+		grid_1575 = DEAD;
 	}
 }
 var grid_1576 = DEAD;
@@ -23161,6 +24736,7 @@ function _1576() {
 	 else{ 
 		document.getElementById("1576").style.background = "#0f99e3";
 		custom[0][w_1576][h_1576] = DEAD;
+		grid_1576 = DEAD;
 	}
 }
 var grid_1577 = DEAD;
@@ -23175,6 +24751,7 @@ function _1577() {
 	 else{ 
 		document.getElementById("1577").style.background = "#0f99e3";
 		custom[0][w_1577][h_1577] = DEAD;
+		grid_1577 = DEAD;
 	}
 }
 var grid_1578 = DEAD;
@@ -23189,6 +24766,7 @@ function _1578() {
 	 else{ 
 		document.getElementById("1578").style.background = "#0f99e3";
 		custom[0][w_1578][h_1578] = DEAD;
+		grid_1578 = DEAD;
 	}
 }
 var grid_1579 = DEAD;
@@ -23203,6 +24781,7 @@ function _1579() {
 	 else{ 
 		document.getElementById("1579").style.background = "#0f99e3";
 		custom[0][w_1579][h_1579] = DEAD;
+		grid_1579 = DEAD;
 	}
 }
 var grid_1580 = DEAD;
@@ -23217,6 +24796,7 @@ function _1580() {
 	 else{ 
 		document.getElementById("1580").style.background = "#0f99e3";
 		custom[0][w_1580][h_1580] = DEAD;
+		grid_1580 = DEAD;
 	}
 }
 var grid_1581 = DEAD;
@@ -23231,6 +24811,7 @@ function _1581() {
 	 else{ 
 		document.getElementById("1581").style.background = "#0f99e3";
 		custom[0][w_1581][h_1581] = DEAD;
+		grid_1581 = DEAD;
 	}
 }
 var grid_1582 = DEAD;
@@ -23245,6 +24826,7 @@ function _1582() {
 	 else{ 
 		document.getElementById("1582").style.background = "#0f99e3";
 		custom[0][w_1582][h_1582] = DEAD;
+		grid_1582 = DEAD;
 	}
 }
 var grid_1583 = DEAD;
@@ -23259,6 +24841,7 @@ function _1583() {
 	 else{ 
 		document.getElementById("1583").style.background = "#0f99e3";
 		custom[0][w_1583][h_1583] = DEAD;
+		grid_1583 = DEAD;
 	}
 }
 var grid_1584 = DEAD;
@@ -23273,6 +24856,7 @@ function _1584() {
 	 else{ 
 		document.getElementById("1584").style.background = "#0f99e3";
 		custom[0][w_1584][h_1584] = DEAD;
+		grid_1584 = DEAD;
 	}
 }
 var grid_1585 = DEAD;
@@ -23287,6 +24871,7 @@ function _1585() {
 	 else{ 
 		document.getElementById("1585").style.background = "#0f99e3";
 		custom[0][w_1585][h_1585] = DEAD;
+		grid_1585 = DEAD;
 	}
 }
 var grid_1586 = DEAD;
@@ -23301,6 +24886,7 @@ function _1586() {
 	 else{ 
 		document.getElementById("1586").style.background = "#0f99e3";
 		custom[0][w_1586][h_1586] = DEAD;
+		grid_1586 = DEAD;
 	}
 }
 var grid_1587 = DEAD;
@@ -23315,6 +24901,7 @@ function _1587() {
 	 else{ 
 		document.getElementById("1587").style.background = "#0f99e3";
 		custom[0][w_1587][h_1587] = DEAD;
+		grid_1587 = DEAD;
 	}
 }
 var grid_1588 = DEAD;
@@ -23329,6 +24916,7 @@ function _1588() {
 	 else{ 
 		document.getElementById("1588").style.background = "#0f99e3";
 		custom[0][w_1588][h_1588] = DEAD;
+		grid_1588 = DEAD;
 	}
 }
 var grid_1589 = DEAD;
@@ -23343,6 +24931,7 @@ function _1589() {
 	 else{ 
 		document.getElementById("1589").style.background = "#0f99e3";
 		custom[0][w_1589][h_1589] = DEAD;
+		grid_1589 = DEAD;
 	}
 }
 var grid_1590 = DEAD;
@@ -23357,6 +24946,7 @@ function _1590() {
 	 else{ 
 		document.getElementById("1590").style.background = "#0f99e3";
 		custom[0][w_1590][h_1590] = DEAD;
+		grid_1590 = DEAD;
 	}
 }
 var grid_1591 = DEAD;
@@ -23371,6 +24961,7 @@ function _1591() {
 	 else{ 
 		document.getElementById("1591").style.background = "#0f99e3";
 		custom[0][w_1591][h_1591] = DEAD;
+		grid_1591 = DEAD;
 	}
 }
 var grid_1592 = DEAD;
@@ -23385,6 +24976,7 @@ function _1592() {
 	 else{ 
 		document.getElementById("1592").style.background = "#0f99e3";
 		custom[0][w_1592][h_1592] = DEAD;
+		grid_1592 = DEAD;
 	}
 }
 var grid_1593 = DEAD;
@@ -23399,6 +24991,7 @@ function _1593() {
 	 else{ 
 		document.getElementById("1593").style.background = "#0f99e3";
 		custom[0][w_1593][h_1593] = DEAD;
+		grid_1593 = DEAD;
 	}
 }
 var grid_1594 = DEAD;
@@ -23413,6 +25006,7 @@ function _1594() {
 	 else{ 
 		document.getElementById("1594").style.background = "#0f99e3";
 		custom[0][w_1594][h_1594] = DEAD;
+		grid_1594 = DEAD;
 	}
 }
 var grid_1595 = DEAD;
@@ -23427,6 +25021,7 @@ function _1595() {
 	 else{ 
 		document.getElementById("1595").style.background = "#0f99e3";
 		custom[0][w_1595][h_1595] = DEAD;
+		grid_1595 = DEAD;
 	}
 }
 var grid_1596 = DEAD;
@@ -23441,6 +25036,7 @@ function _1596() {
 	 else{ 
 		document.getElementById("1596").style.background = "#0f99e3";
 		custom[0][w_1596][h_1596] = DEAD;
+		grid_1596 = DEAD;
 	}
 }
 var grid_1597 = DEAD;
@@ -23455,6 +25051,7 @@ function _1597() {
 	 else{ 
 		document.getElementById("1597").style.background = "#0f99e3";
 		custom[0][w_1597][h_1597] = DEAD;
+		grid_1597 = DEAD;
 	}
 }
 var grid_1598 = DEAD;
@@ -23469,6 +25066,7 @@ function _1598() {
 	 else{ 
 		document.getElementById("1598").style.background = "#0f99e3";
 		custom[0][w_1598][h_1598] = DEAD;
+		grid_1598 = DEAD;
 	}
 }
 var grid_1599 = DEAD;
@@ -23483,6 +25081,7 @@ function _1599() {
 	 else{ 
 		document.getElementById("1599").style.background = "#0f99e3";
 		custom[0][w_1599][h_1599] = DEAD;
+		grid_1599 = DEAD;
 	}
 }
 var grid_1600 = DEAD;
@@ -23497,5 +25096,6 @@ function _1600() {
 	 else{ 
 		document.getElementById("1600").style.background = "#0f99e3";
 		custom[0][w_1600][h_1600] = DEAD;
+		grid_1600 = DEAD;
 	}
 }
