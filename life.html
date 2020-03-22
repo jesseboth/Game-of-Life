@@ -124,6 +124,26 @@
             height: 20px;
             background-color: darkred;
         }
+
+		#pausediv {
+			margin-top: 300px;
+		}
+
+		#pause {
+			width: 60px;
+			height: 20px;
+			background-color: lightpink;
+		}
+		#resumediv {
+			margin-top: 5px;
+		}
+
+		#resume {
+			font-size: 11px;
+			width: 60px;
+			height: 20px;
+			background-color: deepskyblue;
+		}
     </style>
     <script type="text/javascript" src="src/execute_life.js"></script>
 </head>
@@ -1763,13 +1783,19 @@
     <div id="resetdiv">
         <button id="reset" onclick="resetPressed(); reset_custom()">RESET</button>
     </div>
+	<div id="pausediv">
+		<button id="pause" onclick="pausePressed()">PAUSE</button>
+	</div>
+	<div id="resumediv">
+		<button id="resume" onclick="resumePressed()">RESUME</button>
+	</div>
 </div>
 <div id="instructions">
 <font color="white">Click on squares to create your own then click custom to execute it.</font>
 </div>
 <style>
 	#instructions {
-		margin-top: 350px;
+		margin-top: 10px;
 		margin-left: 30%;
 	}
 </style>
