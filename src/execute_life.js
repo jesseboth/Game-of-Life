@@ -99,11 +99,15 @@ var next = 0;
 
 var reset = false;
 var pause = false;
+var same = true
+
 
 iterations = 0;
 
 function life(grid) {
+    same = true;
     if (iterations === 0) {
+        same = false;
         var start = 1;
         for (var i = 0; i < height; i++) {
             for (var j = 0; j < width; j++) {
@@ -167,11 +171,15 @@ function life(grid) {
                     if (grid[cur][y][x] === LIVE) {
                         if (alive_count < min_neigh || alive_count > max_neigh) {
                             grid[next][y][x] = DEAD;
+                            same = false
+                           
                         } else {
                             grid[next][y][x] = grid[cur][y][x];
                         }
                     } else if (grid[cur][y][x] === DEAD && alive_count === rebirth_neigh) {
                         grid[next][y][x] = LIVE;
+                        same = false
+                       
 
                     } else {
                         grid[next][y][x] = grid[cur][y][x];
@@ -193,7 +201,8 @@ function life(grid) {
     setTimeout(function () {
         if (reset === true) {
             return "stopped"
-        } else if (pause === true) {
+        } else if (pause === true || same === true) {
+            pause = true;
             custom = blank();
             custom[0] = grid[next];
             return "paused"
@@ -337,7 +346,8 @@ function resumePressed() {
             life(custom);
         }, 200);
     }
-}function blank() {
+}
+function blank() {
     return [
         [
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
