@@ -219,6 +219,7 @@ function blinkerPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(blinker());
     }, 1000);
@@ -230,6 +231,7 @@ function gliderPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(glider());
     }, 1000);
@@ -241,6 +243,7 @@ function blockPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(block());
     }, 1000);
@@ -252,6 +255,7 @@ function gosperPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(gosper());
     }, 1000);
@@ -263,6 +267,7 @@ function beaconPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(beacon());
     }, 1000);
@@ -274,6 +279,7 @@ function pulsarPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(pulsar());
     }, 1000);
@@ -285,6 +291,7 @@ function shipPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(ship());
     }, 1000);
@@ -296,6 +303,7 @@ function reflectorPressed() {
         cur = 1;
         next = 0;
         reset = false;
+        pause = false;
         iterations = 0;
         life(reflector());
     }, 1000);
@@ -323,7 +331,7 @@ function customPressed() {
         cur = 1;
         next = 0;
         reset = false;
-    pause = false;
+        pause = false;
         iterations = 0;
         life(custom);
     }, 1000);
